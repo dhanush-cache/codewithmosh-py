@@ -10,7 +10,7 @@ tqdm = "*"
 beautifulsoup4 = "*"
 pyperclip = "*"
 yt-dlp = "*"
-seedrcc = "*"
+seedrcc = "1"
 argcomplete = "*"
 
 [dev-packages]
