@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+import argcomplete
 import argparse
 import json
 from importlib import import_module
@@ -69,12 +71,16 @@ def get_source(
 
 
 def main() -> None:
+    config_file = Path("data.json")
+    data = json.loads(config_file.read_text())
+    courses = data["configs"]
+
     parser = argparse.ArgumentParser(
         prog="Code With Mosh",
         description="Organizes courses from codewithmosh.com",
         epilog="Checkout https://codewithmosh.com",
     )
-    parser.add_argument("config", type=str, nargs="?", help="The configuration to use")
+    parser.add_argument("config", type=str, help="The configuration to use", choices=courses.keys())
     parser.add_argument(
         "-l",
         "--list-configs",
@@ -90,11 +96,8 @@ def main() -> None:
         action="store_true",
         help="Disable manual interactions",
     )
+    argcomplete.autocomplete(parser)
     args = parser.parse_args()
-
-    config_file = Path("data.json")
-    data = json.loads(config_file.read_text())
-    courses = data["configs"]
 
     if args.list_configs:
         list_configs(courses)
