@@ -1,6 +1,7 @@
 import re
 import subprocess
 from pathlib import Path
+from typing import List
 
 from pyperclip import copy  # type: ignore
 
@@ -66,3 +67,10 @@ def clean_path(path: Path) -> Path:
         path_str = path_str.replace(bad, replacement)
 
     return Path(re.sub(r"\s+", " ", path_str))
+
+
+def course_exists(target_list: List[Path]) -> bool:
+    for target in target_list:
+        if not target.exists():
+            return False
+    return True

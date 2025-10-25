@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import argcomplete
 import argparse
 import json
 from importlib import import_module
@@ -7,11 +6,13 @@ from importlib.util import find_spec
 from pathlib import Path
 from typing import Any, Dict, List
 
+import argcomplete
+
 from course import CourseSerializer
 from utils.archive import extract_non_videos, extract_videos, merge_zips
 from utils.configs import DOWNLOADS, HOME
 from utils.download import download_archive, download_magnet, gdrive_direct_download_url
-from utils.general import copy_to_clipboard
+from utils.general import copy_to_clipboard, course_exists
 
 
 def list_configs(courses: Dict[str, Any]) -> None:
@@ -80,7 +81,9 @@ def main() -> None:
         description="Organizes courses from codewithmosh.com",
         epilog="Checkout https://codewithmosh.com",
     )
-    parser.add_argument("config", type=str, help="The configuration to use", choices=courses.keys())
+    parser.add_argument(
+        "config", type=str, help="The configuration to use", choices=courses.keys()
+    )
     parser.add_argument(
         "-l",
         "--list-configs",
@@ -116,6 +119,9 @@ def main() -> None:
     course = CourseSerializer.get_course(slug)
     target = HOME / "Programming Videos"
     target_list = course.get_videos(target)
+    if course_exists(target_list):
+        print("Course already exists! Exiting...")
+        exit()
     extract_videos(source, target_list, ffmpeg=True, intro=intro, others=others)
     extract_non_videos(source, target / str(course))
 
