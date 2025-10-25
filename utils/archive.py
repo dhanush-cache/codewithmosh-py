@@ -47,8 +47,8 @@ def extract_videos(
                     video.write_bytes(archived_video.read())
                     timestamp = intro if target.name.startswith("01") else others
                     ffprocess(video, target, timestamp, subtitles)
-            else:
-                target.write_bytes(archived_video.read())
+                    continue
+            target.write_bytes(archived_video.read())
             if subtitles:
                 target.with_suffix(subtitles.suffix).write_bytes(subtitles.read_bytes())
 
