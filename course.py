@@ -1,9 +1,10 @@
 import json
 import os
+import string
 from abc import ABC, abstractmethod
 from pathlib import Path
-from typing import Any, Dict, Iterator
-import string
+from typing import Any, Dict, List
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -24,7 +25,7 @@ class CourseSerializer(ABC):
         get_course(slug: str) -> "Course | CourseBundle":
             Retrieves a Course or CourseBundle object based on the slug.
 
-        get_videos(root: Path, bundle: "CourseBundle | None" = None) -> Iterator[Path]:
+        get_videos(root: Path, bundle: "CourseBundle | None" = None) -> List[Path]:
             Abstract method to be implemented by subclasses to get video paths.
 
         get_token() -> str:
@@ -79,7 +80,7 @@ class CourseSerializer(ABC):
     @abstractmethod
     def get_videos(
         self, root: Path, bundle: "CourseBundle | None" = None
-    ) -> Iterator[Path]:
+    ) -> List[Path]:
         pass
 
     @staticmethod
@@ -196,17 +197,17 @@ class Section:
         self.__data = data
         self.name = self.__data.get("name")
 
-    def get_lessons(self) -> Iterator[Lesson]:
+    def get_lessons(self) -> List[Lesson]:
         """
-        Retrieves an iterator of Lesson objects from the course data.
+        Retrieves a list of Lesson objects from the course data.
 
         Returns:
-            Iterator[Lesson]: An iterator of Lesson objects, each representing a lesson in the course.
+            List[Lesson]: A list of Lesson objects, each representing a lesson in the course.
         """
-        return (
+        return [
             Lesson(index, lesson_data)
             for index, lesson_data in enumerate(self.__data.get("lessons", []), start=1)
-        )
+        ]
 
     def __str__(self):
         return f"{self.index:02} - {self.name}"
@@ -216,26 +217,26 @@ class Section:
 
 
 class Course(CourseSerializer):
-    def get_sections(self) -> Iterator[Section]:
+    def get_sections(self) -> List[Section]:
         """
         Retrieve the sections of the course.
 
-        This method generates an iterator of Section objects, each representing a section
+        This method generates a list of Section objects, each representing a section
         of the course curriculum. The sections are indexed starting from 1.
 
         Returns:
-            Iterator[Section]: An iterator of Section objects.
+            List[Section]: A list of Section objects.
         """
-        return (
+        return [
             Section(index, section_data)
             for index, section_data in enumerate(
                 self._data["course"]["curriculum"], start=1
             )
-        )
+        ]
 
     def get_videos(
         self, root: Path, bundle: "CourseBundle | None" = None
-    ) -> Iterator[Path]:
+    ) -> List[Path]:
         """
         Retrieve video file paths from the course sections and lessons.
 
@@ -244,14 +245,14 @@ class Course(CourseSerializer):
             bundle (CourseBundle | None, optional): An optional course bundle to filter the videos. Defaults to None.
 
         Returns:
-            Iterator[Path]: An iterator of Paths to the video files.
+            List[Path]: A list of Paths to the video files.
         """
-        return (
+        return [
             lesson.get_path(section, self, bundle, root)
             for section in self.get_sections()
             for lesson in section.get_lessons()
             if lesson.is_video
-        )
+        ]
 
     def __iter__(self):
         return iter(self.get_sections())
@@ -260,28 +261,28 @@ class Course(CourseSerializer):
 class CourseBundle(CourseSerializer):
     def __init__(self, slug: str):
         super().__init__(slug)
-        self.courses = list(self.get_courses())
+        self.courses = self.get_courses()
         self.common_part = self.get_common_part()
         self.course_dirnames = self.get_course_dirnames()
 
-    def get_courses(self) -> Iterator[Course]:
+    def get_courses(self) -> List[Course]:
         """
-        Fetches and returns an iterator of Course objects.
+        Fetches and returns a list of Course objects.
 
         This method constructs a URL using a token and retrieves a JSON response
-        containing course data. It then filters and returns an iterator of Course
+        containing course data. It then filters and returns a list of Course
         objects for courses that are part of the bundle contents.
 
         Returns:
-            Iterator[Course]: An iterator of Course objects.
+            List[Course]: A list of Course objects.
         """
         url = f"https://codewithmosh.com/_next/data/{self.get_token()}/courses.json"
         courses = self.get_json(url)
-        return (
+        return [
             Course(course["slug"])
             for course in courses["courses"]
             if course["id"] in self._data["course"]["bundleContents"]
-        )
+        ]
 
     def get_common_part(self) -> str:
         """
@@ -307,7 +308,7 @@ class CourseBundle(CourseSerializer):
 
     def get_videos(
         self, root: Path, bundle: "CourseBundle | None" = None
-    ) -> Iterator[Path]:
+    ) -> List[Path]:
         """
         Retrieve all video files from the courses.
 
@@ -316,7 +317,8 @@ class CourseBundle(CourseSerializer):
             bundle (CourseBundle | None, optional): The course bundle to which the videos belong. Defaults to None.
 
         Yields:
-            Iterator[Path]: An iterator over the paths of the video files.
+            List[Path]: A list over the paths of the video files.
         """
-        for course in self.courses:
-            yield from course.get_videos(root, self)
+        return [
+            video for course in self.courses for video in course.get_videos(root, self)
+        ]

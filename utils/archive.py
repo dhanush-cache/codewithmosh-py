@@ -2,7 +2,7 @@ import shutil
 import zipfile
 from pathlib import Path
 from tempfile import NamedTemporaryFile, TemporaryDirectory
-from typing import Callable, Iterator, Optional
+from typing import Callable, List, Optional
 from zipfile import BadZipFile, ZipFile
 
 from natsort import natsorted
@@ -16,7 +16,7 @@ from utils.general import clean_path
 
 def extract_videos(
     archive: Path,
-    target_list: Iterator[Path],
+    target_list: List[Path],
     ffmpeg: bool = False,
     intro: int = 0,
     others: int = 0,
@@ -25,7 +25,7 @@ def extract_videos(
     Extracts video files from a given archive and processes them.
     Args:
         archive (Path): The path to the archive file containing the videos.
-        target_list (Iterator[Path]): An iterator of target paths where the extracted videos will be saved.
+        target_list (List[Path]): A list of target paths where the extracted videos will be saved.
         ffmpeg (bool, optional): If True, use ffmpeg to process the videos. Defaults to False.
         intro (int, optional): Timestamp thumbnails of intro videos. Defaults to 0.
         others (int, optional): Timestamp for thumbnails of other videos. Defaults to 0.
