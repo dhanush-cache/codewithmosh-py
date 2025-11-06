@@ -6,3 +6,4 @@ HOME = Path("/sdcard") if ON_ANDROID else Path.home()
 TEMP = HOME / "tmp"
 TEMP.mkdir(parents=True, exist_ok=True)
 DOWNLOADS = next(HOME.glob("Download*"))
+CACHE = Path("cache")

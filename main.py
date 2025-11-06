@@ -82,7 +82,11 @@ def main() -> None:
         epilog="Checkout https://codewithmosh.com",
     )
     parser.add_argument(
-        "config", type=str, help="The configuration to use", choices=courses.keys()
+        "config",
+        type=str,
+        help="The configuration to use",
+        nargs="?",
+        choices=courses.keys(),
     )
     parser.add_argument(
         "-l",

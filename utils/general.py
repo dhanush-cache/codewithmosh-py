@@ -8,7 +8,7 @@ from typing import Any, Callable, List, Optional, ParamSpec, TypeVar, Union
 
 from pyperclip import copy  # type: ignore
 
-from utils.configs import ON_ANDROID
+from utils.configs import CACHE, ON_ANDROID
 
 
 def copy_to_clipboard(text: str, label: str = "Text", quiet: bool = False) -> None:
@@ -112,7 +112,9 @@ P = ParamSpec("P")
 R = TypeVar("R", bound=Any)
 
 
-def cached(filename_getter: Callable[P, str]) -> Callable[[Callable[P, R]], Callable[P, R]]:
+def cached(
+    filename_getter: Callable[P, str],
+) -> Callable[[Callable[P, R]], Callable[P, R]]:
     """
     Decorator that caches a function's JSON-serializable result
     under ./cache/<filename>.json using existing get_cache/set_cache.
@@ -124,10 +126,12 @@ def cached(filename_getter: Callable[P, str]) -> Callable[[Callable[P, R]], Call
     Returns:
         Callable: Decorated function that caches its result.
     """
+
     def decorator(func: Callable[P, R]) -> Callable[P, R]:
         @functools.wraps(func)
         def wrapper(*args: P.args, **kwargs: P.kwargs) -> R:
-            filename = os.path.join("cache", f"{filename_getter(*args, **kwargs)}.json")
+            CACHE.mkdir(parents=True, exist_ok=True)
+            filename = str(CACHE / f"{filename_getter(*args, **kwargs)}.json")
 
             data = get_cache(filename)
             if data is not None:
@@ -136,6 +140,7 @@ def cached(filename_getter: Callable[P, str]) -> Callable[[Callable[P, R]], Call
             data = func(*args, **kwargs)
             set_cache(filename, data)
             return data
-        return wrapper
-    return decorator
 
+        return wrapper
+
+    return decorator
