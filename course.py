@@ -1,14 +1,17 @@
+from __future__ import annotations
+
 import json
 import os
 import string
 from abc import ABC, abstractmethod
 from pathlib import Path
 from typing import Any, Dict, List
+from urllib.parse import urlparse
 
 import requests
 from bs4 import BeautifulSoup
 
-from utils.general import clean_path
+from utils.general import cached, clean_path
 
 
 class CourseSerializer(ABC):
@@ -84,6 +87,7 @@ class CourseSerializer(ABC):
         pass
 
     @staticmethod
+    @cached(lambda: "token")  # cache file will be ./cache/token.json
     def get_token() -> str:
         """
         Fetches a token from the specified URL.
@@ -119,6 +123,19 @@ class CourseSerializer(ABC):
         return self.get_json(url)
 
     @staticmethod
+    def __get_filename(url: str) -> str:
+        """
+        Extract the last component of the URL path (without extension).
+        Example: "https://abc.com/a/b/c.json" -> "c"
+        """
+        parsed = urlparse(url)
+        path: str = parsed.path
+        base: str = os.path.basename(path)
+        name, _ = os.path.splitext(base)
+        return name
+
+    @staticmethod
+    @cached(__get_filename)
     def get_json(url: str) -> Dict[Any, Any]:
         """
         Fetches JSON data from the given URL and returns the 'pageProps' content.
@@ -135,6 +152,7 @@ class CourseSerializer(ABC):
             KeyError: If 'pageProps' is not found in the JSON response.
         """
         response = requests.get(url)
+        response.raise_for_status()
         return json.loads(response.content)["pageProps"]
 
     def __str__(self) -> str:
