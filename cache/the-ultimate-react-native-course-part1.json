@@ -1,0 +1,904 @@
+{
+    "course": {
+        "id": 887220,
+        "name": "The Ultimate React Native Series: Fundamentals",
+        "slug": "the-ultimate-react-native-course-part1",
+        "heading": "Master the Fundamentals of Building Native Mobile Apps with React Native and Expo",
+        "promoVideoId": "byckmdfctr",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768466/promo-videos/react-native.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/plHUTvCTFqcwdXeXY8PZ_react+native+final+file.jpg",
+        "hours": 6,
+        "lessons": 100,
+        "categories": [
+            4
+        ],
+        "level": "Beginner",
+        "type": "single",
+        "price": 69,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-react-native-course-part1/lectures/16617365",
+        "parentBundleId": 959159,
+        "outcomes": [
+            "Build mobile apps with React Native with confidence",
+            "Use the essential tools for React Native development",
+            "Properly structure your React Native projects",
+            "Run and debug your React Native apps",
+            "Understand and troubleshoot common errors",
+            "Work with the core components and APIs",
+            "Build layouts with Flexbox",
+            "Build reusable components",
+            "Apply beautiful styles to your components",
+            "Get input from the user",
+            "Build forms with Formik",
+            "Implement data validation with Yup",
+            "Publish your apps to Expo",
+            "Apply React Native best practices",
+            "Write clean code like a pro",
+            "Use my favorite shortcuts to write code fast"
+        ],
+        "audience": [
+            "Developers who want to use their JavaScript skills to build mobile apps",
+            "Developers who want to add React Native to their resume to get a better job",
+            "Web developers who want to get into the mobile development industry",
+            "React Native developers who want to brush up on their skills and fill the gaps",
+            "Developers passionate about learning new technologies"
+        ],
+        "prerequisites": {
+            "courses": [
+                2037633
+            ],
+            "text": [
+                "To take this course, you don't need any familiar with React Native or iOS/Android development. However, you should have a good understanding of fundamental React concepts (components, JSX, props, state, etc) as well as modern JavaScript (arrow functions, modules, destructuring, spread operator, etc)."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "2m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617365",
+                        "preview": true
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "0m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16299620",
+                        "preview": true
+                    },
+                    {
+                        "name": "How to Use This Course",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16301729",
+                        "preview": true
+                    },
+                    {
+                        "name": "What is React Native",
+                        "duration": "1m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16299617",
+                        "preview": true
+                    },
+                    {
+                        "name": "Expo",
+                        "duration": "1m 46s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16299621",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up the Development Environment",
+                        "duration": "2m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16299611",
+                        "preview": true
+                    },
+                    {
+                        "name": "Your First App",
+                        "duration": "5m 21s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16299615",
+                        "preview": true
+                    },
+                    {
+                        "name": "Running on an iOS Simulator",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16299618",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running on an Android Emulator",
+                        "duration": "8m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16299609",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running on a Device",
+                        "duration": "1m 05s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16299619",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logging",
+                        "duration": "1m 21s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16299613",
+                        "preview": false
+                    },
+                    {
+                        "name": "Debugging in Chrome",
+                        "duration": "5m 11s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16299616",
+                        "preview": false
+                    },
+                    {
+                        "name": "Debugging in VSCode",
+                        "duration": "7m 11s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16299612",
+                        "preview": false
+                    },
+                    {
+                        "name": "Publishing",
+                        "duration": "4m 07s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16299614",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fixing the Auto Import Issue",
+                        "duration": "1m 42s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16761672",
+                        "preview": false
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16798163",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/25354578",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/34610233",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Fundamental Concepts",
+                "lessons": [
+                    {
+                        "name": "Core Components and APIs",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617393",
+                        "preview": false
+                    },
+                    {
+                        "name": "View",
+                        "duration": "2m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617398",
+                        "preview": false
+                    },
+                    {
+                        "name": "Text",
+                        "duration": "2m 42s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617397",
+                        "preview": false
+                    },
+                    {
+                        "name": "Image",
+                        "duration": "5m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617392",
+                        "preview": false
+                    },
+                    {
+                        "name": "Touchables",
+                        "duration": "4m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617394",
+                        "preview": false
+                    },
+                    {
+                        "name": "Button",
+                        "duration": "1m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617402",
+                        "preview": false
+                    },
+                    {
+                        "name": "Alert",
+                        "duration": "3m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617396",
+                        "preview": false
+                    },
+                    {
+                        "name": "StyleSheet",
+                        "duration": "4m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617395",
+                        "preview": false
+                    },
+                    {
+                        "name": "Platform-specific Code",
+                        "duration": "2m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617399",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Layout",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617477",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dimensions",
+                        "duration": "3m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617488",
+                        "preview": false
+                    },
+                    {
+                        "name": "Detecting Orientation Changes",
+                        "duration": "5m 17s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617489",
+                        "preview": false
+                    },
+                    {
+                        "name": "Flexbox",
+                        "duration": "3m 17s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617479",
+                        "preview": false
+                    },
+                    {
+                        "name": "Flexbox- Direction",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617478",
+                        "preview": false
+                    },
+                    {
+                        "name": "Flexbox- justifyContent, alignItems and alignSelf",
+                        "duration": "4m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617484",
+                        "preview": false
+                    },
+                    {
+                        "name": "Flexbox- flexWrap and alignContent",
+                        "duration": "2m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617480",
+                        "preview": false
+                    },
+                    {
+                        "name": "Flexbox- flexBasis, flexGrow and flexShrink",
+                        "duration": "2m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617486",
+                        "preview": false
+                    },
+                    {
+                        "name": "Absolute and Relative Positioning",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617482",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": "0m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617481",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Welcome Screen",
+                        "duration": "10m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617487",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the View Image Screen",
+                        "duration": "4m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617483",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617485",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16642544",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Styling",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 36s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617556",
+                        "preview": false
+                    },
+                    {
+                        "name": "Borders",
+                        "duration": "2m 21s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617552",
+                        "preview": false
+                    },
+                    {
+                        "name": "Shadows",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617551",
+                        "preview": false
+                    },
+                    {
+                        "name": "Paddings and Margins",
+                        "duration": "2m 31s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617562",
+                        "preview": false
+                    },
+                    {
+                        "name": "Styling Text",
+                        "duration": "4m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617563",
+                        "preview": false
+                    },
+                    {
+                        "name": "Encapsulating Styles",
+                        "duration": "4m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617561",
+                        "preview": false
+                    },
+                    {
+                        "name": "Icons",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617553",
+                        "preview": false
+                    },
+                    {
+                        "name": "Platform-specific Code",
+                        "duration": "4m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617555",
+                        "preview": false
+                    },
+                    {
+                        "name": "Organizing Styles",
+                        "duration": "3m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617560",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617584",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Button Component",
+                        "duration": "5m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617564",
+                        "preview": false
+                    },
+                    {
+                        "name": "Improving the Welcome Screen",
+                        "duration": "5m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617554",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Card Component",
+                        "duration": "9m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617550",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Listing Details Screen",
+                        "duration": "4m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617558",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the ListItem Component",
+                        "duration": "7m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617559",
+                        "preview": false
+                    },
+                    {
+                        "name": "Improving the View Image Screen",
+                        "duration": "2m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16617557",
+                        "preview": false
+                    },
+                    {
+                        "name": "UI Libraries",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687840",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Lists",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 25s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687901",
+                        "preview": false
+                    },
+                    {
+                        "name": "FlatList",
+                        "duration": "4m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687897",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting the Screen Component",
+                        "duration": "6m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687902",
+                        "preview": false
+                    },
+                    {
+                        "name": "Separators",
+                        "duration": "5m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687898",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Selections",
+                        "duration": "3m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687899",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Swipes",
+                        "duration": "6m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687906",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting an Item",
+                        "duration": "6m 31s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687900",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing Pull to Refresh",
+                        "duration": "3m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687895",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687941",
+                        "preview": false
+                    },
+                    {
+                        "name": "Planning the Account Screen",
+                        "duration": "1m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687963",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Icon Component",
+                        "duration": "4m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687903",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extending the ListItem Component",
+                        "duration": "4m 43s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687905",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Account Screen",
+                        "duration": "10m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687953",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Listings Screen",
+                        "duration": "5m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16687954",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Input Components",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762426",
+                        "preview": false
+                    },
+                    {
+                        "name": "TextInput",
+                        "duration": "5m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762421",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building a Pretty TextInput",
+                        "duration": "7m 11s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762423",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting the Default Styles",
+                        "duration": "3m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762425",
+                        "preview": false
+                    },
+                    {
+                        "name": "Switch",
+                        "duration": "1m 42s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762427",
+                        "preview": false
+                    },
+                    {
+                        "name": "Picker",
+                        "duration": "2m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762419",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building a Custom Picker",
+                        "duration": "3m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762422",
+                        "preview": false
+                    },
+                    {
+                        "name": "Modal",
+                        "duration": "4m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762428",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing Picker Items",
+                        "duration": "4m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762424",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Selections",
+                        "duration": "2m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762420",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762688",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Forms",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762481",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Login Form",
+                        "duration": "7m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762473",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building Better Forms with Formik",
+                        "duration": "5m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762478",
+                        "preview": false
+                    },
+                    {
+                        "name": "Form Validation with Yup",
+                        "duration": "4m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762471",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the ErrorMessage Component",
+                        "duration": "2m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762472",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Touched State",
+                        "duration": "3m 17s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762475",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Field Component",
+                        "duration": "6m 41s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762484",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the SubmitButton Component",
+                        "duration": "2m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762476",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Form Component",
+                        "duration": "3m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762474",
+                        "preview": false
+                    },
+                    {
+                        "name": "Organizing Components",
+                        "duration": "6m 11s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762480",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762489",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Listing Edit Screen",
+                        "duration": "5m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762479",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fixing the Placeholder Color",
+                        "duration": "2m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762477",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Additional Improvements",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762516",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Chevrons",
+                        "duration": "2m 27s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762521",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Long Text",
+                        "duration": "1m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762519",
+                        "preview": false
+                    },
+                    {
+                        "name": "Improving the Messages Screen",
+                        "duration": "2m 23s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762522",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fixing the Auto Import Issue",
+                        "duration": "1m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762517",
+                        "preview": false
+                    },
+                    {
+                        "name": "Input Components with Dynamic Width",
+                        "duration": "3m 00s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762524",
+                        "preview": false
+                    },
+                    {
+                        "name": "Flexible Architecture",
+                        "duration": "3m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762515",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the CategoryPickerItem Component",
+                        "duration": "8m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762523",
+                        "preview": false
+                    },
+                    {
+                        "name": "Revisiting Components' Names",
+                        "duration": "2m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16798853",
+                        "preview": false
+                    },
+                    {
+                        "name": "Custom Snippets",
+                        "duration": "4m 25s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762520",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762518",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Ultimate React Native: Part 2",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part1/lectures/16762604",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

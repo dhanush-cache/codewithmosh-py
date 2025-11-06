@@ -1,0 +1,1338 @@
+{
+    "course": {
+        "id": 525068,
+        "name": "Complete SQL Mastery",
+        "slug": "complete-sql-mastery",
+        "heading": "Everything you need to design and query databases—without the fluff.",
+        "promoVideoUrl": "https://cdn.codewithmosh.com/video/upload/v1726005579/promo-videos/sql.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/jbzxJKSR0m2K4y34NT8S_SQL+Course.jpg",
+        "hours": 11,
+        "lessons": 170,
+        "categories": [
+            2,
+            5
+        ],
+        "level": "Beginner to Pro",
+        "type": "single",
+        "price": 149,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/complete-sql-mastery/lectures/10143091",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/1057975/complete-sql-mastery",
+        "activeCouponCode": {
+            "1": "DEALTAJX",
+            "2": "DEALTB37",
+            "3": "DEALTC99",
+            "4": "DEALTDK4"
+        },
+        "coupons": [
+            {
+                "code": "YOUTUBE",
+                "discount": 0.9
+            },
+            {
+                "code": "MOSHBYTES",
+                "discount": 0.9
+            },
+            {
+                "code": "DEALTAJX",
+                "discount": 0.25,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            },
+            {
+                "code": "DEALTB37",
+                "discount": 0.5,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            },
+            {
+                "code": "DEALTC99",
+                "discount": 0.8,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            },
+            {
+                "code": "DEALTDK4",
+                "discount": 0.87,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            }
+        ],
+        "description": "SQL is one of the most valuable skills for software engineers, analysts, and data scientists—and this course is the fastest way to learn it. Whether you’re brand new or brushing up, this complete SQL course will help you learn SQL step-by-step, using practical exercises and real-world database challenges.\n\nWe’ll start with the fundamentals and build up to advanced topics like joins, subqueries, and performance optimization. You’ll write efficient SQL queries, manipulate data across multiple tables, and design well-structured relational databases.\n\nThis is a **hands-on SQL course**, packed with projects that help you filter, sort, aggregate, and join data with confidence. You’ll also learn the principles of database design, so your skills extend beyond writing queries—you’ll know how to create powerful, scalable databases.\n\nWhether you’re a beginner or looking to advance your career, this course will give you the foundation and experience to succeed.",
+        "outcomes": [
+            "Understand the fundamentals of relational databases and SQL",
+            "Master the SQL syntax and commonly used SQL commands",
+            "Query and retrieve data from single and multiple database tables",
+            "Use filtering, sorting, and aggregating techniques to manipulate data",
+            "Create and modify database tables, views, and indexes",
+            "Implement data integrity constraints and ensure data consistency",
+            "Perform advanced SQL operations, such as subqueries and joins",
+            "Write efficient and optimized SQL queries for improved performance",
+            "Design databases effectively, including database schema and normalization principles",
+            "Secure your databases"
+        ],
+        "audience": [
+            "Anyone who wants to learn to design and query relational databases",
+            "Computer science students who want to better understand SQL",
+            "Anyone pursuing a job in back-end development, database administration or data science",
+            "SQL developers who want to brush up on their SQL skills"
+        ],
+        "prerequisites": {
+            "courses": [],
+            "text": [
+                "The course covers everything you need to know in detail, so don’t worry if you’re a complete novice. You don’t even need to know what a database is!",
+                "For those with some development and database experience, you can jump in at the relevant module that fits your current level, as the course is designed sequentially."
+            ]
+        },
+        "cta": {
+            "heading": "Want a High-Paying Job? Master SQL.",
+            "description": "SQL is one of the most in-demand skills in tech, used by developers, data analysts, and engineers at companies like Google, Amazon, and Facebook. This structured, no-fluff course teaches you SQL the right way—fast. No wasted time, just real-world database skills to help you stand out. Start learning today and boost your career."
+        },
+        "seo": {
+            "title": "Learn SQL – A Complete SQL Course for Beginners & Professionals",
+            "description": "Learn SQL step-by-step with real-world examples and hands-on projects. This complete SQL course covers querying, joins, subqueries, and database design.",
+            "h1": "Learn SQL – Complete SQL Course from Beginner to Pro"
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 18s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10143091",
+                        "preview": false
+                    },
+                    {
+                        "name": "What is SQL",
+                        "duration": "3m 24s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590090",
+                        "preview": true
+                    },
+                    {
+                        "name": "Installing MySQL on Mac",
+                        "duration": "4m 58s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590091",
+                        "preview": true
+                    },
+                    {
+                        "name": "Installing MySQL on Windows",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590089",
+                        "preview": true
+                    },
+                    {
+                        "name": "Creating the Databases",
+                        "duration": "8m 32s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590092",
+                        "preview": true
+                    },
+                    {
+                        "name": "What You'll Learn",
+                        "duration": "2m 31s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10143042",
+                        "preview": true
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/complete-sql-mastery/lectures/25353475",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/complete-sql-mastery/lectures/34609491",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Retrieving Data From a Single Table",
+                "lessons": [
+                    {
+                        "name": "The SELECT Statement",
+                        "duration": "5m 50s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590114",
+                        "preview": false
+                    },
+                    {
+                        "name": "The SELECT Clause",
+                        "duration": "8m 48s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590110",
+                        "preview": true
+                    },
+                    {
+                        "name": "The WHERE Clause",
+                        "duration": "5m 17s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590107",
+                        "preview": true
+                    },
+                    {
+                        "name": "The AND, OR and NOT Operators",
+                        "duration": "6m 52s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590116",
+                        "preview": true
+                    },
+                    {
+                        "name": "The IN Operator",
+                        "duration": "3m 03s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590112",
+                        "preview": true
+                    },
+                    {
+                        "name": "The BETWEEN Operator",
+                        "duration": "2m 12s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590113",
+                        "preview": false
+                    },
+                    {
+                        "name": "The LIKE Operator",
+                        "duration": "5m 37s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590108",
+                        "preview": false
+                    },
+                    {
+                        "name": "The REGEXP Operator",
+                        "duration": "9m 21s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590111",
+                        "preview": false
+                    },
+                    {
+                        "name": "The IS NULL Operator",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590115",
+                        "preview": false
+                    },
+                    {
+                        "name": "The ORDER BY Clause",
+                        "duration": "7m 06s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590109",
+                        "preview": false
+                    },
+                    {
+                        "name": "The LIMIT Clause",
+                        "duration": "3m 26s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590117",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Retrieving Data From Multiple Tables",
+                "lessons": [
+                    {
+                        "name": "Inner Joins",
+                        "duration": "8m 26s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590157",
+                        "preview": false
+                    },
+                    {
+                        "name": "Joining Across Databases",
+                        "duration": "2m 47s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590159",
+                        "preview": false
+                    },
+                    {
+                        "name": "Self Joins",
+                        "duration": "4m 13s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590152",
+                        "preview": false
+                    },
+                    {
+                        "name": "Joining Multiple Tables",
+                        "duration": "6m 46s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590163",
+                        "preview": false
+                    },
+                    {
+                        "name": "Compound Join Conditions",
+                        "duration": "3m 41s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590161",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implicit Join Syntax",
+                        "duration": "2m 20s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590158",
+                        "preview": false
+                    },
+                    {
+                        "name": "Outer Joins",
+                        "duration": "6m 27s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590155",
+                        "preview": false
+                    },
+                    {
+                        "name": "Outer Join Between Multiple Tables",
+                        "duration": "6m 18s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590154",
+                        "preview": false
+                    },
+                    {
+                        "name": "Self Outer Joins",
+                        "duration": "2m 12s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590153",
+                        "preview": false
+                    },
+                    {
+                        "name": "The USING Clause",
+                        "duration": "5m 22s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590162",
+                        "preview": false
+                    },
+                    {
+                        "name": "Natural Joins",
+                        "duration": "1m 21s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590164",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cross Joins",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590160",
+                        "preview": false
+                    },
+                    {
+                        "name": "Unions",
+                        "duration": "8m 29s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590156",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/complete-sql-mastery/lectures/9591439",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Inserting, Updating, and Deleting Data",
+                "lessons": [
+                    {
+                        "name": "Column Attributes",
+                        "duration": "3m 24s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590180",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inserting a Row",
+                        "duration": "5m 46s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590183",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inserting Multiple Rows",
+                        "duration": "3m 18s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590182",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inserting Hierarchical Rows",
+                        "duration": "5m 53s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590188",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Copy of a Table",
+                        "duration": "8m 47s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590187",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating a Single Row",
+                        "duration": "3m 55s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590185",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Multiple Rows",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590179",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Subqueries in Updates",
+                        "duration": "5m 36s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590186",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting Rows",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590181",
+                        "preview": false
+                    },
+                    {
+                        "name": "Restoring the Databases",
+                        "duration": "1m 06s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590184",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Summarizing Data",
+                "lessons": [
+                    {
+                        "name": "Aggregate Functions",
+                        "duration": "9m 19s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590223",
+                        "preview": false
+                    },
+                    {
+                        "name": "The GROUP BY Clause",
+                        "duration": "7m 21s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590220",
+                        "preview": false
+                    },
+                    {
+                        "name": "The HAVING Clause",
+                        "duration": "8m 50s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590222",
+                        "preview": false
+                    },
+                    {
+                        "name": "The ROLLUP Operator",
+                        "duration": "5m 05s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590221",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Writing Complex Query",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 28s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590240",
+                        "preview": false
+                    },
+                    {
+                        "name": "Subqueries",
+                        "duration": "2m 29s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590237",
+                        "preview": false
+                    },
+                    {
+                        "name": "The IN Operator",
+                        "duration": "3m 39s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590235",
+                        "preview": false
+                    },
+                    {
+                        "name": "Subqueries vs Joins",
+                        "duration": "5m 07s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590241",
+                        "preview": false
+                    },
+                    {
+                        "name": "The ALL Keyword",
+                        "duration": "4m 52s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590248",
+                        "preview": false
+                    },
+                    {
+                        "name": "The ANY Keyword",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590246",
+                        "preview": false
+                    },
+                    {
+                        "name": "Correlated Subqueries",
+                        "duration": "5m 36s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590242",
+                        "preview": false
+                    },
+                    {
+                        "name": "The EXISTS Operator",
+                        "duration": "5m 39s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590236",
+                        "preview": false
+                    },
+                    {
+                        "name": "Subqueries in the SELECT Clause",
+                        "duration": "4m 29s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590238",
+                        "preview": false
+                    },
+                    {
+                        "name": "Subqueries in the FROM Clause",
+                        "duration": "2m 58s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590239",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Essential MySQL Functions",
+                "lessons": [
+                    {
+                        "name": "Numeric Functions",
+                        "duration": "2m 54s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590264",
+                        "preview": false
+                    },
+                    {
+                        "name": "String Functions",
+                        "duration": "5m 47s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590262",
+                        "preview": false
+                    },
+                    {
+                        "name": "Date Functions in MySQL",
+                        "duration": "4m 08s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590261",
+                        "preview": false
+                    },
+                    {
+                        "name": "Formatting Dates and Times",
+                        "duration": "2m 14s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590266",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calculating Dates and Times",
+                        "duration": "3m 08s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590267",
+                        "preview": false
+                    },
+                    {
+                        "name": "The IFNULL and COALESCE Functions",
+                        "duration": "3m 29s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590263",
+                        "preview": false
+                    },
+                    {
+                        "name": "The IF Function",
+                        "duration": "4m 54s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590265",
+                        "preview": false
+                    },
+                    {
+                        "name": "The CASE Operator",
+                        "duration": "5m 23s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590268",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Views",
+                "lessons": [
+                    {
+                        "name": "Creating Views",
+                        "duration": "5m 36s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590280",
+                        "preview": false
+                    },
+                    {
+                        "name": "Altering or Dropping Views",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590284",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updatable Views",
+                        "duration": "5m 12s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590281",
+                        "preview": false
+                    },
+                    {
+                        "name": "THE WITH OPTION CHECK Clause",
+                        "duration": "2m 18s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590283",
+                        "preview": false
+                    },
+                    {
+                        "name": "Other Benefits of Views",
+                        "duration": "2m 37s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590282",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Stored Procedures",
+                "lessons": [
+                    {
+                        "name": "What are Stored Procedures",
+                        "duration": "2m 18s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590329",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Stored Procedure",
+                        "duration": "5m 34s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590330",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Procedures Using MySQLWorkbench",
+                        "duration": "1m 21s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590333",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dropping Stored Procedures",
+                        "duration": "2m 09s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590331",
+                        "preview": false
+                    },
+                    {
+                        "name": "Parameters",
+                        "duration": "5m 26s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590334",
+                        "preview": false
+                    },
+                    {
+                        "name": "Parameters with Default Value",
+                        "duration": "8m 18s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590337",
+                        "preview": false
+                    },
+                    {
+                        "name": "Parameter Validation",
+                        "duration": "6m 40s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590335",
+                        "preview": false
+                    },
+                    {
+                        "name": "Output Parameters",
+                        "duration": "3m 55s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590338",
+                        "preview": false
+                    },
+                    {
+                        "name": "Variables",
+                        "duration": "4m 33s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590332",
+                        "preview": false
+                    },
+                    {
+                        "name": "Functions",
+                        "duration": "6m 28s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590340",
+                        "preview": false
+                    },
+                    {
+                        "name": "Other Conventions",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9590336",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Triggers and Events",
+                "lessons": [
+                    {
+                        "name": "Triggers",
+                        "duration": "7m 31s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9707196",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing Triggers",
+                        "duration": "1m 20s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9707200",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dropping Triggers",
+                        "duration": "0m 52s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9707201",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Triggers for Auditing",
+                        "duration": "4m 52s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9707199",
+                        "preview": false
+                    },
+                    {
+                        "name": "Events",
+                        "duration": "4m 33s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9707198",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing, Dropping and Altering Events",
+                        "duration": "2m 04s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9707197",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Transactions and Concurrency",
+                "lessons": [
+                    {
+                        "name": "Transactions",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9710684",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Transactions",
+                        "duration": "5m 11s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9710690",
+                        "preview": false
+                    },
+                    {
+                        "name": "Concurrency and Locking",
+                        "duration": "4m 07s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9710683",
+                        "preview": false
+                    },
+                    {
+                        "name": "Concurrency Problems",
+                        "duration": "7m 25s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9710689",
+                        "preview": false
+                    },
+                    {
+                        "name": "Transaction Isolation Levels",
+                        "duration": "5m 42s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9710687",
+                        "preview": false
+                    },
+                    {
+                        "name": "READ UNCOMMITTED Isolation Level",
+                        "duration": "3m 26s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9710688",
+                        "preview": false
+                    },
+                    {
+                        "name": "READ COMMITTED Isolation Level",
+                        "duration": "3m 01s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9710691",
+                        "preview": false
+                    },
+                    {
+                        "name": "REPEATABLE READ Isolation Level",
+                        "duration": "3m 29s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9710685",
+                        "preview": false
+                    },
+                    {
+                        "name": "SERIALIZABLE Isolation Level",
+                        "duration": "2m 18s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9710686",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deadlocks",
+                        "duration": "6m 11s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9710692",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Data Types",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 43s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9780497",
+                        "preview": false
+                    },
+                    {
+                        "name": "String Types",
+                        "duration": "2m 25s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9780500",
+                        "preview": false
+                    },
+                    {
+                        "name": "Integer Types",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9780492",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fixed-point and Floating-point Types",
+                        "duration": "1m 42s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9780494",
+                        "preview": false
+                    },
+                    {
+                        "name": "Boolean Types",
+                        "duration": "0m 46s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9780498",
+                        "preview": false
+                    },
+                    {
+                        "name": "Enum and Set Types",
+                        "duration": "3m 36s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9780499",
+                        "preview": false
+                    },
+                    {
+                        "name": "Date and Time Types",
+                        "duration": "0m 44s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9780495",
+                        "preview": false
+                    },
+                    {
+                        "name": "Blob Types",
+                        "duration": "1m 17s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9780496",
+                        "preview": false
+                    },
+                    {
+                        "name": "JSON Type",
+                        "duration": "10m 24s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9780493",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Designing Databases",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 25s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880339",
+                        "preview": false
+                    },
+                    {
+                        "name": "Data Modelling",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880355",
+                        "preview": false
+                    },
+                    {
+                        "name": "Conceptual Models",
+                        "duration": "4m 34s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880358",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logical Models",
+                        "duration": "7m 24s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880364",
+                        "preview": false
+                    },
+                    {
+                        "name": "Physical Models",
+                        "duration": "6m 27s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880361",
+                        "preview": false
+                    },
+                    {
+                        "name": "Primary Keys",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880352",
+                        "preview": false
+                    },
+                    {
+                        "name": "Foreign Keys",
+                        "duration": "5m 48s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880351",
+                        "preview": false
+                    },
+                    {
+                        "name": "Foreign Key Constraints",
+                        "duration": "5m 22s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880366",
+                        "preview": false
+                    },
+                    {
+                        "name": "Normalization",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880353",
+                        "preview": false
+                    },
+                    {
+                        "name": "1NF- First Normal Form",
+                        "duration": "2m 42s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880348",
+                        "preview": false
+                    },
+                    {
+                        "name": "Link Tables",
+                        "duration": "4m 01s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880360",
+                        "preview": false
+                    },
+                    {
+                        "name": "2NF- Second Normal Form",
+                        "duration": "6m 32s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880354",
+                        "preview": false
+                    },
+                    {
+                        "name": "3NF- Third Normal Form",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880342",
+                        "preview": false
+                    },
+                    {
+                        "name": "My Pragmatic Advice",
+                        "duration": "2m 55s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880345",
+                        "preview": false
+                    },
+                    {
+                        "name": "Don't Model the Universe",
+                        "duration": "4m 24s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880344",
+                        "preview": false
+                    },
+                    {
+                        "name": "Forward Engineering a Model",
+                        "duration": "2m 35s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880338",
+                        "preview": false
+                    },
+                    {
+                        "name": "Synchronizing a Model with a Database",
+                        "duration": "4m 48s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880350",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reverse Engineering a Database",
+                        "duration": "3m 11s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880356",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- Flight Booking System",
+                        "duration": "0m 23s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880362",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Conceptual Model",
+                        "duration": "7m 59s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880346",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Logical Model",
+                        "duration": "9m 03s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880363",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project - Video Rental Application",
+                        "duration": "1m 05s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880368",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Conceptual Model",
+                        "duration": "6m 59s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880340",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Logical Model",
+                        "duration": "8m 29s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880367",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating and Dropping Databases",
+                        "duration": "1m 41s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880347",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Tables",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880365",
+                        "preview": false
+                    },
+                    {
+                        "name": "Altering Tables",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880343",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Relationships",
+                        "duration": "4m 47s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880349",
+                        "preview": false
+                    },
+                    {
+                        "name": "Altering Primary and Foreign Key Constraints",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880357",
+                        "preview": false
+                    },
+                    {
+                        "name": "Character Sets and Collations",
+                        "duration": "6m 29s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880341",
+                        "preview": false
+                    },
+                    {
+                        "name": "Storage Engines",
+                        "duration": "2m 27s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/9880359",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/complete-sql-mastery/lectures/9880518",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Indexing for High Performance",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 41s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10096054",
+                        "preview": false
+                    },
+                    {
+                        "name": "Indexes",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10096055",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Indexes",
+                        "duration": "5m 00s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10096058",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing Indexes",
+                        "duration": "3m 19s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10096061",
+                        "preview": false
+                    },
+                    {
+                        "name": "Prefix Indexes",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10096056",
+                        "preview": false
+                    },
+                    {
+                        "name": "Full-text Indexes",
+                        "duration": "7m 50s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10096060",
+                        "preview": false
+                    },
+                    {
+                        "name": "Composite Indexes",
+                        "duration": "5m 12s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10096059",
+                        "preview": false
+                    },
+                    {
+                        "name": "Order of Columns in Composite Indexes",
+                        "duration": "9m 16s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10096051",
+                        "preview": false
+                    },
+                    {
+                        "name": "When Indexes are Ignored",
+                        "duration": "5m 03s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10096062",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Indexes for Sorting",
+                        "duration": "7m 02s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10096052",
+                        "preview": false
+                    },
+                    {
+                        "name": "Covering Indexese",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10096053",
+                        "preview": false
+                    },
+                    {
+                        "name": "Index Maintenance",
+                        "duration": "1m 25s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10096050",
+                        "preview": false
+                    },
+                    {
+                        "name": "Performance Best Practices",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/complete-sql-mastery/lectures/10096057",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Securing Databases",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 33s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10108074",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a User",
+                        "duration": "3m 12s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10108075",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing Users",
+                        "duration": "1m 29s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10108081",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dropping Users",
+                        "duration": "0m 48s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10108080",
+                        "preview": false
+                    },
+                    {
+                        "name": "Changing Passwords",
+                        "duration": "1m 06s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10108079",
+                        "preview": false
+                    },
+                    {
+                        "name": "Granting Privileges",
+                        "duration": "4m 53s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10108076",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing Privileges",
+                        "duration": "1m 34s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10108078",
+                        "preview": false
+                    },
+                    {
+                        "name": "Revoking Privileges",
+                        "duration": "1m 20s",
+                        "type": 1,
+                        "href": "/courses/complete-sql-mastery/lectures/10108077",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

@@ -1,0 +1,702 @@
+{
+    "course": {
+        "id": 1269823,
+        "name": "Ultimate HTML & CSS: Part 2",
+        "slug": "the-ultimate-html-css-part2",
+        "heading": "Master advanced HTML5 and CSS3 concepts behind fast, beautiful and mobile-friendly websites",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/VkiJl76XQ9t4CkWTrg37_FA_cc_codemosh_part2.jpg",
+        "hours": 5,
+        "lessons": 80,
+        "categories": [
+            1,
+            5
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 59,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-html-css-part2/lectures/28672711",
+        "parentBundleId": 1270682,
+        "outcomes": [
+            "Build layouts and position elements using flex and grid layout systems",
+            "Use media queries to create responsive web designs that adapt to different screen sizes",
+            "Work effectively with CSS measurement units (px, rem, em, vw, etc)",
+            "Techniques for optimizing images to improve website performance",
+            "Utilize SVG to create vector-based graphics that scale smoothly",
+            "Add visual pinch with transforms, transitions and animations",
+            "Build forms with data validation built-into HTML5",
+            "Create beautiful typography",
+            "Learn industry best practices for creating modern websites",
+            "Troubleshoot issues with confidence",
+            "Write clean, maintainable, object-oriented CSS3 code"
+        ],
+        "audience": [
+            "Anyone familiar with the basics of HTML/CSS who needs to master more complex topics",
+            "Anyone wanting to build fast, beautiful and responsive websites",
+            "Anyone preparing for a job interview"
+        ],
+        "prerequisites": {
+            "courses": [
+                1260591
+            ],
+            "text": [
+                "This course is the second part of my Ultimate HTML & CSS series. Ideally, you should have taken the first part or at least be familiar with basic HTML elements, CSS properties, selectors, pseudo-selectors and be able to use Chrome DevTools for web development."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672711",
+                        "preview": true
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "0m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672712",
+                        "preview": true
+                    },
+                    {
+                        "name": "How to Take this Course",
+                        "duration": "1m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672710",
+                        "preview": true
+                    },
+                    {
+                        "name": "Getting Help",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672717",
+                        "preview": true
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672720",
+                        "preview": true
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/34610260",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Layout",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672752",
+                        "preview": true
+                    },
+                    {
+                        "name": "The Box Model",
+                        "duration": "6m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672748",
+                        "preview": true
+                    },
+                    {
+                        "name": "Sizing Elements",
+                        "duration": "8m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672755",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overflowing",
+                        "duration": "3m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672756",
+                        "preview": false
+                    },
+                    {
+                        "name": "Measurement Units",
+                        "duration": "10m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672750",
+                        "preview": false
+                    },
+                    {
+                        "name": "Positioning",
+                        "duration": "9m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672749",
+                        "preview": false
+                    },
+                    {
+                        "name": "Floating Elements",
+                        "duration": "9m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672747",
+                        "preview": false
+                    },
+                    {
+                        "name": "FlexBox",
+                        "duration": "14m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672753",
+                        "preview": false
+                    },
+                    {
+                        "name": "Grid",
+                        "duration": "19m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672754",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hiding Elements",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672757",
+                        "preview": false
+                    },
+                    {
+                        "name": "Media Queries",
+                        "duration": "10m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672751",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672758",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672746",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Typography",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672893",
+                        "preview": false
+                    },
+                    {
+                        "name": "Styling Fonts",
+                        "duration": "7m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672896",
+                        "preview": false
+                    },
+                    {
+                        "name": "Embedding Web Fonts",
+                        "duration": "7m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672891",
+                        "preview": false
+                    },
+                    {
+                        "name": "Flash of Unstyled Text",
+                        "duration": "6m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672897",
+                        "preview": false
+                    },
+                    {
+                        "name": "Font Services",
+                        "duration": "8m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672894",
+                        "preview": false
+                    },
+                    {
+                        "name": "System Font Stack",
+                        "duration": "2m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672895",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sizing Fonts",
+                        "duration": "7m 23s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672888",
+                        "preview": false
+                    },
+                    {
+                        "name": "Vertical Spacing",
+                        "duration": "4m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672889",
+                        "preview": false
+                    },
+                    {
+                        "name": "Horizontal Spacing",
+                        "duration": "3m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672890",
+                        "preview": false
+                    },
+                    {
+                        "name": "Formatting Text",
+                        "duration": "6m 15s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672892",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672887",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672898",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/29711702",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Images",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672945",
+                        "preview": false
+                    },
+                    {
+                        "name": "Image Types and Formats",
+                        "duration": "3m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672942",
+                        "preview": false
+                    },
+                    {
+                        "name": "Content Images",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672943",
+                        "preview": false
+                    },
+                    {
+                        "name": "Background Images",
+                        "duration": "7m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672955",
+                        "preview": false
+                    },
+                    {
+                        "name": "CSS Sprites",
+                        "duration": "7m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672949",
+                        "preview": false
+                    },
+                    {
+                        "name": "Data URLs",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672954",
+                        "preview": false
+                    },
+                    {
+                        "name": "Clipping",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672940",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filters",
+                        "duration": "2m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672951",
+                        "preview": false
+                    },
+                    {
+                        "name": "Supporting High-density Screens",
+                        "duration": "8m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672948",
+                        "preview": false
+                    },
+                    {
+                        "name": "Resolution Switching",
+                        "duration": "7m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672947",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Modern Image Formats",
+                        "duration": "4m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672950",
+                        "preview": false
+                    },
+                    {
+                        "name": "Art Direction",
+                        "duration": "2m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672941",
+                        "preview": false
+                    },
+                    {
+                        "name": "Scalable Vector Graphics",
+                        "duration": "2m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672944",
+                        "preview": false
+                    },
+                    {
+                        "name": "Font Icons",
+                        "duration": "5m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672946",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672952",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672953",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Forms",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28672999",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Basic Form",
+                        "duration": "3m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673006",
+                        "preview": false
+                    },
+                    {
+                        "name": "Styling Forms",
+                        "duration": "8m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673001",
+                        "preview": false
+                    },
+                    {
+                        "name": "CSS Frameworks",
+                        "duration": "8m 46s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673005",
+                        "preview": false
+                    },
+                    {
+                        "name": "Text Fields",
+                        "duration": "5m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673015",
+                        "preview": false
+                    },
+                    {
+                        "name": "Data Lists",
+                        "duration": "4m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673003",
+                        "preview": false
+                    },
+                    {
+                        "name": "Drop-down Lists",
+                        "duration": "3m 07s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673012",
+                        "preview": false
+                    },
+                    {
+                        "name": "Check Boxes",
+                        "duration": "2m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673011",
+                        "preview": false
+                    },
+                    {
+                        "name": "Radio Buttons",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673004",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sliders",
+                        "duration": "0m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673013",
+                        "preview": false
+                    },
+                    {
+                        "name": "File Inputs",
+                        "duration": "1m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673002",
+                        "preview": false
+                    },
+                    {
+                        "name": "Grouping Related Fields",
+                        "duration": "1m 09s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673009",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hidden Fields",
+                        "duration": "1m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673008",
+                        "preview": false
+                    },
+                    {
+                        "name": "Data Validation",
+                        "duration": "3m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673007",
+                        "preview": false
+                    },
+                    {
+                        "name": "Submitting the Form",
+                        "duration": "5m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673014",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673010",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673000",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Transformations, Transitions, and Animations",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673134",
+                        "preview": false
+                    },
+                    {
+                        "name": "Transformations",
+                        "duration": "4m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673133",
+                        "preview": false
+                    },
+                    {
+                        "name": "3D Transformations",
+                        "duration": "5m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673139",
+                        "preview": false
+                    },
+                    {
+                        "name": "Transitions",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673137",
+                        "preview": false
+                    },
+                    {
+                        "name": "Animations",
+                        "duration": "5m 05s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673138",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reusable Animations",
+                        "duration": "2m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673132",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673135",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673136",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Writing Clean, Maintainable CSS",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673210",
+                        "preview": false
+                    },
+                    {
+                        "name": "CSS Best Practices",
+                        "duration": "9m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673212",
+                        "preview": false
+                    },
+                    {
+                        "name": "Variables",
+                        "duration": "2m 17s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673214",
+                        "preview": false
+                    },
+                    {
+                        "name": "Object-oriented CSS",
+                        "duration": "5m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673211",
+                        "preview": false
+                    },
+                    {
+                        "name": "BEM",
+                        "duration": "4m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673213",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673209",
+                        "preview": false
+                    },
+                    {
+                        "name": "What's Next",
+                        "duration": "0m 30s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/28673215",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part2/lectures/29711707",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

@@ -1,0 +1,725 @@
+{
+    "course": {
+        "id": 1422300,
+        "name": "Ultimate Django: Part 1",
+        "slug": "the-ultimate-django-part1",
+        "heading": "Master the fundamentals of Web development with Python and Django",
+        "isPublished": true,
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768296/promo-videos/dj.mp4",
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/VLpeAAzNSoaPkqAr3UgY_Django+Banner+2021+Final+1+%28750px+x+422px%29.jpg",
+        "hours": 5,
+        "lessons": 100,
+        "categories": [
+            2
+        ],
+        "level": "Beginner",
+        "type": "single",
+        "price": 59,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-django-part1/lectures/32679735",
+        "parentBundleId": 1607597,
+        "outcomes": [
+            "Understand the fundamentals of Django and its role in web development",
+            "Understand the inner workings of Django",
+            "Troubleshoot issues like a pro",
+            "Implement Django models to define and interact with database structures",
+            "Create generic relationships using Content Types Framework",
+            "Set up and use MySQL in your Django projects",
+            "Create database tables using Django Migrations",
+            "Populate your database dummy data",
+            "Retrieve and store data using Django ORM",
+            "Manage your application data using Django Admin",
+            "Apply industry best practices"
+        ],
+        "audience": [
+            "Python developers who want to dive into Web development",
+            "Anyone familiar with Django who needs a refresher course to fill in the gaps",
+            "Front-end developers who want to become full-stack developers"
+        ],
+        "prerequisites": {
+            "courses": [
+                417695
+            ],
+            "text": [
+                "To take this course, you need basic familiarity with Python and relational databases. No prior knowledge of Django is required. This course covers everything you need to know to go from zero to hero."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32679735",
+                        "preview": true
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "0m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32679734",
+                        "preview": true
+                    },
+                    {
+                        "name": "How to Take this Course",
+                        "duration": "1m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32679733",
+                        "preview": true
+                    },
+                    {
+                        "name": "Supplementary Materials",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33235377",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Help",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33235360",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33235366",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33235363",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Django Fundamentals",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32680072",
+                        "preview": true
+                    },
+                    {
+                        "name": "What is Django",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32680070",
+                        "preview": true
+                    },
+                    {
+                        "name": "How the Web Works",
+                        "duration": "4m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32680065",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up the Development Environment",
+                        "duration": "2m 00s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32680082",
+                        "preview": true
+                    },
+                    {
+                        "name": "Creating Your First Django Project",
+                        "duration": "6m 11s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32680077",
+                        "preview": true
+                    },
+                    {
+                        "name": "Using the Integrated Terminal in VSCode",
+                        "duration": "2m 43s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32680066",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Your First App",
+                        "duration": "3m 30s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32680075",
+                        "preview": false
+                    },
+                    {
+                        "name": "Writing Views",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32680084",
+                        "preview": false
+                    },
+                    {
+                        "name": "Mapping URLs to Views",
+                        "duration": "4m 43s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32680069",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Templates",
+                        "duration": "4m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32680067",
+                        "preview": false
+                    },
+                    {
+                        "name": "Debugging Django Applications in VSCode",
+                        "duration": "7m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/32680071",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Django Debug Toolbar",
+                        "duration": "4m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33213711",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Building a Data Model",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 42s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33213976",
+                        "preview": false
+                    },
+                    {
+                        "name": "Introduction to Data Modeling",
+                        "duration": "2m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33213970",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building an E-commerce Data Model",
+                        "duration": "4m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33213975",
+                        "preview": false
+                    },
+                    {
+                        "name": "Organizing Models in Apps",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33213969",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Models",
+                        "duration": "6m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33213971",
+                        "preview": false
+                    },
+                    {
+                        "name": "Choice Fields",
+                        "duration": "4m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33213973",
+                        "preview": false
+                    },
+                    {
+                        "name": "Defining One-to-one Relationships",
+                        "duration": "3m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33213977",
+                        "preview": false
+                    },
+                    {
+                        "name": "Defining a One-to-many Relationship",
+                        "duration": "4m 09s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33213979",
+                        "preview": false
+                    },
+                    {
+                        "name": "Defining Many-to-many Relationships",
+                        "duration": "2m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33213972",
+                        "preview": false
+                    },
+                    {
+                        "name": "Resolving Circular Relationships",
+                        "duration": "3m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33213978",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generic Relationships",
+                        "duration": "6m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33213974",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Setting Up the Database",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214091",
+                        "preview": false
+                    },
+                    {
+                        "name": "Supported Database Engines",
+                        "duration": "1m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214088",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Migrations",
+                        "duration": "8m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214086",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running Migrations",
+                        "duration": "5m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214083",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing Database Schema",
+                        "duration": "3m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214087",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reverting Migrations",
+                        "duration": "4m 04s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214085",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing MySQL",
+                        "duration": "2m 09s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214089",
+                        "preview": false
+                    },
+                    {
+                        "name": "Connecting to MySQL",
+                        "duration": "3m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214081",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using MySQL in Django",
+                        "duration": "4m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214084",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running Custom SQL",
+                        "duration": "2m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214082",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generating Dummy Data",
+                        "duration": "3m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214090",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Django ORM",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214196",
+                        "preview": false
+                    },
+                    {
+                        "name": "Django ORM",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214203",
+                        "preview": false
+                    },
+                    {
+                        "name": "Resetting the Database",
+                        "duration": "4m 00s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214202",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managers and QuerySets",
+                        "duration": "5m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214205",
+                        "preview": false
+                    },
+                    {
+                        "name": "Retrieving Objects",
+                        "duration": "5m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214197",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering Objects",
+                        "duration": "5m 41s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214207",
+                        "preview": false
+                    },
+                    {
+                        "name": "Complex Lookups Using Q Objects",
+                        "duration": "3m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214217",
+                        "preview": false
+                    },
+                    {
+                        "name": "Referencing Fields using F Objects",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214198",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting",
+                        "duration": "3m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214201",
+                        "preview": false
+                    },
+                    {
+                        "name": "Limiting Results",
+                        "duration": "1m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214208",
+                        "preview": false
+                    },
+                    {
+                        "name": "Selecting Fields to Query",
+                        "duration": "6m 04s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214209",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deferring Fields",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214216",
+                        "preview": false
+                    },
+                    {
+                        "name": "Selecting Related Objects",
+                        "duration": "9m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214213",
+                        "preview": false
+                    },
+                    {
+                        "name": "Aggregating Objects",
+                        "duration": "3m 21s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214199",
+                        "preview": false
+                    },
+                    {
+                        "name": "Annotating Objects",
+                        "duration": "3m 36s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214206",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calling Database Functions",
+                        "duration": "3m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214215",
+                        "preview": false
+                    },
+                    {
+                        "name": "Grouping Data",
+                        "duration": "2m 46s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214211",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Expression Wrappers",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214195",
+                        "preview": false
+                    },
+                    {
+                        "name": "Querying Generic Relationships",
+                        "duration": "6m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214194",
+                        "preview": false
+                    },
+                    {
+                        "name": "Custom Managers",
+                        "duration": "2m 25s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214204",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding QuerySet Cache",
+                        "duration": "2m 07s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214214",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Objects",
+                        "duration": "4m 28s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214210",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Objects",
+                        "duration": "4m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214200",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting Objects",
+                        "duration": "0m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214193",
+                        "preview": false
+                    },
+                    {
+                        "name": "Transactions",
+                        "duration": "3m 31s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214212",
+                        "preview": false
+                    },
+                    {
+                        "name": "Executing Raw SQL Queries",
+                        "duration": "4m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214192",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "The Admin Site",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33236936",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up the Admin Site",
+                        "duration": "4m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214330",
+                        "preview": false
+                    },
+                    {
+                        "name": "Registering Models",
+                        "duration": "3m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214326",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing the List Page",
+                        "duration": "4m 07s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214331",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Computed Columns",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214333",
+                        "preview": false
+                    },
+                    {
+                        "name": "Selecting Related Objects",
+                        "duration": "3m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214328",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overriding the Base QuerySet",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214332",
+                        "preview": false
+                    },
+                    {
+                        "name": "Providing Links to Other Pages",
+                        "duration": "5m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214329",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Search to the List Page",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33214327",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Filtering to the List Page",
+                        "duration": "4m 23s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33236972",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Custom Actions",
+                        "duration": "3m 27s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33236971",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing Forms",
+                        "duration": "5m 43s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33236974",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Data Validation",
+                        "duration": "3m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33236973",
+                        "preview": false
+                    },
+                    {
+                        "name": "Editing Children Using Inlines",
+                        "duration": "2m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33236935",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Generic Relations",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33236934",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extending Pluggable Apps",
+                        "duration": "4m 43s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33237685",
+                        "preview": false
+                    },
+                    {
+                        "name": "What's Next",
+                        "duration": "0m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33244201",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Ultimate Django- Part 2",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part1/lectures/33237691",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

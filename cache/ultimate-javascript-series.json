@@ -1,0 +1,111 @@
+{
+    "course": {
+        "id": 1896395,
+        "name": "The Ultimate JavaScript Series",
+        "slug": "ultimate-javascript-series",
+        "heading": "Master JavaScript: Go from Novice to Professional. Everything you need to code in JavaScript in one bundle!",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/3OoqczJ8SVGiG7gpgDtk_js.png",
+        "hours": 10,
+        "lessons": 160,
+        "categories": [
+            1,
+            5
+        ],
+        "bundleContents": [
+            324741,
+            310571
+        ],
+        "level": "Beginner to Pro",
+        "type": "bundle",
+        "price": 69,
+        "turnOffSale": false,
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5082224/ultimate-javascript-series-1",
+        "coupons": [
+            {
+                "code": "YOUTUBE",
+                "discount": 0.75
+            },
+            {
+                "code": "LEARNJS",
+                "discount": 0.8
+            }
+        ],
+        "description": "The Ultimate JavaScript Series is your complete guide to mastering JavaScript, whether you're just starting out or ready to level up your skills. This course takes you from novice to professional, covering everything you need to know to write clean, efficient, and maintainable JavaScript. If you're looking for a career in web development, this is your starting point.\n\nYou’ll begin by learning the fundamentals of programming in JavaScript—working with conditional statements, loops, and functions to build modular and reusable code. As you progress, we’ll dive into advanced concepts like hoisting, closures, and prototypal inheritance, and you’ll get hands-on with modern JavaScript features such as arrow functions, template literals, and destructuring.\n\nWe’ll also cover essential tools and techniques for organizing your code, like using modules and bundlers such as Webpack. Throughout the course, you’ll apply best practices to write clean, professional-quality code and gain the confidence to work like a pro JavaScript developer.\n\nWhether you're building apps for the web or looking to strengthen your core JavaScript knowledge, this course is **clear, concise, comprehensive, well-organized, and highly practical**—everything you need to become a proficient JavaScript developer.",
+        "outcomes": [
+            "Master the fundamentals of JavaScript programming",
+            "Troubleshoot and fix common JavaScript errors",
+            "Explore advanced JavaScript concepts such as prototypes and object-oriented programming (OOP)",
+            "Stay up-to-date with the latest JavaScript features and ECMAScript standards",
+            "Apply industry best practices for efficient coding",
+            "Get ready to learn web/mobile development with JavaScript frameworks"
+        ],
+        "audience": [
+            "Anyone pursuing a career in web or mobile development",
+            "JavaScript developers who want to brush up on their JavaScript skills"
+        ],
+        "prerequisites": {
+            "courses": [
+                1270682
+            ],
+            "text": [
+                "You don't need familiarity with JavaScript to take this course. You'll learn everything from scratch, step-by-step. A very basic familiarity with HTML will be helpful but it is not required."
+            ]
+        },
+        "cta": {
+            "heading": "JavaScript Developers Are in High Demand",
+            "description": "JavaScript is the foundation of modern web development, used by top companies like Google, Facebook, and Airbnb. This structured, hands-on course teaches you JavaScript step by step, helping you write clean, efficient code and build real-world applications. Start learning today and future-proof your skills."
+        },
+        "curriculum": []
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

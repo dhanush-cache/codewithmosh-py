@@ -1,0 +1,634 @@
+{
+    "course": {
+        "id": 1886156,
+        "name": "Ultimate C++ Part 3: Advanced",
+        "slug": "ultimate-c-plus-plus-part3",
+        "heading": "Master object-oriented programming with C++. Learn all about classes, inheritance, exceptions, templates and more.",
+        "promoVideoId": "ic0p3ap1eg",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769158/promo-videos/cpp-part3.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/6LcGQ4PRMWURW76Qdxpr_C%2B%2B+Part+3.jpg",
+        "hours": 4,
+        "lessons": 80,
+        "categories": [
+            5
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 49,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-c-plus-plus-part3/lectures/42803657",
+        "parentBundleId": 1860251,
+        "outcomes": [
+            "Grasp the principles of Object-Oriented Programming (OOP)",
+            "Advanced techniques for class inheritance, including virtual functions and abstract classes",
+            "The concept of polymorphism and how to leverage it to write flexible and extensible code",
+            "Exception handling mechanisms in C++ and how to write robust and fault-tolerant code",
+            "Utilizing templates to create generic classes and functions for enhanced code reusability",
+            "Operator overloading and how to utilize it to redefine operators for user-defined types"
+        ],
+        "audience": [
+            "Programmers who want to take their C++ skills to the next level",
+            "Developers who want to learn object-oriented programming concepts in C++",
+            "Anyone interested in building large-scale C++ applications",
+            "Those looking to improve their understanding of C++ libraries and frameworks",
+            "Programmers seeking to build efficient and scalable code in C++",
+            "Anyone who wants to pursue a career in game development or graphics programming"
+        ],
+        "prerequisites": {
+            "courses": [
+                1857029,
+                1857235
+            ],
+            "text": [
+                "This course is the third part of a series. So, you should have watched the first two parts or have a thorough understanding of the concepts covered there. You should be able to write basic C++ programs and know all about functions, arrays, pointers, and strings."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "0m 49s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803657",
+                        "preview": true
+                    },
+                    {
+                        "name": "Using a Modern C++ Compiler",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803677",
+                        "preview": true
+                    },
+                    {
+                        "name": "Getting Help",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42795873",
+                        "preview": true
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42795874",
+                        "preview": true
+                    }
+                ]
+            },
+            {
+                "name": "Classes",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 58s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803710",
+                        "preview": true
+                    },
+                    {
+                        "name": "An Introduction to Object-oriented Programming",
+                        "duration": "4m 44s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803715",
+                        "preview": true
+                    },
+                    {
+                        "name": "Defining a Class",
+                        "duration": "5m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803707",
+                        "preview": true
+                    },
+                    {
+                        "name": "Creating Objects",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803720",
+                        "preview": true
+                    },
+                    {
+                        "name": "Access Modifiers",
+                        "duration": "2m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803716",
+                        "preview": true
+                    },
+                    {
+                        "name": "Getters and Setters",
+                        "duration": "8m 45s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803713",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructors",
+                        "duration": "3m 57s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803714",
+                        "preview": false
+                    },
+                    {
+                        "name": "Member Initializer List",
+                        "duration": "2m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803722",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Default Constructor",
+                        "duration": "2m 34s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803711",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using the Explicit Keyword",
+                        "duration": "4m 06s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803708",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructor Delegation",
+                        "duration": "4m 02s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803718",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Copy Constructor",
+                        "duration": "5m 09s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803709",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Destructor",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803721",
+                        "preview": false
+                    },
+                    {
+                        "name": "Static Members",
+                        "duration": "4m 26s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803712",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constant Objects and Functions",
+                        "duration": "4m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803706",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pointer to Objects",
+                        "duration": "7m 39s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803717",
+                        "preview": false
+                    },
+                    {
+                        "name": "Array of Objects",
+                        "duration": "3m 19s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803719",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803724",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Operator Overloading",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 36s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803882",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading the Equality Operator",
+                        "duration": "9m 20s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803877",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading the Comparison Operators",
+                        "duration": "2m 21s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803876",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading the Spaceship Operator",
+                        "duration": "5m 09s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803889",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading the Stream Insertion Operator",
+                        "duration": "6m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803880",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading the Stream Extraction Operator",
+                        "duration": "1m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803878",
+                        "preview": false
+                    },
+                    {
+                        "name": "Friends of Classes",
+                        "duration": "1m 30s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803887",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading the Arithmetic Operators",
+                        "duration": "2m 39s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803885",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading Compound Assignment Operators",
+                        "duration": "2m 07s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803886",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading the Assignment Operator",
+                        "duration": "5m 12s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803879",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading Unary Operators",
+                        "duration": "5m 15s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803884",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading the Subscript Operator",
+                        "duration": "6m 05s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803888",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading the Indirection Operator",
+                        "duration": "2m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803883",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading Type Conversions",
+                        "duration": "1m 53s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803890",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inline Functions",
+                        "duration": "3m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42803881",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804147",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Inheritance and Polymorphism",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804024",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inheritance",
+                        "duration": "6m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804026",
+                        "preview": false
+                    },
+                    {
+                        "name": "Protected Members",
+                        "duration": "1m 53s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804028",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructors and Inheritance",
+                        "duration": "6m 04s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804034",
+                        "preview": false
+                    },
+                    {
+                        "name": "Destructors and Inheritance",
+                        "duration": "2m 39s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804021",
+                        "preview": false
+                    },
+                    {
+                        "name": "Conversion between Base and Derived Classes",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804025",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overriding Methods",
+                        "duration": "4m 58s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804032",
+                        "preview": false
+                    },
+                    {
+                        "name": "Polymorphism",
+                        "duration": "3m 02s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804030",
+                        "preview": false
+                    },
+                    {
+                        "name": "Polymorphic Collections",
+                        "duration": "3m 41s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804029",
+                        "preview": false
+                    },
+                    {
+                        "name": "Virtual Destructors",
+                        "duration": "2m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804022",
+                        "preview": false
+                    },
+                    {
+                        "name": "Abstract Classes",
+                        "duration": "2m 59s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804023",
+                        "preview": false
+                    },
+                    {
+                        "name": "Final Classes and Methods",
+                        "duration": "1m 53s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804033",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deep Inheritance Hierarchies",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804027",
+                        "preview": false
+                    },
+                    {
+                        "name": "Multiple Inheritance",
+                        "duration": "6m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804031",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804137",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Exceptions",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804132",
+                        "preview": false
+                    },
+                    {
+                        "name": "What are Exceptions",
+                        "duration": "2m 11s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804126",
+                        "preview": false
+                    },
+                    {
+                        "name": "Throwing an Exception",
+                        "duration": "2m 04s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804130",
+                        "preview": false
+                    },
+                    {
+                        "name": "Catching an Exception",
+                        "duration": "5m 16s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804129",
+                        "preview": false
+                    },
+                    {
+                        "name": "Catching Multiple Exceptions",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804127",
+                        "preview": false
+                    },
+                    {
+                        "name": "Where to Catch Exceptions",
+                        "duration": "3m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804128",
+                        "preview": false
+                    },
+                    {
+                        "name": "Rethrowing an Exception",
+                        "duration": "1m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804133",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Custom Exceptions",
+                        "duration": "4m 04s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804131",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804171",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Templates",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 29s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804208",
+                        "preview": false
+                    },
+                    {
+                        "name": "Defining a Function Template",
+                        "duration": "3m 57s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804212",
+                        "preview": false
+                    },
+                    {
+                        "name": "Explicit Type Arguments",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804211",
+                        "preview": false
+                    },
+                    {
+                        "name": "Templates with Multiple Parameters",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804207",
+                        "preview": false
+                    },
+                    {
+                        "name": "Defining a Class Template",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804210",
+                        "preview": false
+                    },
+                    {
+                        "name": "A More Complex Class Template",
+                        "duration": "4m 58s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804213",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804254",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804277",
+                        "preview": false
+                    },
+                    {
+                        "name": "What's Next",
+                        "duration": "1m 40s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/42804209",
+                        "preview": false
+                    },
+                    {
+                        "name": "Feedback",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part3/lectures/43023564",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

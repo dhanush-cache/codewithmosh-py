@@ -1,0 +1,893 @@
+{
+    "course": {
+        "id": 324741,
+        "name": "Ultimate JavaScript Part 1: Fundamentals",
+        "slug": "javascript-basics-for-beginners",
+        "heading": "Master the fundamentals of programming in JavaScript.",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/3OoqczJ8SVGiG7gpgDtk_js.png",
+        "hours": 6,
+        "lessons": 100,
+        "categories": [
+            1,
+            5
+        ],
+        "level": "Beginner",
+        "type": "single",
+        "price": 59,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/javascript-basics-for-beginners/lectures/5088148",
+        "parentBundleId": 1896395,
+        "outcomes": [
+            "Understand the fundamentals of programming in JavaScript",
+            "Utilize conditional statements and loops to implement basic algorithms",
+            "Implement functions for writing modular, and reusable code",
+            "Implement error handling techniques",
+            "Apply best practices for writing clean, readable, and maintainable JavaScript code"
+        ],
+        "audience": [
+            "Anyone pursuing a career in web or mobile development",
+            "Front-end or back-end developers who use popular JavaScript libraries or frameworks who need a better understanding of the fundamentals",
+            "Anyone wanting to gain a deep understanding of JavaScript",
+            "Back-end developers who want to transition to full-stack development"
+        ],
+        "prerequisites": {
+            "courses": [
+                1260591
+            ],
+            "text": [
+                "You don't need familiarity with JavaScript to take this course. You'll learn everything from scratch, step-by-step. A very basic familiarity with HTML will be helpful but it is not required."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "0m 28s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088148",
+                        "preview": true
+                    },
+                    {
+                        "name": "What is JavaScript",
+                        "duration": "4m 40s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087880",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up the Development Environment",
+                        "duration": "3m 09s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087883",
+                        "preview": true
+                    },
+                    {
+                        "name": "JavaScript in Browsers",
+                        "duration": "3m 47s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087881",
+                        "preview": true
+                    },
+                    {
+                        "name": "Separation of Concerns",
+                        "duration": "2m 04s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087882",
+                        "preview": true
+                    },
+                    {
+                        "name": "JavaScript in Node",
+                        "duration": "1m 50s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087884",
+                        "preview": true
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5391467",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/25353550",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/34610018",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Basics",
+                "lessons": [
+                    {
+                        "name": "Variables",
+                        "duration": "5m 36s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087894",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constants",
+                        "duration": "1m 44s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087895",
+                        "preview": false
+                    },
+                    {
+                        "name": "Primitive Types",
+                        "duration": "3m 10s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087909",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dynamic Typing",
+                        "duration": "3m 17s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087908",
+                        "preview": false
+                    },
+                    {
+                        "name": "Objects",
+                        "duration": "5m 14s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087912",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arrays",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087911",
+                        "preview": false
+                    },
+                    {
+                        "name": "Functions",
+                        "duration": "4m 39s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087910",
+                        "preview": false
+                    },
+                    {
+                        "name": "Types of Functions",
+                        "duration": "3m 16s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087913",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Operators",
+                "lessons": [
+                    {
+                        "name": "JavaScript Operators",
+                        "duration": "0m 40s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087933",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arithmetic Operators",
+                        "duration": "3m 39s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087936",
+                        "preview": false
+                    },
+                    {
+                        "name": "Assignment Operators",
+                        "duration": "1m 44s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087937",
+                        "preview": false
+                    },
+                    {
+                        "name": "Comparison Operators",
+                        "duration": "2m 01s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087938",
+                        "preview": false
+                    },
+                    {
+                        "name": "Equality Operators",
+                        "duration": "3m 11s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087941",
+                        "preview": false
+                    },
+                    {
+                        "name": "Ternary Operator",
+                        "duration": "2m 09s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087942",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logical Operators",
+                        "duration": "5m 30s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087939",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logical Operators with Non-booleans",
+                        "duration": "5m 53s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087940",
+                        "preview": false
+                    },
+                    {
+                        "name": "Bitwise Operators",
+                        "duration": "8m 28s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087943",
+                        "preview": false
+                    },
+                    {
+                        "name": "Operators Precedence",
+                        "duration": "1m 14s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087934",
+                        "preview": false
+                    },
+                    {
+                        "name": "Quiz",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5428624",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise - Swapping Variables",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5087935",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Control Flow",
+                "lessons": [
+                    {
+                        "name": "1. If...else",
+                        "duration": "5m 23s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088012",
+                        "preview": false
+                    },
+                    {
+                        "name": "Switch...case",
+                        "duration": "4m 41s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088018",
+                        "preview": false
+                    },
+                    {
+                        "name": "For",
+                        "duration": "5m 50s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088021",
+                        "preview": false
+                    },
+                    {
+                        "name": "While",
+                        "duration": "2m 11s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088019",
+                        "preview": false
+                    },
+                    {
+                        "name": "Do...while",
+                        "duration": "3m 29s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088020",
+                        "preview": false
+                    },
+                    {
+                        "name": "Infinite Loops",
+                        "duration": "2m 42s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088022",
+                        "preview": false
+                    },
+                    {
+                        "name": "For...in",
+                        "duration": "4m 25s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088023",
+                        "preview": false
+                    },
+                    {
+                        "name": "For...of",
+                        "duration": "1m 15s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088024",
+                        "preview": false
+                    },
+                    {
+                        "name": "Break and Continue",
+                        "duration": "2m 34s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088025",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 1- Max of Two Numbers",
+                        "duration": "3m 59s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088007",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 2- Landscape or Portrait",
+                        "duration": "2m 25s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088011",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 3- FizzBuzz",
+                        "duration": "6m 39s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088009",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 4- Demerit Points",
+                        "duration": "9m 05s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088008",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 5- Even and Odd Numbers",
+                        "duration": "2m 02s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088010",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 6- Count Truthy",
+                        "duration": "4m 33s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088016",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 7- String Properties",
+                        "duration": "2m 58s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088015",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 8- Sum of Multiples of 3 and 5",
+                        "duration": "2m 40s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088013",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 9- Grade",
+                        "duration": "6m 32s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088014",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 10- Stars",
+                        "duration": "2m 33s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088017",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Prime Numbers",
+                        "duration": "8m 24s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088026",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Objects",
+                "lessons": [
+                    {
+                        "name": "Basics",
+                        "duration": "4m 53s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088069",
+                        "preview": false
+                    },
+                    {
+                        "name": "Factory Functions",
+                        "duration": "5m 44s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088075",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructor Functions",
+                        "duration": "5m 48s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088074",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dynamic Nature of Objects",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088076",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructor Property",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088077",
+                        "preview": false
+                    },
+                    {
+                        "name": "Functions are Objects",
+                        "duration": "4m 47s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088081",
+                        "preview": false
+                    },
+                    {
+                        "name": "Value vs Reference Types",
+                        "duration": "5m 49s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088078",
+                        "preview": false
+                    },
+                    {
+                        "name": "Enumerating Properties of an Object",
+                        "duration": "5m 09s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088080",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cloning an Object",
+                        "duration": "4m 21s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088079",
+                        "preview": false
+                    },
+                    {
+                        "name": "Garbage Collection",
+                        "duration": "1m 14s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088156",
+                        "preview": false
+                    },
+                    {
+                        "name": "Math",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142747",
+                        "preview": false
+                    },
+                    {
+                        "name": "String",
+                        "duration": "6m 25s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142751",
+                        "preview": false
+                    },
+                    {
+                        "name": "Template Literals",
+                        "duration": "4m 52s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142753",
+                        "preview": false
+                    },
+                    {
+                        "name": "Date",
+                        "duration": "4m 00s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142758",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 1- Address Object",
+                        "duration": "1m 41s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088068",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 2- Factory and Constructor Functions",
+                        "duration": "3m 02s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088070",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 3- Object Equality",
+                        "duration": "3m 59s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088073",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 4- Blog Post Object",
+                        "duration": "2m 15s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088071",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 5- Constructor Functions",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088164",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 6- Price Range Object",
+                        "duration": "3m 37s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088165",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/6069463",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Arrays",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 31s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088106",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Elements",
+                        "duration": "3m 35s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088115",
+                        "preview": false
+                    },
+                    {
+                        "name": "Finding Elements",
+                        "duration": "3m 32s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088119",
+                        "preview": false
+                    },
+                    {
+                        "name": "Finding Elements",
+                        "duration": "5m 46s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088121",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arrow Functions",
+                        "duration": "1m 34s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088123",
+                        "preview": false
+                    },
+                    {
+                        "name": "Removing Elements",
+                        "duration": "3m 03s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088122",
+                        "preview": false
+                    },
+                    {
+                        "name": "Emptying an Array",
+                        "duration": "4m 14s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088124",
+                        "preview": false
+                    },
+                    {
+                        "name": "Combining and Slicing Arrays",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088126",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Spread Operator",
+                        "duration": "2m 25s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088125",
+                        "preview": false
+                    },
+                    {
+                        "name": "Iterating an Array",
+                        "duration": "2m 31s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088107",
+                        "preview": false
+                    },
+                    {
+                        "name": "Joining Arrays",
+                        "duration": "3m 11s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088104",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting Arrays",
+                        "duration": "6m 32s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088108",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Elements of an Array",
+                        "duration": "3m 44s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088105",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering an Array",
+                        "duration": "2m 46s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088109",
+                        "preview": false
+                    },
+                    {
+                        "name": "Mapping an Array",
+                        "duration": "7m 47s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088110",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reducing an Array",
+                        "duration": "6m 43s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088113",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 1- Array from Range",
+                        "duration": "1m 50s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088114",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 2- Includes",
+                        "duration": "1m 54s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088111",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 3- Except",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088112",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 4- Moving an Element",
+                        "duration": "6m 31s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088116",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 5- Count Occurrences",
+                        "duration": "4m 31s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088117",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 6- Get Max",
+                        "duration": "6m 14s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088120",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 7- Movies",
+                        "duration": "4m 38s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5088118",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Functions",
+                "lessons": [
+                    {
+                        "name": "Function Declarations vs Expressions",
+                        "duration": "3m 18s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142767",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hoisting",
+                        "duration": "1m 56s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142773",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arguments",
+                        "duration": "4m 15s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142774",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Rest Operator",
+                        "duration": "4m 38s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142775",
+                        "preview": false
+                    },
+                    {
+                        "name": "Default Parameters",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142777",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getters and Setters",
+                        "duration": "5m 38s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142776",
+                        "preview": false
+                    },
+                    {
+                        "name": "Try and Catch",
+                        "duration": "5m 35s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142778",
+                        "preview": false
+                    },
+                    {
+                        "name": "Local vs Global Scope",
+                        "duration": "4m 44s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142779",
+                        "preview": false
+                    },
+                    {
+                        "name": "Let vs Var",
+                        "duration": "5m 52s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142780",
+                        "preview": false
+                    },
+                    {
+                        "name": "The this Keyword",
+                        "duration": "7m 22s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142768",
+                        "preview": false
+                    },
+                    {
+                        "name": "Changing this",
+                        "duration": "7m 00s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142769",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 1- Sum of Arguments",
+                        "duration": "3m 42s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142770",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 2- Area of Circle",
+                        "duration": "1m 53s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142771",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 3- Error Handling",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/5142772",
+                        "preview": false
+                    },
+                    {
+                        "name": "Wrap Up",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/6069466",
+                        "preview": false
+                    },
+                    {
+                        "name": "What's Next",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/javascript-basics-for-beginners/lectures/6069470",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

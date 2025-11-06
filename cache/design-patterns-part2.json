@@ -1,0 +1,374 @@
+{
+    "course": {
+        "id": 760032,
+        "name": "Mastering Design Patterns: Part 2",
+        "slug": "design-patterns-part2",
+        "heading": "Structural design patterns: The essential building blocks of object-oriented programming",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/QaKRnoVbSbWmI7Y7u3ee_Design+a+Cover+for+an+Online+Course.jpg",
+        "hours": 2,
+        "lessons": 40,
+        "categories": [
+            6
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 49,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/design-patterns-part2/lectures/13778836",
+        "parentBundleId": 733596,
+        "outcomes": [
+            "Understand and implement the Adapter Pattern",
+            "Understand and implement the Bridge Pattern",
+            "Understand and implement the Composite Pattern",
+            "Understand and implement the Decorator Pattern",
+            "Understand and implement the Facade Pattern",
+            "Understand and implement the Flyweight Pattern",
+            "Understand and implement the Proxy Pattern"
+        ],
+        "audience": [
+            "Developers who want to master the principles and best practices of design patterns in software development",
+            "Programmers looking to improve their understanding of advanced software design concepts",
+            "Anyone interested in building robust and scalable software applications using design patterns",
+            "Those interested in learning how to apply proven design patterns to solve common software problems",
+            "Developers who want to become more skilled and knowledgeable in software design and architecture",
+            "Those interested in building high-quality software that is flexible, reusable, and maintainable"
+        ],
+        "prerequisites": {
+            "courses": [
+                759570
+            ],
+            "text": [
+                "This course is the second part of a series. So, you should have watched the first part or have a solid understanding of the concepts covered there."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "0m 54s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778836",
+                        "preview": false
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/design-patterns-part2/lectures/13778835",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/design-patterns-part2/lectures/25354653",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Composite Pattern",
+                "lessons": [
+                    {
+                        "name": "The Problem",
+                        "duration": "8m 33s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778874",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778877",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementation",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778875",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/design-patterns-part2/lectures/13778876",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Adapter Pattern",
+                "lessons": [
+                    {
+                        "name": "The Problem",
+                        "duration": "5m 04s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778888",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "1m 32s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778886",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementation",
+                        "duration": "3m 04s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778887",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/design-patterns-part2/lectures/13778885",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Decorator Pattern",
+                "lessons": [
+                    {
+                        "name": "The Problem",
+                        "duration": "6m 08s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778914",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "4m 16s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778915",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementation",
+                        "duration": "5m 44s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778917",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/design-patterns-part2/lectures/13778916",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Facade Pattern",
+                "lessons": [
+                    {
+                        "name": "The Problem",
+                        "duration": "5m 26s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778920",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "2m 31s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778923",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementation",
+                        "duration": "2m 06s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778921",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/design-patterns-part2/lectures/13778922",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Flyweight Pattern",
+                "lessons": [
+                    {
+                        "name": "The Problem",
+                        "duration": "6m 46s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778930",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "3m 04s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778931",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementation",
+                        "duration": "8m 05s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778932",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/design-patterns-part2/lectures/13778933",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Pattern",
+                "lessons": [
+                    {
+                        "name": "The Problem",
+                        "duration": "6m 02s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778939",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "5m 36s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778940",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementation",
+                        "duration": "6m 02s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778941",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Proxy Pattern",
+                "lessons": [
+                    {
+                        "name": "The Problem",
+                        "duration": "6m 19s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778951",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "4m 30s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778948",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementation",
+                        "duration": "5m 41s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778949",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/design-patterns-part2/lectures/13778950",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Course Wrap Up",
+                "lessons": [
+                    {
+                        "name": "Summary of Structural Patterns",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/design-patterns-part2/lectures/13778957",
+                        "preview": false
+                    },
+                    {
+                        "name": "What's Next",
+                        "duration": "0m 19s",
+                        "type": 1,
+                        "href": "/courses/design-patterns-part2/lectures/13778956",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/design-patterns-part2/lectures/13782196",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

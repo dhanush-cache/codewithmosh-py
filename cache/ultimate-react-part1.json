@@ -1,0 +1,1149 @@
+{
+    "course": {
+        "id": 2037633,
+        "name": "React 18 for Beginners",
+        "slug": "ultimate-react-part1",
+        "heading": "A step-by-step guide to building web apps with React 18+ and TypeScript",
+        "promoVideoId": "3fy0ubn04r",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684539103/promo-videos/react-part1.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/SWtZL7dtR3SYRScauf7w_+1920x1357.jpg",
+        "hours": 8,
+        "lessons": 140,
+        "categories": [
+            1
+        ],
+        "languages": [
+            {
+                "name": "Hindi",
+                "price": 5,
+                "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5786115/ultimate-react-part1-11?coupon_code=SITE"
+            }
+        ],
+        "level": "Beginner",
+        "type": "single",
+        "price": 149,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-react-part1/lectures/45914979",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/4647771/ultimate-react-part1",
+        "activeCouponCode": {
+            "1": "DEALTAJX",
+            "2": "DEALTB37",
+            "3": "DEALTC99",
+            "4": "DEALTDK4"
+        },
+        "coupons": [
+            {
+                "code": "YOUTUBE",
+                "discount": 0.9
+            },
+            {
+                "code": "REACTBYTES",
+                "discount": 0.9
+            },
+            {
+                "code": "DEALTAJX",
+                "discount": 0.25,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            },
+            {
+                "code": "DEALTB37",
+                "discount": 0.5,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            },
+            {
+                "code": "DEALTC99",
+                "discount": 0.8,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            },
+            {
+                "code": "DEALTDK4",
+                "discount": 0.87,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            }
+        ],
+        "description": "If you want to learn React by building a real, production-ready app, this React course is for you. In *React 18 for Beginners*, we’ll take a step-by-step approach to building a production-grade app for discovering video games—packed with all the features and UI patterns you’d expect to see in modern apps.\n\nYou’ll learn how to create reusable components, manage state, and handle forms like a pro. We’ll cover everything from using React Hook Forms and implementing form validation with Zod to styling components with vanilla CSS, CSS modules, and CSS-in-JS. And yes, we’ll also show you how to connect your app to the backend and deploy it.\n\nAlong the way, I’ll share VSCode shortcuts to boost your productivity and teach you the **latest techniques** and **best practices** for writing clean, maintainable code. And don’t worry about troubleshooting—by the end of this course, you’ll be solving errors with ease.\n\nLike all my courses, this one is **clear, concise, comprehensive, well-organized, and practical.** You’ll walk away with the skills and confidence to build front-end apps with React and TypeScript, while also creating real-world projects you can be proud of.",
+        "outcomes": [
+            "Confidently build front-end apps with React and TypeScript",
+            "Build reusable function components",
+            "Style your components using vanilla CSS, CSS modules, and CSS-in-JS",
+            "Manage component state",
+            "Build forms with React Hook Forms",
+            "Implement form validation using Zod",
+            "Connect your React apps to the backend",
+            "Deploy your React apps",
+            "Use VSCode shortcuts to increase your productivity",
+            "Apply the latest techniques and best practices",
+            "Troubleshoot errors with ease",
+            "Write clean code like a pro"
+        ],
+        "audience": [
+            "Beginners who want to learn React from scratch and build real-world apps",
+            "React developers who want to fill in the gaps in their knowledge and take their skills to the next level",
+            "Anyone who wants to become a confident and proficient React developer"
+        ],
+        "prerequisites": {
+            "courses": [
+                1270682,
+                1896395
+            ],
+            "text": [
+                "You don't need prior knowledge of React to take this course. However, you should have some basic knowledge of web development, including HTML, CSS, and modern JavaScript.",
+                "Please note that we'll be using TypeScript in this course, but don't worry if you've never used TypeScript before - I'll cover everything from scratch."
+            ]
+        },
+        "projects": [
+            "In this course, we’ll build and deploy a polished, production-ready app for discovering video games. This app includes all the modern features you’d expect, like light and dark mode toggling, game search, filtering, sorting, and loading skeletons. By the end, you’ll have a professional-grade app that showcases the power and flexibility of React. Get a sneak peek of this app in the course trailer video on this page."
+        ],
+        "cta": {
+            "heading": "React Developers Are in High Demand",
+            "description": "React is the most-used front-end framework in the world, powering apps for companies like Facebook, Instagram, and Uber. This course gives you the practical skills you need to stand out—without the fluff. Start learning today and build real-world React apps."
+        },
+        "seo": {
+            "title": "React Course for Beginners | Build Real Apps with React & TypeScript",
+            "description": "Learn React by building a real-world app with React and TypeScript. This step-by-step React course covers components, forms, state, deployment, and more.",
+            "h1": "React Course for Beginners"
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "1m 41s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45914979",
+                        "preview": true
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "0m 49s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45914977",
+                        "preview": true
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45914978",
+                        "preview": false
+                    },
+                    {
+                        "name": "Questions and Support",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45914980",
+                        "preview": false
+                    },
+                    {
+                        "name": "Connect with Me",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45914975",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45914976",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Getting Started with React",
+                "lessons": [
+                    {
+                        "name": "What is React",
+                        "duration": "2m 14s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915058",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up the Development Environment",
+                        "duration": "1m 28s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915059",
+                        "preview": true
+                    },
+                    {
+                        "name": "Creating a React App",
+                        "duration": "2m 54s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915057",
+                        "preview": true
+                    },
+                    {
+                        "name": "Project Structure",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915062",
+                        "preview": true
+                    },
+                    {
+                        "name": "Creating a React Component",
+                        "duration": "5m 22s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915063",
+                        "preview": true
+                    },
+                    {
+                        "name": "How React Works",
+                        "duration": "2m 20s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915060",
+                        "preview": true
+                    },
+                    {
+                        "name": "React Ecosystem",
+                        "duration": "1m 23s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915070",
+                        "preview": true
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45915090",
+                        "preview": false
+                    },
+                    {
+                        "name": "Side Note: My VSCode Theme",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/46220929",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Building Components",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915247",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a ListGroup Component",
+                        "duration": "5m 36s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915249",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fragments",
+                        "duration": "2m 28s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915255",
+                        "preview": false
+                    },
+                    {
+                        "name": "Rendering Lists",
+                        "duration": "3m 30s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915245",
+                        "preview": false
+                    },
+                    {
+                        "name": "Conditional Rendering",
+                        "duration": "5m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915252",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Events",
+                        "duration": "6m 07s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915246",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing State",
+                        "duration": "6m 03s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915242",
+                        "preview": false
+                    },
+                    {
+                        "name": "Passing Data via Props",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915256",
+                        "preview": false
+                    },
+                    {
+                        "name": "Passing Functions via Props",
+                        "duration": "3m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915248",
+                        "preview": false
+                    },
+                    {
+                        "name": "State vs Props",
+                        "duration": "1m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915250",
+                        "preview": false
+                    },
+                    {
+                        "name": "Passing Children",
+                        "duration": "5m 05s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915251",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inspecting Components with React Dev Tools",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915254",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building a Button Component",
+                        "duration": "7m 02s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915253",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Showing an Alert",
+                        "duration": "5m 02s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915243",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45915345",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Styling Components",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 26s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915378",
+                        "preview": false
+                    },
+                    {
+                        "name": "Vanilla CSS",
+                        "duration": "4m 11s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915379",
+                        "preview": false
+                    },
+                    {
+                        "name": "CSS Modules",
+                        "duration": "3m 45s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915384",
+                        "preview": false
+                    },
+                    {
+                        "name": "CSS-in-JS",
+                        "duration": "7m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915383",
+                        "preview": false
+                    },
+                    {
+                        "name": "Separation of Concerns",
+                        "duration": "2m 30s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915377",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inline Styles",
+                        "duration": "1m 02s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915385",
+                        "preview": false
+                    },
+                    {
+                        "name": "Popular UI Libraries",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915381",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Icons",
+                        "duration": "1m 52s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915386",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Using CSS Modules",
+                        "duration": "3m 00s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915380",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building a Like Component",
+                        "duration": "5m 19s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915382",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45915545",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Managing Component State",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915733",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding the State Hook",
+                        "duration": "4m 28s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915724",
+                        "preview": false
+                    },
+                    {
+                        "name": "Choosing the State Structure",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915725",
+                        "preview": false
+                    },
+                    {
+                        "name": "Keeping Components Pure",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915732",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding the Strict Mode",
+                        "duration": "2m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915727",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Objects",
+                        "duration": "2m 21s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915735",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Nested Objects",
+                        "duration": "2m 15s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915731",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Arrays",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915729",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Array of Objects",
+                        "duration": "1m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915728",
+                        "preview": false
+                    },
+                    {
+                        "name": "Simplifying Update Logic with Immer",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915730",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sharing State between Components",
+                        "duration": "6m 22s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915734",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Updating State",
+                        "duration": "4m 49s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915726",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building an ExpandableText Component",
+                        "duration": "6m 22s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915736",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45915783",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Building Forms",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915815",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building a Form",
+                        "duration": "3m 45s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915807",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Form Submission",
+                        "duration": "2m 23s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915805",
+                        "preview": false
+                    },
+                    {
+                        "name": "Accessing Input Fields",
+                        "duration": "5m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45997671",
+                        "preview": false
+                    },
+                    {
+                        "name": "Controlled Components",
+                        "duration": "4m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915808",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Forms with React Hook Form",
+                        "duration": "4m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915810",
+                        "preview": false
+                    },
+                    {
+                        "name": "Applying Validation",
+                        "duration": "5m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915813",
+                        "preview": false
+                    },
+                    {
+                        "name": "Schema based Validation with Zod",
+                        "duration": "7m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915806",
+                        "preview": false
+                    },
+                    {
+                        "name": "Disabling the Submit Button",
+                        "duration": "0m 45s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915816",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- Expense Tracker",
+                        "duration": "1m 23s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915804",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building ExpenseList",
+                        "duration": "10m 28s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915812",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building ExpenseFilter",
+                        "duration": "5m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915811",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Expense Form",
+                        "duration": "4m 36s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915809",
+                        "preview": false
+                    },
+                    {
+                        "name": "Integrating with React Hook Form and Zod",
+                        "duration": "9m 54s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915814",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding an Expense",
+                        "duration": "3m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45917480",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45915820",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45935048",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Connecting to the Backend",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 53s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915916",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding the Effect Hook",
+                        "duration": "3m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915909",
+                        "preview": false
+                    },
+                    {
+                        "name": "Effect Dependencies",
+                        "duration": "8m 34s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915913",
+                        "preview": false
+                    },
+                    {
+                        "name": "Effect Clean Up",
+                        "duration": "2m 30s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915906",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fetching Data",
+                        "duration": "5m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915920",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding HTTP Requests",
+                        "duration": "3m 02s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915911",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Errors",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915915",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Async and Await",
+                        "duration": "4m 21s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915907",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cancelling a Fetch Request",
+                        "duration": "2m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915908",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing a Loading Indicator",
+                        "duration": "3m 02s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915910",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting Data",
+                        "duration": "5m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915919",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Data",
+                        "duration": "5m 09s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915904",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Data",
+                        "duration": "5m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915905",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting a Reusable API Client",
+                        "duration": "3m 55s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915912",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting the User Service",
+                        "duration": "8m 22s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915914",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Generic HTTP Service",
+                        "duration": "8m 00s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915918",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Custom Data Fetching Hook",
+                        "duration": "3m 53s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45915917",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45916001",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Project: Building a Video Game Discovery App",
+                "lessons": [
+                    {
+                        "name": "What We'll Build",
+                        "duration": "1m 23s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916469",
+                        "preview": false
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45916503",
+                        "preview": false
+                    },
+                    {
+                        "name": "Up for a Challenge?",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45916446",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up the Project",
+                        "duration": "1m 31s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916277",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing Chakra UI",
+                        "duration": "5m 00s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916282",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Responsive Layout",
+                        "duration": "4m 53s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916285",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Navigation Bar",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916280",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing the Dark Mode",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916283",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Çolor Mode Switch",
+                        "duration": "3m 36s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916281",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fetching the Games",
+                        "duration": "8m 19s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916284",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Custom Hook for Fetching Games",
+                        "duration": "4m 59s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916276",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building Game Cards",
+                        "duration": "6m 08s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916327",
+                        "preview": false
+                    },
+                    {
+                        "name": "Displaying Platform Icons",
+                        "duration": "13m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916325",
+                        "preview": false
+                    },
+                    {
+                        "name": "Displaying Critic Score",
+                        "duration": "4m 20s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916330",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Optimized Images",
+                        "duration": "3m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916328",
+                        "preview": false
+                    },
+                    {
+                        "name": "Improving User Experience with Loading Skeletons",
+                        "duration": "5m 37s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916329",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactor- Removing Duplicated Styles",
+                        "duration": "2m 34s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916331",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fetching the Genres",
+                        "duration": "4m 31s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916324",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Generic Data Fetching Hook",
+                        "duration": "6m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916326",
+                        "preview": false
+                    },
+                    {
+                        "name": "Displaying the Genres",
+                        "duration": "8m 52s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916332",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing a Spinner",
+                        "duration": "1m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916352",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering Games by Genre",
+                        "duration": "12m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916351",
+                        "preview": false
+                    },
+                    {
+                        "name": "Highlighting the Selected Genre",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916359",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building Platform Selector",
+                        "duration": "4m 30s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916356",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering Games by Platform",
+                        "duration": "6m 15s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916354",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring- Extracting a Query Object",
+                        "duration": "5m 11s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916360",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building Sort Selector",
+                        "duration": "2m 59s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916355",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting Games",
+                        "duration": "8m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916358",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Games without an Image",
+                        "duration": "1m 07s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916357",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fixing the Issue with Chakra Menus",
+                        "duration": "1m 28s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916353",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building Search Input",
+                        "duration": "2m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916448",
+                        "preview": false
+                    },
+                    {
+                        "name": "Searching Games",
+                        "duration": "6m 05s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916445",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding a Dynamic Heading",
+                        "duration": "4m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916443",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cleaning Up the Genres",
+                        "duration": "2m 20s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916450",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cleaning Up the Game Cards",
+                        "duration": "1m 23s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916442",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Emojis",
+                        "duration": "5m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916441",
+                        "preview": false
+                    },
+                    {
+                        "name": "Shipping Static Data",
+                        "duration": "3m 16s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916444",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing the Chakra Theme",
+                        "duration": "2m 57s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916440",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring Game Grid",
+                        "duration": "0m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916451",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building for Production",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916447",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deploying to Vercel",
+                        "duration": "4m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916468",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part1/lectures/45916466",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/45916480",
+                        "preview": false
+                    },
+                    {
+                        "name": "What's Next",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/46680951",
+                        "preview": false
+                    },
+                    {
+                        "name": "Feedback",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part1/lectures/46164184",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

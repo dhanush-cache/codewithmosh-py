@@ -1,0 +1,949 @@
+{
+    "course": {
+        "id": 711980,
+        "name": "Ultimate Java Part 3: Advanced Topics",
+        "slug": "ultimate-java-part-3",
+        "heading": "All about Exceptions, Generics, Collections, Lambdas, Streams, Multi-threading and Asynchronous Programming",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/kOjCBDxSbSlXuwfEESkc_P3.jpg",
+        "hours": 6,
+        "lessons": 120,
+        "categories": [
+            5
+        ],
+        "level": "Intermediate to Pro",
+        "type": "single",
+        "price": 69,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-java-part-3/lectures/12836063",
+        "parentBundleId": 606250,
+        "outcomes": [
+            "Effectively handle exceptions in Java",
+            "Use generics to create type-safe and reusable classes",
+            "Dive into the Java Collections Framework, understanding lists, sets, maps, etc",
+            "Discover the beauty of functional programming through lambda expressions",
+            "Understand functional interfaces and their role in functional programming",
+            "Learn how to efficiently process collections of data using Java streams",
+            "Explore multi-threading and concurrent programming in Java",
+            "Dive into asynchronous programming with callables and futures",
+            "And much, much more..."
+        ],
+        "audience": [
+            "Java developers who want to take their Java skills to the next level",
+            "College students who want to better understand Java"
+        ],
+        "prerequisites": {
+            "courses": [
+                580597,
+                606251
+            ],
+            "text": [
+                "This course is the third part of a series. So, you should have watched the first two parts or have a solid understanding of the concepts covered there."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 11s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836063",
+                        "preview": true
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836081",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-3/lectures/25354868",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-3/lectures/34610456",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Exceptions",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836069",
+                        "preview": true
+                    },
+                    {
+                        "name": "What are Exceptions",
+                        "duration": "3m 45s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836070",
+                        "preview": true
+                    },
+                    {
+                        "name": "Types of Exceptions",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836073",
+                        "preview": true
+                    },
+                    {
+                        "name": "Exceptions Hierarchy",
+                        "duration": "2m 05s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836075",
+                        "preview": true
+                    },
+                    {
+                        "name": "Catching Exceptions",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836079",
+                        "preview": true
+                    },
+                    {
+                        "name": "Catching Multiple Types of Exceptions",
+                        "duration": "4m 28s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836077",
+                        "preview": true
+                    },
+                    {
+                        "name": "The finally Block",
+                        "duration": "4m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836080",
+                        "preview": true
+                    },
+                    {
+                        "name": "The try-with-resources Statement",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836071",
+                        "preview": false
+                    },
+                    {
+                        "name": "Throwing Exceptions",
+                        "duration": "4m 41s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836076",
+                        "preview": false
+                    },
+                    {
+                        "name": "Re-throwing Exceptions",
+                        "duration": "3m 07s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836072",
+                        "preview": false
+                    },
+                    {
+                        "name": "Custom Exceptions",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836074",
+                        "preview": false
+                    },
+                    {
+                        "name": "Chaining Exceptions",
+                        "duration": "4m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836068",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836067",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Generics",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836187",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Need for Generics",
+                        "duration": "3m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836194",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Poor Solution",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836195",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generic Classes",
+                        "duration": "4m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836192",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generics and Primitive Types",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836190",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constraints",
+                        "duration": "3m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836186",
+                        "preview": false
+                    },
+                    {
+                        "name": "Type Erasure",
+                        "duration": "4m 04s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836184",
+                        "preview": false
+                    },
+                    {
+                        "name": "Comparable Interface",
+                        "duration": "5m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836185",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generic Methods",
+                        "duration": "4m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836193",
+                        "preview": false
+                    },
+                    {
+                        "name": "Multiple Type Parameters",
+                        "duration": "2m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836189",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generic Classes and Inheritance",
+                        "duration": "4m 17s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836188",
+                        "preview": false
+                    },
+                    {
+                        "name": "Wildcards",
+                        "duration": "5m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836183",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 55s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836191",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Collections",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 34s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836257",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overview of Collections Framework",
+                        "duration": "3m 08s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836250",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Need for Iterables",
+                        "duration": "3m 54s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836260",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Iterable Interface",
+                        "duration": "5m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836249",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Iterator Interface",
+                        "duration": "5m 26s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836253",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Collection Interface",
+                        "duration": "9m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836255",
+                        "preview": false
+                    },
+                    {
+                        "name": "The List Interface",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836262",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Comparable Interface",
+                        "duration": "4m 28s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836259",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Comparator Interface",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836251",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Queue Interface",
+                        "duration": "4m 47s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836258",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Set Interface",
+                        "duration": "5m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836252",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hash Tables",
+                        "duration": "3m 44s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836256",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Map Interface",
+                        "duration": "6m 26s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836254",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 44s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836261",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Lambda Expressions and Functional Interfaces",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 47s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836333",
+                        "preview": false
+                    },
+                    {
+                        "name": "Functional Interfaces",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836327",
+                        "preview": false
+                    },
+                    {
+                        "name": "Anonymous Inner Classes",
+                        "duration": "1m 23s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836335",
+                        "preview": false
+                    },
+                    {
+                        "name": "Lambda Expressions",
+                        "duration": "3m 43s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836332",
+                        "preview": false
+                    },
+                    {
+                        "name": "Variable Capture",
+                        "duration": "1m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836330",
+                        "preview": false
+                    },
+                    {
+                        "name": "Method References",
+                        "duration": "3m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836337",
+                        "preview": false
+                    },
+                    {
+                        "name": "Built-in Functional Interfaces",
+                        "duration": "1m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836334",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Consumer Interface",
+                        "duration": "4m 06s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836341",
+                        "preview": false
+                    },
+                    {
+                        "name": "Chaining Consumer",
+                        "duration": "4m 28s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836338",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Supplier Interface",
+                        "duration": "2m 30s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836340",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Function Interface",
+                        "duration": "3m 00s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836326",
+                        "preview": false
+                    },
+                    {
+                        "name": "Composing Functions",
+                        "duration": "4m 19s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836328",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Predicate Interface",
+                        "duration": "2m 02s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836329",
+                        "preview": false
+                    },
+                    {
+                        "name": "Combining Predicates",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836342",
+                        "preview": false
+                    },
+                    {
+                        "name": "The BinaryOperator Interface",
+                        "duration": "3m 15s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836336",
+                        "preview": false
+                    },
+                    {
+                        "name": "The UnaryOperator Interface",
+                        "duration": "1m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836331",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 40s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836339",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Streams",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 41s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836821",
+                        "preview": false
+                    },
+                    {
+                        "name": "Imperative vs Functional Programming",
+                        "duration": "6m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836836",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Stream",
+                        "duration": "5m 01s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836832",
+                        "preview": false
+                    },
+                    {
+                        "name": "Mapping Elements",
+                        "duration": "5m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836828",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering Elements",
+                        "duration": "2m 59s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836822",
+                        "preview": false
+                    },
+                    {
+                        "name": "Slicing Streams",
+                        "duration": "4m 21s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836835",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting Streams",
+                        "duration": "5m 12s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836830",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Unique Elements",
+                        "duration": "2m 09s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836826",
+                        "preview": false
+                    },
+                    {
+                        "name": "Peeking Elements",
+                        "duration": "3m 19s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836829",
+                        "preview": false
+                    },
+                    {
+                        "name": "Simple Reducers",
+                        "duration": "3m 37s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836825",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reducing a Stream",
+                        "duration": "4m 12s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836824",
+                        "preview": false
+                    },
+                    {
+                        "name": "Collectors",
+                        "duration": "6m 03s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836833",
+                        "preview": false
+                    },
+                    {
+                        "name": "Grouping Elements",
+                        "duration": "4m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836827",
+                        "preview": false
+                    },
+                    {
+                        "name": "Partitioning Elements",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836823",
+                        "preview": false
+                    },
+                    {
+                        "name": "Primitive Type Streams",
+                        "duration": "1m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836831",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 39s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836834",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Concurrency and Multi-threading",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 55s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836876",
+                        "preview": false
+                    },
+                    {
+                        "name": "Processes and Threads",
+                        "duration": "3m 07s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836885",
+                        "preview": false
+                    },
+                    {
+                        "name": "Starting a Thread",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836884",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pausing a Thread",
+                        "duration": "2m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836882",
+                        "preview": false
+                    },
+                    {
+                        "name": "Joining a Thread",
+                        "duration": "2m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836879",
+                        "preview": false
+                    },
+                    {
+                        "name": "Interrupting a Thread",
+                        "duration": "2m 54s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836881",
+                        "preview": false
+                    },
+                    {
+                        "name": "Concurrency Issues",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836883",
+                        "preview": false
+                    },
+                    {
+                        "name": "Race Conditions",
+                        "duration": "5m 53s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836878",
+                        "preview": false
+                    },
+                    {
+                        "name": "Strategies for Thread Safety",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836888",
+                        "preview": false
+                    },
+                    {
+                        "name": "Confinement",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836874",
+                        "preview": false
+                    },
+                    {
+                        "name": "Locks",
+                        "duration": "3m 17s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836870",
+                        "preview": false
+                    },
+                    {
+                        "name": "The synchronized Keyword",
+                        "duration": "5m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836887",
+                        "preview": false
+                    },
+                    {
+                        "name": "The volatile Keyword",
+                        "duration": "6m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836872",
+                        "preview": false
+                    },
+                    {
+                        "name": "Thread Signalling with wait",
+                        "duration": "3m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836869",
+                        "preview": false
+                    },
+                    {
+                        "name": "Atomic Objects",
+                        "duration": "3m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836873",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adders",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836875",
+                        "preview": false
+                    },
+                    {
+                        "name": "Synchronized Collections",
+                        "duration": "3m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836871",
+                        "preview": false
+                    },
+                    {
+                        "name": "Concurrent Collections",
+                        "duration": "2m 37s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836877",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "1m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836880",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "The Executive Framework",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836918",
+                        "preview": false
+                    },
+                    {
+                        "name": "Thread Pools",
+                        "duration": "1m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836923",
+                        "preview": false
+                    },
+                    {
+                        "name": "Executors",
+                        "duration": "6m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836921",
+                        "preview": false
+                    },
+                    {
+                        "name": "Callables and Futures",
+                        "duration": "5m 00s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836934",
+                        "preview": false
+                    },
+                    {
+                        "name": "Asynchronous Programming",
+                        "duration": "1m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836935",
+                        "preview": false
+                    },
+                    {
+                        "name": "Completable Futures",
+                        "duration": "1m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836931",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Completable Future",
+                        "duration": "3m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836930",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing an Asynchronous API",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836920",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running Code on Completion",
+                        "duration": "4m 04s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836936",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Exceptions",
+                        "duration": "4m 15s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836932",
+                        "preview": false
+                    },
+                    {
+                        "name": "Transforming a Completable Future",
+                        "duration": "4m 34s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836922",
+                        "preview": false
+                    },
+                    {
+                        "name": "Composing Completable Futures",
+                        "duration": "6m 08s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836925",
+                        "preview": false
+                    },
+                    {
+                        "name": "Combining Completable Futures",
+                        "duration": "4m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836937",
+                        "preview": false
+                    },
+                    {
+                        "name": "Waiting for Many Tasks to Complete",
+                        "duration": "2m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836929",
+                        "preview": false
+                    },
+                    {
+                        "name": "Waiting for the First Task",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836927",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling timeouts",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836928",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- Best Price Finder",
+                        "duration": "1m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836926",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Getting a Quote",
+                        "duration": "4m 15s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836933",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Getting Many Quotes",
+                        "duration": "4m 49s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836919",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Random Delays",
+                        "duration": "4m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-3/lectures/12836924",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

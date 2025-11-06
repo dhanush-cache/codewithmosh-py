@@ -1,0 +1,817 @@
+{
+    "course": {
+        "id": 639884,
+        "name": "Ultimate Data Structures & Algorithms: Part 1",
+        "slug": "data-structures-algorithms-part1",
+        "heading": "Ace your coding job interview. Learn to write better and faster code.",
+        "promoVideoId": "hclxtwqlc7",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769276/promo-videos/dsa-part1.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/ZC33QZGTL6C7il2HICEx_New+Covers.001.jpeg",
+        "hours": 5,
+        "lessons": 120,
+        "categories": [
+            6
+        ],
+        "level": "Beginner",
+        "type": "single",
+        "price": 49,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/data-structures-algorithms-part1/lectures/11425294",
+        "parentBundleId": 680815,
+        "outcomes": [
+            "Master essential data structures such as arrays, linked lists, stacks, queues, and hash tables",
+            "Analyze and evaluate the time and space complexity of algorithms",
+            "Improve your problem-solving skills",
+            "Prepare for coding interviews"
+        ],
+        "audience": [
+            "Anyone preparing for a coding job interview",
+            "Computer science students whose lecturers failed to explain the topics",
+            "Self-taught developers who missed out on a computer science degree",
+            "Anyone who wants to become a better developer"
+        ],
+        "prerequisites": {
+            "courses": [
+                580597
+            ],
+            "text": [
+                "In this course, I use Java to teach the concepts but you can apply these concepts in any programming language. Our focus is on problem-solving, not programming languages and tools.",
+                "All you need to take this course are some basic programming skills. If you know variables, loops, and conditional statements, you're good."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Course Outline",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425294",
+                        "preview": true
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425402",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/25354791",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "The Big O Notation",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 24s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425302",
+                        "preview": true
+                    },
+                    {
+                        "name": "What is Big O",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425306",
+                        "preview": true
+                    },
+                    {
+                        "name": "O",
+                        "duration": "1m 29s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425304",
+                        "preview": true
+                    },
+                    {
+                        "name": "O",
+                        "duration": "3m 44s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425301",
+                        "preview": true
+                    },
+                    {
+                        "name": "O",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425305",
+                        "preview": true
+                    },
+                    {
+                        "name": "O",
+                        "duration": "2m 39s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425303",
+                        "preview": false
+                    },
+                    {
+                        "name": "O",
+                        "duration": "0m 50s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425309",
+                        "preview": false
+                    },
+                    {
+                        "name": "Space Complexity",
+                        "duration": "2m 32s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425307",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cheat Sheet",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425308",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Arrays",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 44s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425322",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding Arrays",
+                        "duration": "3m 08s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425327",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Arrays in Java",
+                        "duration": "3m 29s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425331",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Array Class",
+                        "duration": "2m 51s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425323",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Creating the Class",
+                        "duration": "3m 19s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425330",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- insert",
+                        "duration": "4m 19s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425326",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- removeAt",
+                        "duration": "4m 50s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425321",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- indexOf",
+                        "duration": "2m 28s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425324",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dynamic Arrays",
+                        "duration": "3m 48s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425325",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arrays- Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425328",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "1m 09s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425329",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Linked Lists",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 36s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425362",
+                        "preview": false
+                    },
+                    {
+                        "name": "What are Linked Lists",
+                        "duration": "4m 33s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425363",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Linked Lists",
+                        "duration": "3m 24s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425357",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building a Linked List",
+                        "duration": "1m 25s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425353",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- addLast",
+                        "duration": "6m 09s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425360",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- addFirst",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425365",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- indexOf",
+                        "duration": "1m 54s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425358",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- contains",
+                        "duration": "1m 05s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425366",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- removeFirst",
+                        "duration": "4m 23s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425354",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- removeLast",
+                        "duration": "4m 40s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425355",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing size",
+                        "duration": "4m 15s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425347",
+                        "preview": false
+                    },
+                    {
+                        "name": "Converting Linked Lists to Arrays",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425349",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cheat Sheets",
+                        "duration": "1m 12s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425348",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arrays vs Linked Lists",
+                        "duration": "3m 21s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425356",
+                        "preview": false
+                    },
+                    {
+                        "name": "Types of Linked Lists",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425351",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Reversing a Linked List",
+                        "duration": "1m 33s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425364",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Reversing a Linked List",
+                        "duration": "9m 00s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425352",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Kth Node from the End",
+                        "duration": "3m 20s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425361",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Kth Node from the End",
+                        "duration": "5m 22s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425367",
+                        "preview": false
+                    },
+                    {
+                        "name": "Linked Lists- Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425359",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "1m 12s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425350",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11426584",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Stacks",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 31s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425389",
+                        "preview": false
+                    },
+                    {
+                        "name": "What are Stacks",
+                        "duration": "2m 47s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425390",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Stacks",
+                        "duration": "2m 21s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425396",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Reversing a String",
+                        "duration": "0m 41s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425397",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution - Reversing a String",
+                        "duration": "5m 01s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425392",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Balanced Expressions",
+                        "duration": "2m 54s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425399",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- A Basic Implementation",
+                        "duration": "5m 17s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425395",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Supporting Other Brackets",
+                        "duration": "3m 36s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425400",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- First Refactoring",
+                        "duration": "4m 09s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425398",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Second Refactoring",
+                        "duration": "5m 50s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425394",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building a Stack Using an Array",
+                        "duration": "0m 47s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425391",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Implementing a Stack Using an Array",
+                        "duration": "8m 18s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425388",
+                        "preview": false
+                    },
+                    {
+                        "name": "Stacks- Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425387",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 33s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425393",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Queues",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 26s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425503",
+                        "preview": false
+                    },
+                    {
+                        "name": "What are Queues",
+                        "duration": "2m 04s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425506",
+                        "preview": false
+                    },
+                    {
+                        "name": "Queues in Java",
+                        "duration": "5m 12s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425502",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Reversing a Queue",
+                        "duration": "1m 06s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425515",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Reversing a Queue",
+                        "duration": "2m 17s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425508",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building a Queue Using an Array",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425512",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- A Basic Implementation",
+                        "duration": "6m 32s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425513",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Circular Arrays",
+                        "duration": "5m 54s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425514",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Implementing a Queue Using a Stack",
+                        "duration": "0m 55s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425504",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Building a Queue Using a Stack",
+                        "duration": "7m 43s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425516",
+                        "preview": false
+                    },
+                    {
+                        "name": "Priority Queues",
+                        "duration": "1m 53s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425509",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building a Priority Queue",
+                        "duration": "3m 57s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425511",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Building a Priority Queue",
+                        "duration": "8m 51s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425505",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Refactoring",
+                        "duration": "3m 02s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425507",
+                        "preview": false
+                    },
+                    {
+                        "name": "Queues- Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425517",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 57s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425510",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Hash Tables",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 26s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425533",
+                        "preview": false
+                    },
+                    {
+                        "name": "What are Hash Tables",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425540",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Hash Tables",
+                        "duration": "6m 06s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425544",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Find the First Non-repeated Character",
+                        "duration": "0m 54s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425545",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- First Non-repeating Character",
+                        "duration": "7m 39s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425549",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sets",
+                        "duration": "2m 23s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425547",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- First Repeated Character",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425548",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- First Repeated Character",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425546",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hash Functions",
+                        "duration": "5m 55s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425551",
+                        "preview": false
+                    },
+                    {
+                        "name": "Collisions",
+                        "duration": "1m 06s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425535",
+                        "preview": false
+                    },
+                    {
+                        "name": "Chaining",
+                        "duration": "1m 40s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425532",
+                        "preview": false
+                    },
+                    {
+                        "name": "Open Addressing- Linear Probing",
+                        "duration": "2m 41s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425534",
+                        "preview": false
+                    },
+                    {
+                        "name": "Open Addressing- Quadratic Probing",
+                        "duration": "1m 29s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425536",
+                        "preview": false
+                    },
+                    {
+                        "name": "Open Addressing- Double Hashing",
+                        "duration": "3m 19s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425550",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Build a HashTable",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425552",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- put",
+                        "duration": "6m 07s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425537",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- get",
+                        "duration": "4m 29s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425538",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- remove",
+                        "duration": "2m 30s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425539",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Refactoring",
+                        "duration": "11m 04s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425543",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hash Tables- Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425553",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "1m 25s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425541",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11425542",
+                        "preview": false
+                    },
+                    {
+                        "name": "Thank You",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part1/lectures/11426594",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "displayName": "Code with Mosh",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "status": "active",
+        "websiteUrl": "https://codewithmosh.com",
+        "badFit": null,
+        "country": "US",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        }
+    }
+}

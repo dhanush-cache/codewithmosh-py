@@ -1,0 +1,816 @@
+{
+    "course": {
+        "id": 2187934,
+        "name": "Next.js Projects: Build an Issue Tracker",
+        "slug": "nextjs-projects-issue-tracker",
+        "heading": "Learn to Build Full-stack Apps with Next.js, TypeScript, Prisma, Tailwind, and Radix UI",
+        "promoVideoId": "nextjs-part2",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1696636158/promo-videos/nextjs-part2.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/0dKhU49vRbiSSWknbHAR_1920X1357.jpg",
+        "hours": 7,
+        "lessons": 100,
+        "categories": [
+            1,
+            2
+        ],
+        "level": "Intermediate to Pro",
+        "type": "single",
+        "price": 99,
+        "turnOffSale": false,
+        "releaseDate": "2023-10-06",
+        "previewUrl": "https://codewithmosh.teachable.com/courses/nextjs-projects-issue-tracker/lectures/49681402",
+        "parentBundleId": 2187911,
+        "outcomes": [
+            "Confidently build full-stack apps with Next.js 13+ and TypeScript",
+            "Master a methodical approach to build software",
+            "Build beautiful, modern UIs with Radix UI and Tailwind",
+            "Implement routing and navigation using the new App router",
+            "Build RESTful APIs",
+            "Use Prisma to integrate your Next.js apps with a database",
+            "Implement user authentication with NextAuth.js",
+            "Optimize your apps for performance and SEO",
+            "Learn VSCode shortcuts to increase your productivity",
+            "Properly structure your Next.js projects",
+            "Apply the latest techniques and best practices",
+            "Troubleshoot errors with ease",
+            "Deploy your Next.js apps"
+        ],
+        "audience": [
+            "Web developers seeking to master Next.js 13+ and TypeScript for full-stack app development",
+            "Frontend devs looking to explore full-stack development with Next.js.",
+            "Next.js developers looking to fill in knowledge gaps and solidify their expertise"
+        ],
+        "prerequisites": {
+            "courses": [
+                2178940
+            ],
+            "text": [
+                "This course is the second part of my Ultimate Next.js Series. To take this course, you should have completed the first part or be familiar with all the concepts covered there. More specifically, you need to be familiar with client and server components, routing, building APIs, database integration with Prisma, and implementing user authentication with NextAuth.js"
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "2m 05s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49681402",
+                        "preview": true
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "0m 50s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49685088",
+                        "preview": false
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": "0m 38s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49685068",
+                        "preview": false
+                    },
+                    {
+                        "name": "How to Take This Course",
+                        "duration": "0m 58s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49685070",
+                        "preview": false
+                    },
+                    {
+                        "name": "Questions and Support",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49681403",
+                        "preview": false
+                    },
+                    {
+                        "name": "Connect with Me",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49681404",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49681401",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Setting Up the Project",
+                "lessons": [
+                    {
+                        "name": "Project Roadmap",
+                        "duration": "2m 16s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642193",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up the Development Environment",
+                        "duration": "1m 17s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642191",
+                        "preview": true
+                    },
+                    {
+                        "name": "Creating the Project",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642194",
+                        "preview": true
+                    },
+                    {
+                        "name": "Building the navbar",
+                        "duration": "8m 52s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642192",
+                        "preview": true
+                    },
+                    {
+                        "name": "Styling the Active Link",
+                        "duration": "6m 18s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642195",
+                        "preview": true
+                    }
+                ]
+            },
+            {
+                "name": "Creating Issues",
+                "lessons": [
+                    {
+                        "name": "Setting Up MySQL",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642241",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up Prisma",
+                        "duration": "1m 46s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642240",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating the Issue Model",
+                        "duration": "6m 40s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642239",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building an API",
+                        "duration": "6m 55s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642247",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up Radix UI",
+                        "duration": "2m 33s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642234",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the New Issue Page",
+                        "duration": "4m 57s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642245",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing Radix UI Theme",
+                        "duration": "4m 53s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642238",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding a Markdown Editor",
+                        "duration": "1m 56s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642244",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Form Submission",
+                        "duration": "8m 43s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642235",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Errors",
+                        "duration": "6m 49s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642242",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing Client-side Validation",
+                        "duration": "6m 14s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642237",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting the ErrorMessage Component",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642236",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding a Spinner",
+                        "duration": "4m 21s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642246",
+                        "preview": false
+                    },
+                    {
+                        "name": "Discussion- Code Organization",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642243",
+                        "preview": false
+                    },
+                    {
+                        "name": "Troubleshooting: Extra attributes from the server",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49681126",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Viewing Issues",
+                "lessons": [
+                    {
+                        "name": "Showing the Issues",
+                        "duration": "5m 04s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49684887",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Issue Status Badge",
+                        "duration": "8m 08s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49684889",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Loading Skeletons",
+                        "duration": "6m 19s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49684885",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing Issue Details",
+                        "duration": "6m 46s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49684880",
+                        "preview": false
+                    },
+                    {
+                        "name": "Styling the Issue Detail Page",
+                        "duration": "4m 10s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49684881",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Markdown Preview",
+                        "duration": "3m 34s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49684883",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building a Styled Link Component",
+                        "duration": "6m 40s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49684888",
+                        "preview": false
+                    },
+                    {
+                        "name": "Additional Loading Skeletons",
+                        "duration": "5m 15s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49684884",
+                        "preview": false
+                    },
+                    {
+                        "name": "Disabling Server-side Rendering",
+                        "duration": "2m 58s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49684886",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring- Organizing Imports",
+                        "duration": "5m 27s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49684882",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Updating Issues",
+                "lessons": [
+                    {
+                        "name": "Adding the Edit Button",
+                        "duration": "4m 43s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642429",
+                        "preview": false
+                    },
+                    {
+                        "name": "Applying the Single Responsibility Principle",
+                        "duration": "7m 31s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642427",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Edit Issue Page",
+                        "duration": "6m 28s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642424",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building an API",
+                        "duration": "6m 44s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642426",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Issues",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642425",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding Caching",
+                        "duration": "8m 17s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642423",
+                        "preview": false
+                    },
+                    {
+                        "name": "Improving the Loading Experience",
+                        "duration": "6m 58s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642428",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Deleting Issues",
+                "lessons": [
+                    {
+                        "name": "Adding a Delete Button",
+                        "duration": "7m 02s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642460",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding a Confirmation Dialog Box",
+                        "duration": "4m 04s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642458",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building an API",
+                        "duration": "2m 43s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642464",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting an Issue",
+                        "duration": "2m 11s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642463",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Errors",
+                        "duration": "4m 29s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642462",
+                        "preview": false
+                    },
+                    {
+                        "name": "Improving the User Experience",
+                        "duration": "2m 21s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642459",
+                        "preview": false
+                    },
+                    {
+                        "name": "Removing Duplicate Skeletons",
+                        "duration": "4m 02s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642461",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Authentication",
+                "lessons": [
+                    {
+                        "name": "Setting Up NextAuth",
+                        "duration": "3m 47s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642486",
+                        "preview": false
+                    },
+                    {
+                        "name": "Configuring Google Provider",
+                        "duration": "5m 46s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642490",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding the Prisma Adapter",
+                        "duration": "5m 28s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642489",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding the Login and Logout Links",
+                        "duration": "5m 18s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642491",
+                        "preview": false
+                    },
+                    {
+                        "name": "Change the Layout of the NavBar",
+                        "duration": "4m 30s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642493",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding a Drop-down Menu",
+                        "duration": "4m 22s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642488",
+                        "preview": false
+                    },
+                    {
+                        "name": "Troubleshooting- Avatar Not Loading",
+                        "duration": "3m 02s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642492",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring the NavBar",
+                        "duration": "8m 07s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642495",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding a Loading Skeleton",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642487",
+                        "preview": false
+                    },
+                    {
+                        "name": "Securing the Application",
+                        "duration": "7m 45s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642494",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Assigning Issues to Users",
+                "lessons": [
+                    {
+                        "name": "Building the Assignee Select Component",
+                        "duration": "2m 57s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642516",
+                        "preview": false
+                    },
+                    {
+                        "name": "Populating the Assignee Select Component",
+                        "duration": "5m 36s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642517",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up React Query",
+                        "duration": "4m 20s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642515",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fetching Data with React Query",
+                        "duration": "6m 45s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642518",
+                        "preview": false
+                    },
+                    {
+                        "name": "Add Assigned Issues to Prisma Schema",
+                        "duration": "4m 05s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642520",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing the API",
+                        "duration": "10m 58s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642521",
+                        "preview": false
+                    },
+                    {
+                        "name": "Assigning an Issue to a User",
+                        "duration": "4m 38s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642514",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing Toast Notifications",
+                        "duration": "2m 42s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642519",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring the Assignee Select Component",
+                        "duration": "5m 16s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642522",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Filtering, Sorting, and Pagination",
+                "lessons": [
+                    {
+                        "name": "Building the Filter Component",
+                        "duration": "5m 53s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642653",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering Issues",
+                        "duration": "6m 41s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49660855",
+                        "preview": false
+                    },
+                    {
+                        "name": "Making Columns Sortable",
+                        "duration": "7m 19s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642659",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting Issues",
+                        "duration": "3m 07s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642658",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fix Filtering Bugs",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642661",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generating Dummy Data",
+                        "duration": "2m 51s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642657",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Pagination Component",
+                        "duration": "6m 14s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642655",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing Pagination",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642656",
+                        "preview": false
+                    },
+                    {
+                        "name": "PaginatingIssues",
+                        "duration": "4m 59s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642654",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring- Extracting IssueTable Component",
+                        "duration": "8m 37s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642660",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Dashboard",
+                "lessons": [
+                    {
+                        "name": "Building the LatestIssues Component",
+                        "duration": "7m 39s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642687",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the IssueSummary Component",
+                        "duration": "7m 20s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642688",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the BarChart Component",
+                        "duration": "6m 17s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642689",
+                        "preview": false
+                    },
+                    {
+                        "name": "Laying Out the Dashboard",
+                        "duration": "2m 29s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642686",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Going to Production",
+                "lessons": [
+                    {
+                        "name": "Adding Metadata",
+                        "duration": "4m 11s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642702",
+                        "preview": false
+                    },
+                    {
+                        "name": "Optimizing Performance Using React Cache",
+                        "duration": "4m 21s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642699",
+                        "preview": false
+                    },
+                    {
+                        "name": "Removing.env File",
+                        "duration": "3m 24s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642700",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up Error Tracking",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642703",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up the Production Database",
+                        "duration": "2m 33s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642704",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deploying to Vercel",
+                        "duration": "10m 30s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49642701",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Conclusion",
+                "lessons": [
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 25s",
+                        "type": 1,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49681199",
+                        "preview": false
+                    },
+                    {
+                        "name": "Feedback",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49681304",
+                        "preview": false
+                    },
+                    {
+                        "name": "Additional Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/nextjs-projects-issue-tracker/lectures/49681376",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

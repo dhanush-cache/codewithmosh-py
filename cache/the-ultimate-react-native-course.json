@@ -1,0 +1,115 @@
+{
+    "course": {
+        "id": 959159,
+        "name": "The Ultimate React Native Series",
+        "slug": "the-ultimate-react-native-course",
+        "heading": "Everything you need to build and distribute professional-quality apps with React Native",
+        "promoVideoId": "byckmdfctr",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768466/promo-videos/react-native.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/plHUTvCTFqcwdXeXY8PZ_react+native+final+file.jpg",
+        "hours": 12,
+        "lessons": 240,
+        "categories": [
+            4
+        ],
+        "bundleContents": [
+            887220,
+            955852
+        ],
+        "level": "Beginner to Pro",
+        "type": "bundle",
+        "price": 99,
+        "turnOffSale": false,
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5082227/the-ultimate-react-native-course-1",
+        "coupons": [],
+        "description": "The Ultimate React Native Bundle is a comprehensive, two-part course that takes you from the basics of mobile development to advanced techniques for building fully functional apps.\n\nThe first part focuses on the fundamentals, ensuring you have a strong foundation in React Native. You’ll learn how to properly structure your projects, run and debug apps, build layouts with Flexbox, and handle forms and data validation using Formik and Yup. By the end of the first part, you’ll be able to publish your apps to Expo with confidence, following best practices for writing clean and maintainable code.\n\nIn the second part, you’ll move into more advanced topics such as accessing native device features, implementing navigation with React Navigation, and communicating with REST APIs. You’ll also build offline-capable apps, manage data caching, implement authentication, handle push notifications, and much more. By the end of this course, you’ll have the skills and confidence to build, style, and publish professional-grade React Native apps, while using pro-level coding techniques to speed up your workflow.",
+        "outcomes": [
+            "Confidently build mobile apps using React Native",
+            "Properly structure your React Native projects",
+            "Run and debug React Native apps effectively",
+            "Work with core components and APIs",
+            "Build complex layouts with Flexbox",
+            "Apply beautiful styles to your components",
+            "Build forms with Formik",
+            "Implement data validation with Yup",
+            "Publish your React Native apps to Expo",
+            "Apply industry best practices",
+            "Write clean code like a pro",
+            "Use my favorite shortcuts to write code fast"
+        ],
+        "audience": [
+            "Developers who want to use their JavaScript skills to build mobile apps",
+            "Developers who want to add React Native to their resume to get a better job",
+            "Web developers who want to get into the mobile development industry",
+            "React Native developers who want to brush up on their skills and fill the gaps",
+            "Developers passionate about learning new technologies"
+        ],
+        "prerequisites": {
+            "courses": [
+                2037633
+            ],
+            "text": [
+                "To take this course, you don't need any familiar with React Native or iOS/Android development. However, you should have a good understanding of fundamental React concepts (components, JSX, props, state, etc) as well as modern JavaScript (arrow functions, modules, destructuring, spread operator, etc)."
+            ]
+        },
+        "projects": [
+            "In this course, we’ll create a fast and visually stunning mobile app—a full-featured marketplace for selling personal items, similar to Facebook Marketplace. You’ll build features like browsing by category, viewing item details, pull-to-refresh, and adding new listings with multiple photos, progress bars, and smooth animations. By the end, you’ll have a real, production-ready app to showcase your React Native skills. Check out a preview of this app in the trailer video on this page."
+        ],
+        "cta": {
+            "heading": "Master React Native & Build Real Mobile Apps",
+            "description": "React Native is the most popular framework for building mobile apps with JavaScript, used by companies like Facebook, Instagram, and Tesla. This complete bundle takes you from beginner to advanced, teaching you how to build fast, high-performance mobile apps for iOS and Android. No fluff. Just real-world React Native skills."
+        },
+        "curriculum": []
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

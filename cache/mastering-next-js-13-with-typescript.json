@@ -1,0 +1,872 @@
+{
+    "course": {
+        "id": 2178940,
+        "name": "Mastering Next.js 13 with TypeScript",
+        "slug": "mastering-next-js-13-with-typescript",
+        "heading": "Everything you need to build full-stack applications with Next.js 13+ (App Router) and TypeScript",
+        "promoVideoId": "nextjs-part1",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1694364873/promo-videos/nextjs-part1.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/0dKhU49vRbiSSWknbHAR_1920X1357.jpg",
+        "hours": 5,
+        "lessons": 110,
+        "categories": [
+            1,
+            2
+        ],
+        "level": "Beginner to Pro",
+        "type": "single",
+        "price": 99,
+        "turnOffSale": false,
+        "releaseDate": "2023-09-10",
+        "previewUrl": "https://codewithmosh.teachable.com/courses/mastering-next-js-13-with-typescript/lectures/49189423",
+        "parentBundleId": 2187911,
+        "outcomes": [
+            "Confidently build full-stack apps with Next.js 13+ and TypeScript",
+            "Style Next.js applications with Tailwind or CSS modules",
+            "Implement routing and navigation using the new App router",
+            "Build RESTful APIs",
+            "Use Prisma to integrate your Next.js apps with a database",
+            "Handle file uploads",
+            "Implement user authentication with NextAuth.js",
+            "Send beautifully styled emails",
+            "Optimize your apps for performance and SEO",
+            "Deploy your Next.js apps",
+            "Use VSCode shortcuts to increase your productivity",
+            "Apply the latest techniques and best practices",
+            "Troubleshoot errors with ease"
+        ],
+        "audience": [
+            "Web developers seeking to master Next.js 13+ and TypeScript for full-stack app development",
+            "Frontend devs looking to explore full-stack development with Next.js.",
+            "Next.js developers looking to fill in knowledge gaps and solidify their expertise"
+        ],
+        "prerequisites": {
+            "courses": [
+                2037633
+            ],
+            "text": [
+                "You don't need prior knowledge of Next.js to take this course. However, you should have some basic knowledge of React and TypeScript."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "2m 21s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49189423",
+                        "preview": true
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "1m 03s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120014",
+                        "preview": true
+                    },
+                    {
+                        "name": "Course Overview",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120012",
+                        "preview": true
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49131546",
+                        "preview": false
+                    },
+                    {
+                        "name": "Questions and Support",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120015",
+                        "preview": false
+                    },
+                    {
+                        "name": "Connect with Me",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120011",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120013",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Next.js Fundamentals",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 38s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120224",
+                        "preview": true
+                    },
+                    {
+                        "name": "What is Next.js",
+                        "duration": "2m 40s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120227",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up the Development Environment",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120222",
+                        "preview": true
+                    },
+                    {
+                        "name": "Creating Your First Next.js Project",
+                        "duration": "2m 21s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120223",
+                        "preview": true
+                    },
+                    {
+                        "name": "Project Structure",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120220",
+                        "preview": true
+                    },
+                    {
+                        "name": "Routing and Navigation",
+                        "duration": "5m 15s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120218",
+                        "preview": true
+                    },
+                    {
+                        "name": "Client and Server Components",
+                        "duration": "8m 12s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120221",
+                        "preview": true
+                    },
+                    {
+                        "name": "Data Fetching",
+                        "duration": "6m 04s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120219",
+                        "preview": false
+                    },
+                    {
+                        "name": "Caching",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120217",
+                        "preview": false
+                    },
+                    {
+                        "name": "Static and Dynamic Rendering",
+                        "duration": "4m 08s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120226",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120225",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Styling",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 20s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120291",
+                        "preview": false
+                    },
+                    {
+                        "name": "Global Styles",
+                        "duration": "2m 34s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120290",
+                        "preview": false
+                    },
+                    {
+                        "name": "CSS Modules",
+                        "duration": "4m 26s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120292",
+                        "preview": false
+                    },
+                    {
+                        "name": "Tailwind CSS",
+                        "duration": "7m 39s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120293",
+                        "preview": false
+                    },
+                    {
+                        "name": "DaisyUI",
+                        "duration": "7m 16s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120288",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120289",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Routing and Navigation",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 26s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120323",
+                        "preview": false
+                    },
+                    {
+                        "name": "Routing Overview",
+                        "duration": "3m 53s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120324",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dynamic Routes",
+                        "duration": "3m 59s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120319",
+                        "preview": false
+                    },
+                    {
+                        "name": "Catch-all Segments",
+                        "duration": "2m 53s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120318",
+                        "preview": false
+                    },
+                    {
+                        "name": "Accessing Query String Parameters",
+                        "duration": "7m 08s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120314",
+                        "preview": false
+                    },
+                    {
+                        "name": "Layouts",
+                        "duration": "8m 10s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120316",
+                        "preview": false
+                    },
+                    {
+                        "name": "Navigation",
+                        "duration": "3m 28s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120320",
+                        "preview": false
+                    },
+                    {
+                        "name": "Programmatic Navigation",
+                        "duration": "3m 10s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120315",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing Loading UIs",
+                        "duration": "6m 14s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120313",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Not Found Errors",
+                        "duration": "2m 40s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120322",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Unexpected Errors",
+                        "duration": "7m 19s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120317",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120321",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Building APIs",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 36s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120346",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting a Collection of Objects",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120347",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting a Single Object",
+                        "duration": "3m 19s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120344",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating an Object",
+                        "duration": "4m 37s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120352",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating an Object",
+                        "duration": "4m 24s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120345",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting an Object",
+                        "duration": "2m 05s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120350",
+                        "preview": false
+                    },
+                    {
+                        "name": "Validating Requests with Zod",
+                        "duration": "4m 16s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120349",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building Products API",
+                        "duration": "4m 58s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120351",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120348",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Database Integration with Prisma",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 44s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120382",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing MySQL",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120384",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up Prisma",
+                        "duration": "4m 57s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120378",
+                        "preview": false
+                    },
+                    {
+                        "name": "Defining Models",
+                        "duration": "4m 00s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120377",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Migrations",
+                        "duration": "5m 44s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120373",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Prisma Client",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120375",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Data",
+                        "duration": "4m 14s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120374",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Data",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120379",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Data",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120381",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting Data",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120376",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Storing Products in DB",
+                        "duration": "3m 30s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120380",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120383",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Uploading Files",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 15s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120429",
+                        "preview": false
+                    },
+                    {
+                        "name": "Choosing a Cloud Platform",
+                        "duration": "1m 04s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120430",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up Cloudinary",
+                        "duration": "1m 52s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120431",
+                        "preview": false
+                    },
+                    {
+                        "name": "Uploading Files",
+                        "duration": "4m 35s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120428",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing Uploaded Images",
+                        "duration": "4m 38s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120434",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing the Upload Widget",
+                        "duration": "1m 53s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120433",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120432",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Authentication with Next Auth",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 56s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120443",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up Next Auth",
+                        "duration": "4m 38s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120444",
+                        "preview": false
+                    },
+                    {
+                        "name": "Configuring Google Provider",
+                        "duration": "11m 21s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120447",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding Authentication Sessions",
+                        "duration": "3m 29s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120453",
+                        "preview": false
+                    },
+                    {
+                        "name": "Accessing Sessions on the Client",
+                        "duration": "6m 14s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120451",
+                        "preview": false
+                    },
+                    {
+                        "name": "Accessing Session on the Server",
+                        "duration": "1m 55s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120442",
+                        "preview": false
+                    },
+                    {
+                        "name": "Signing Out Users",
+                        "duration": "1m 19s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120449",
+                        "preview": false
+                    },
+                    {
+                        "name": "Protecting Routes",
+                        "duration": "5m 15s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120441",
+                        "preview": false
+                    },
+                    {
+                        "name": "Database Adapters",
+                        "duration": "6m 38s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120445",
+                        "preview": false
+                    },
+                    {
+                        "name": "Configuring CredentialsProvider",
+                        "duration": "7m 11s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120452",
+                        "preview": false
+                    },
+                    {
+                        "name": "Registering Users",
+                        "duration": "7m 13s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120450",
+                        "preview": false
+                    },
+                    {
+                        "name": "Additional Reading",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120446",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120454",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120448",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Sending Emails",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 15s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120518",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up React Email",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120521",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating an Email Template",
+                        "duration": "2m 06s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120522",
+                        "preview": false
+                    },
+                    {
+                        "name": "Previewing Emails",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120519",
+                        "preview": false
+                    },
+                    {
+                        "name": "Styling Emails",
+                        "duration": "3m 09s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120517",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sending Emails",
+                        "duration": "4m 34s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120520",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sending Emails",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120516",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Optimizations",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 25s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120544",
+                        "preview": false
+                    },
+                    {
+                        "name": "Optimizing Images",
+                        "duration": "11m 33s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120542",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Third-party Scripts",
+                        "duration": "4m 55s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120547",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Fonts",
+                        "duration": "6m 50s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120545",
+                        "preview": false
+                    },
+                    {
+                        "name": "Search Engine Optimization",
+                        "duration": "2m 46s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120548",
+                        "preview": false
+                    },
+                    {
+                        "name": "Lazy Loading",
+                        "duration": "10m 37s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120546",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120543",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Deployment",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 15s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120620",
+                        "preview": false
+                    },
+                    {
+                        "name": "Preparing for Production",
+                        "duration": "5m 27s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120618",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pushing the Code to GitHub",
+                        "duration": "3m 06s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120619",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deploying to Vercel",
+                        "duration": "3m 44s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49149442",
+                        "preview": false
+                    },
+                    {
+                        "name": "Troubleshooting Deployment Errors",
+                        "duration": "4m 10s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49149444",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Conclusion",
+                "lessons": [
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 25s",
+                        "type": 1,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49144392",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49144416",
+                        "preview": false
+                    },
+                    {
+                        "name": "What's Next",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120927",
+                        "preview": false
+                    },
+                    {
+                        "name": "Feedback",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-next-js-13-with-typescript/lectures/49120865",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

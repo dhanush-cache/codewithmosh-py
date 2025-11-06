@@ -1,0 +1,1771 @@
+{
+    "course": {
+        "id": 293204,
+        "name": "The Complete Node.js Course",
+        "slug": "the-complete-node-js-course",
+        "heading": "Learn to build highly-scalable, fast and secure RESTful APIs with Node, Express, and MongoDB.",
+        "promoVideoId": "n84j7uvc6n",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768908/promo-videos/node.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/FuZI7OIrTyUXxwCaW1e0_nodejs-1500x844.png",
+        "hours": 15,
+        "lessons": 220,
+        "categories": [
+            2
+        ],
+        "level": "Beginner to Pro",
+        "type": "single",
+        "price": 99,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/the-complete-node-js-course/lectures/4509750",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141216/the-complete-node-js-course-1",
+        "coupons": [],
+        "description": "The Complete Node.js Course is your all-in-one guide to mastering server-side JavaScript development with Node.js. Whether you’re building your first back-end application or looking to deepen your Node.js skills, this course covers everything you need to become proficient in Node.js and Express.js.\n\nYou’ll start by understanding the fundamentals of Node.js and how it fits into modern server-side development. From there, you’ll dive into core modules, APIs, and the use of NPM to manage third-party libraries. You’ll learn to build RESTful APIs, store data using Mongoose, and implement data validation, authentication, and authorization for secure applications. Along the way, you’ll tackle error handling, write unit and integration tests, and even build new features using test-driven development (TDD).\n\nBy the end of this course, you’ll know how to manage configuration settings, handle environment-specific variables, and deploy your Node applications with confidence.",
+        "outcomes": [
+            "Understand the fundamentals of Node.js and its role in server-side JavaScript development",
+            "Master the core modules and APIs in Node.js",
+            "Utilize NPM (Node Package Manager) to manage third-party libraries",
+            "Build RESTful APIs using Node and Express.js",
+            "Store and retrieve data using Mongoose",
+            "Implement data validation",
+            "Handle authentication and authorization",
+            "Handle and log errors effectively",
+            "Write unit and integration tests",
+            "Build new features using test-driven development (TDD)",
+            "Manage configuration settings and environment-specific variables",
+            "Deploy your Node applications"
+        ],
+        "audience": [
+            "Back-end developers familiar with frameworks like ASP.NET, Rails, Django, etc who want to add Node to their toolbox",
+            "Front-end developers who want to transition to full-stack development"
+        ],
+        "prerequisites": {
+            "courses": [
+                1896395
+            ],
+            "text": [
+                "You don't need any familiarity with Node, Express or MongoDB. You just need some basic familiarity with JavaScript."
+            ]
+        },
+        "cta": {
+            "heading": "Build Scalable APIs with Node.js",
+            "description": "Node.js powers fast, high-performance APIs for companies like Netflix, PayPal, and Uber. If you want to build modern backend applications, this is a must-have skill. This structured, hands-on course teaches you how to design, build, and deploy real-world APIs with Node.js—fast. No fluff. Just practical backend development skills."
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "0m 30s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509750",
+                        "preview": true
+                    },
+                    {
+                        "name": "What is Node",
+                        "duration": "2m 59s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509035",
+                        "preview": true
+                    },
+                    {
+                        "name": "Node Architecture",
+                        "duration": "3m 01s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509036",
+                        "preview": true
+                    },
+                    {
+                        "name": "How Node Works",
+                        "duration": "4m 23s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509038",
+                        "preview": true
+                    },
+                    {
+                        "name": "Installing Node",
+                        "duration": "2m 31s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509037",
+                        "preview": true
+                    },
+                    {
+                        "name": "Your First Node Program",
+                        "duration": "2m 19s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509039",
+                        "preview": true
+                    },
+                    {
+                        "name": "Course Structure",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509040",
+                        "preview": true
+                    },
+                    {
+                        "name": "Recap",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/4508994",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/25353391",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/34609884",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Node Module System",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 28s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509169",
+                        "preview": false
+                    },
+                    {
+                        "name": "Global Object",
+                        "duration": "3m 21s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509174",
+                        "preview": false
+                    },
+                    {
+                        "name": "Modules",
+                        "duration": "3m 35s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509176",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Module",
+                        "duration": "4m 43s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509175",
+                        "preview": false
+                    },
+                    {
+                        "name": "Loading a Module",
+                        "duration": "5m 22s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509178",
+                        "preview": false
+                    },
+                    {
+                        "name": "Module Wrapper Function",
+                        "duration": "4m 40s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509177",
+                        "preview": false
+                    },
+                    {
+                        "name": "Path Module",
+                        "duration": "4m 08s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509179",
+                        "preview": false
+                    },
+                    {
+                        "name": "OS Module",
+                        "duration": "4m 17s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509180",
+                        "preview": false
+                    },
+                    {
+                        "name": "File System Module",
+                        "duration": "4m 50s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509181",
+                        "preview": false
+                    },
+                    {
+                        "name": "Events Module",
+                        "duration": "6m 17s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509173",
+                        "preview": false
+                    },
+                    {
+                        "name": "Event Arguments",
+                        "duration": "3m 08s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509170",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extending EventEmitter",
+                        "duration": "8m 01s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509172",
+                        "preview": false
+                    },
+                    {
+                        "name": "HTTP Module",
+                        "duration": "7m 24s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509211",
+                        "preview": false
+                    },
+                    {
+                        "name": "Node Core Recap",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509182",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Node Package Manager",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "3m 41s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509344",
+                        "preview": false
+                    },
+                    {
+                        "name": "Package.json",
+                        "duration": "2m 54s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509352",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing a Node Package",
+                        "duration": "3m 33s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509362",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using a Package",
+                        "duration": "3m 20s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509351",
+                        "preview": false
+                    },
+                    {
+                        "name": "Package Dependencies",
+                        "duration": "3m 18s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509356",
+                        "preview": false
+                    },
+                    {
+                        "name": "NPM Packages and Source Control",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509354",
+                        "preview": false
+                    },
+                    {
+                        "name": "Semantic Versioning",
+                        "duration": "4m 29s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509355",
+                        "preview": false
+                    },
+                    {
+                        "name": "Listing the Installed Packages",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509357",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing Registry Info for a Package",
+                        "duration": "2m 45s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509358",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing a Specific Version of a Package",
+                        "duration": "1m 05s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509348",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Local Packages",
+                        "duration": "5m 02s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509345",
+                        "preview": false
+                    },
+                    {
+                        "name": "DevDependencies",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509346",
+                        "preview": false
+                    },
+                    {
+                        "name": "Uninstalling a Package",
+                        "duration": "0m 40s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509349",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Global Packages",
+                        "duration": "2m 32s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509347",
+                        "preview": false
+                    },
+                    {
+                        "name": "Publishing a Package",
+                        "duration": "4m 32s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509353",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating a Published Package",
+                        "duration": "1m 55s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509350",
+                        "preview": false
+                    },
+                    {
+                        "name": "NPM Recap",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509359",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Building RESTful API's Using Express",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 47s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509485",
+                        "preview": false
+                    },
+                    {
+                        "name": "RESTful Services",
+                        "duration": "5m 57s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509492",
+                        "preview": false
+                    },
+                    {
+                        "name": "Introducing Express",
+                        "duration": "2m 19s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509491",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building Your First Web Server",
+                        "duration": "5m 45s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509495",
+                        "preview": false
+                    },
+                    {
+                        "name": "Nodemon",
+                        "duration": "1m 30s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509493",
+                        "preview": false
+                    },
+                    {
+                        "name": "Environment Variables",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509496",
+                        "preview": false
+                    },
+                    {
+                        "name": "Route Parameters",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509494",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling HTTP GET Requests",
+                        "duration": "4m 45s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509499",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling HTTP POST Requests",
+                        "duration": "3m 42s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509497",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calling Endpoints Using Postman",
+                        "duration": "2m 07s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509488",
+                        "preview": false
+                    },
+                    {
+                        "name": "Input Validation",
+                        "duration": "7m 58s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4516859",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling HTTP PUT Requests",
+                        "duration": "8m 30s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509489",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling HTTP Delete Requests",
+                        "duration": "4m 44s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509487",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- Build the Genres API",
+                        "duration": "1m 18s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509490",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building RESTful APIs with Express Recap",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509498",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/6069426",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Express- Advanced Topics",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 22s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509850",
+                        "preview": false
+                    },
+                    {
+                        "name": "Middleware",
+                        "duration": "2m 48s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509839",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Custom Middleware",
+                        "duration": "4m 23s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509840",
+                        "preview": false
+                    },
+                    {
+                        "name": "Built-in Middleware",
+                        "duration": "3m 57s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509842",
+                        "preview": false
+                    },
+                    {
+                        "name": "Third-party Middleware",
+                        "duration": "3m 55s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509843",
+                        "preview": false
+                    },
+                    {
+                        "name": "Environments",
+                        "duration": "4m 05s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509845",
+                        "preview": false
+                    },
+                    {
+                        "name": "Configuration",
+                        "duration": "9m 45s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509846",
+                        "preview": false
+                    },
+                    {
+                        "name": "Debugging",
+                        "duration": "6m 54s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509844",
+                        "preview": false
+                    },
+                    {
+                        "name": "Templating Engines",
+                        "duration": "4m 55s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509853",
+                        "preview": false
+                    },
+                    {
+                        "name": "Database Integration",
+                        "duration": "1m 36s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509835",
+                        "preview": false
+                    },
+                    {
+                        "name": "Authentication",
+                        "duration": "0m 29s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509836",
+                        "preview": false
+                    },
+                    {
+                        "name": "Structuring Express Applications",
+                        "duration": "7m 44s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509837",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- Restructure the App",
+                        "duration": "3m 05s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509838",
+                        "preview": false
+                    },
+                    {
+                        "name": "Express- Advanced Topics Recap",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509847",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Asynchronous JavaScript",
+                "lessons": [
+                    {
+                        "name": "Synchronous vs Asynchronous Code",
+                        "duration": "5m 51s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509874",
+                        "preview": false
+                    },
+                    {
+                        "name": "Patterns for Dealing with Asynchronous Code",
+                        "duration": "3m 07s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509876",
+                        "preview": false
+                    },
+                    {
+                        "name": "Callbacks",
+                        "duration": "5m 59s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509875",
+                        "preview": false
+                    },
+                    {
+                        "name": "Callback Hell",
+                        "duration": "2m 27s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509878",
+                        "preview": false
+                    },
+                    {
+                        "name": "Named Functions to Rescue",
+                        "duration": "4m 41s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509881",
+                        "preview": false
+                    },
+                    {
+                        "name": "Promises",
+                        "duration": "8m 37s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509880",
+                        "preview": false
+                    },
+                    {
+                        "name": "Replacing Callbacks with Promises",
+                        "duration": "3m 31s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509883",
+                        "preview": false
+                    },
+                    {
+                        "name": "Consuming Promises",
+                        "duration": "5m 31s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509879",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Settled Promises",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509882",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running Promises in Parallel",
+                        "duration": "6m 14s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4526071",
+                        "preview": false
+                    },
+                    {
+                        "name": "Async and Await",
+                        "duration": "6m 55s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509873",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": "5m 56s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4509877",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "CRUD Operations Using Mongoose",
+                "lessons": [
+                    {
+                        "name": "Introducing MongoDB",
+                        "duration": "2m 00s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510053",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing MongoDB on Mac",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510082",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing MongoDB on Windows",
+                        "duration": "5m 39s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510087",
+                        "preview": false
+                    },
+                    {
+                        "name": "Connecting to MongoDB",
+                        "duration": "3m 52s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510092",
+                        "preview": false
+                    },
+                    {
+                        "name": "Schemas",
+                        "duration": "3m 48s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510094",
+                        "preview": false
+                    },
+                    {
+                        "name": "Models",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510093",
+                        "preview": false
+                    },
+                    {
+                        "name": "Saving a Document",
+                        "duration": "3m 33s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510100",
+                        "preview": false
+                    },
+                    {
+                        "name": "Querying Documents",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510097",
+                        "preview": false
+                    },
+                    {
+                        "name": "Comparison Query Operators",
+                        "duration": "4m 59s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510104",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logical Query Operators",
+                        "duration": "2m 01s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510073",
+                        "preview": false
+                    },
+                    {
+                        "name": "Regular Expressions",
+                        "duration": "3m 20s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510112",
+                        "preview": false
+                    },
+                    {
+                        "name": "Counting",
+                        "duration": "0m 49s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510055",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pagination",
+                        "duration": "1m 36s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510054",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 1",
+                        "duration": "7m 57s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510060",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 2",
+                        "duration": "4m 34s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510062",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 3",
+                        "duration": "3m 19s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510065",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating a Document- Query First",
+                        "duration": "3m 35s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510084",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating a Document- Update First",
+                        "duration": "6m 14s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510083",
+                        "preview": false
+                    },
+                    {
+                        "name": "Removing Documents",
+                        "duration": "2m 38s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510081",
+                        "preview": false
+                    },
+                    {
+                        "name": "CRUD Operations with Mongoose and MongoDB Recap",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510106",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Mongo - Data Validation",
+                "lessons": [
+                    {
+                        "name": "Validation",
+                        "duration": "6m 59s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510405",
+                        "preview": false
+                    },
+                    {
+                        "name": "Built-in Validators",
+                        "duration": "4m 54s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510406",
+                        "preview": false
+                    },
+                    {
+                        "name": "Custom Validators",
+                        "duration": "3m 16s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510407",
+                        "preview": false
+                    },
+                    {
+                        "name": "Async Validators",
+                        "duration": "2m 34s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510408",
+                        "preview": false
+                    },
+                    {
+                        "name": "Validation Errors",
+                        "duration": "3m 37s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510409",
+                        "preview": false
+                    },
+                    {
+                        "name": "SchemaType Options",
+                        "duration": "5m 56s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510412",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- Add Persistence to Genres API",
+                        "duration": "14m 05s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510413",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- Build the Customers API",
+                        "duration": "6m 59s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510416",
+                        "preview": false
+                    },
+                    {
+                        "name": "Restructuring the Project",
+                        "duration": "6m 14s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510414",
+                        "preview": false
+                    },
+                    {
+                        "name": "Mongoose Validation Recap",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510417",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Mongoose- Modeling Relationships between Connected Data",
+                "lessons": [
+                    {
+                        "name": "Modelling Relationships",
+                        "duration": "7m 45s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510440",
+                        "preview": false
+                    },
+                    {
+                        "name": "Referencing Documents",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510443",
+                        "preview": false
+                    },
+                    {
+                        "name": "Population",
+                        "duration": "4m 15s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510444",
+                        "preview": false
+                    },
+                    {
+                        "name": "Embedding Documents",
+                        "duration": "6m 54s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510445",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using an Array of Sub-documents",
+                        "duration": "4m 31s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510446",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- Build the Movies API",
+                        "duration": "7m 05s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510447",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- Build the Rentals API",
+                        "duration": "8m 01s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510448",
+                        "preview": false
+                    },
+                    {
+                        "name": "Transactions",
+                        "duration": "8m 45s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510449",
+                        "preview": false
+                    },
+                    {
+                        "name": "ObjectID",
+                        "duration": "7m 03s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510450",
+                        "preview": false
+                    },
+                    {
+                        "name": "Validating ObjectIDs",
+                        "duration": "6m 13s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510441",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Better Implementation",
+                        "duration": "2m 23s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510442",
+                        "preview": false
+                    },
+                    {
+                        "name": "Mongoose- Modelling Relationships between Connected Data Recap",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510451",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Authentication and Authorization",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "4m 01s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510502",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating the User Model",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510496",
+                        "preview": false
+                    },
+                    {
+                        "name": "Registering Users",
+                        "duration": "7m 53s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510497",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Lodash",
+                        "duration": "5m 21s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510500",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hashing Passwords",
+                        "duration": "6m 54s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510501",
+                        "preview": false
+                    },
+                    {
+                        "name": "Authenticating Users",
+                        "duration": "4m 54s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510499",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Authentication",
+                        "duration": "2m 42s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510503",
+                        "preview": false
+                    },
+                    {
+                        "name": "JSON Web Tokens",
+                        "duration": "5m 04s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510504",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generating Authentication Tokens",
+                        "duration": "3m 18s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510505",
+                        "preview": false
+                    },
+                    {
+                        "name": "Storing Secrets in Environment Variables",
+                        "duration": "6m 12s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510488",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Response Headers",
+                        "duration": "3m 46s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510487",
+                        "preview": false
+                    },
+                    {
+                        "name": "Encapsulating Logic in Mongoose Models",
+                        "duration": "7m 11s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510489",
+                        "preview": false
+                    },
+                    {
+                        "name": "Authorization Middleware",
+                        "duration": "6m 50s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510490",
+                        "preview": false
+                    },
+                    {
+                        "name": "Protecting Routes",
+                        "duration": "3m 06s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510491",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting the Current User",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510492",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logging Out Users",
+                        "duration": "2m 04s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510493",
+                        "preview": false
+                    },
+                    {
+                        "name": "Role-based Authorization",
+                        "duration": "5m 43s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510494",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Authorization",
+                        "duration": "4m 10s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510495",
+                        "preview": false
+                    },
+                    {
+                        "name": "Authentication and Authorization Recap",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510506",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Handling and Logging Errors",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "3m 02s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510573",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Rejected Promises",
+                        "duration": "3m 07s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510577",
+                        "preview": false
+                    },
+                    {
+                        "name": "Express Error Middleware",
+                        "duration": "4m 40s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510588",
+                        "preview": false
+                    },
+                    {
+                        "name": "Removing Try Catch Blocks",
+                        "duration": "8m 29s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510581",
+                        "preview": false
+                    },
+                    {
+                        "name": "Express Async Errors",
+                        "duration": "3m 18s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510585",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logging Errors",
+                        "duration": "6m 36s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510582",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logging to MongoDB",
+                        "duration": "4m 11s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510583",
+                        "preview": false
+                    },
+                    {
+                        "name": "Uncaught Exceptions",
+                        "duration": "3m 35s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510584",
+                        "preview": false
+                    },
+                    {
+                        "name": "Unhandled Promise Rejections",
+                        "duration": "7m 23s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510586",
+                        "preview": false
+                    },
+                    {
+                        "name": "Error Handling Recap",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510576",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting Routes",
+                        "duration": "4m 54s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510579",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting the Db Logic",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510580",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting the Logging Logic",
+                        "duration": "2m 11s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510578",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting the Config Logic",
+                        "duration": "2m 30s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510574",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting the Validation Logic",
+                        "duration": "1m 53s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510575",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing Unhandled Exceptions on the Console",
+                        "duration": "1m 29s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4598147",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling and Logging Errors Recap",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510587",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Unit Testing",
+                "lessons": [
+                    {
+                        "name": "What is Automated Testing",
+                        "duration": "2m 40s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510647",
+                        "preview": false
+                    },
+                    {
+                        "name": "Benefits of Automated Testing",
+                        "duration": "2m 37s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510657",
+                        "preview": false
+                    },
+                    {
+                        "name": "Types of Tests",
+                        "duration": "4m 00s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510663",
+                        "preview": false
+                    },
+                    {
+                        "name": "Test Pyramid",
+                        "duration": "2m 55s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510659",
+                        "preview": false
+                    },
+                    {
+                        "name": "Tooling",
+                        "duration": "2m 15s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510661",
+                        "preview": false
+                    },
+                    {
+                        "name": "Writing Your First Unit Test",
+                        "duration": "5m 00s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510662",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing Numbers",
+                        "duration": "6m 36s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510664",
+                        "preview": false
+                    },
+                    {
+                        "name": "Grouping Tests",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510665",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring with Confidence",
+                        "duration": "2m 43s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510667",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing Strings",
+                        "duration": "3m 24s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510648",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing Arrays",
+                        "duration": "5m 50s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510649",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing Objects",
+                        "duration": "5m 30s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510650",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing Exceptions",
+                        "duration": "7m 25s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510651",
+                        "preview": false
+                    },
+                    {
+                        "name": "Continuously Running Tests",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510654",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Testing the FizzBuz",
+                        "duration": "5m 28s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510653",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Simple Mock Functions",
+                        "duration": "5m 37s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510652",
+                        "preview": false
+                    },
+                    {
+                        "name": "Interaction Testing",
+                        "duration": "5m 00s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510656",
+                        "preview": false
+                    },
+                    {
+                        "name": "Jest Mock Functions",
+                        "duration": "7m 16s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510655",
+                        "preview": false
+                    },
+                    {
+                        "name": "What to Unit Test",
+                        "duration": "3m 06s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510658",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": "7m 39s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510660",
+                        "preview": false
+                    },
+                    {
+                        "name": "Unit Testing Recap",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510666",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Integration Testing",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 09s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510706",
+                        "preview": false
+                    },
+                    {
+                        "name": "Preparing the App",
+                        "duration": "2m 18s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510711",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up the Test Db",
+                        "duration": "3m 01s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510709",
+                        "preview": false
+                    },
+                    {
+                        "name": "Your First Integration Test",
+                        "duration": "5m 44s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510712",
+                        "preview": false
+                    },
+                    {
+                        "name": "Populating the Test Db",
+                        "duration": "6m 17s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510713",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing Routes with Parameters",
+                        "duration": "3m 19s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510714",
+                        "preview": false
+                    },
+                    {
+                        "name": "Validating ObjectIDs",
+                        "duration": "3m 31s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510715",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring with Confidence",
+                        "duration": "2m 04s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510716",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Authorization",
+                        "duration": "2m 39s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510717",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Invalid Inputs",
+                        "duration": "5m 32s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510702",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Happy Path",
+                        "duration": "2m 35s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510705",
+                        "preview": false
+                    },
+                    {
+                        "name": "Writing Clean Tests",
+                        "duration": "8m 40s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510704",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Auth Middleware",
+                        "duration": "9m 45s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510703",
+                        "preview": false
+                    },
+                    {
+                        "name": "Unit Testing the Auth Middleware",
+                        "duration": "6m 14s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510707",
+                        "preview": false
+                    },
+                    {
+                        "name": "Code Coverage",
+                        "duration": "7m 09s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510710",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": "0m 26s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510708",
+                        "preview": false
+                    },
+                    {
+                        "name": "Integration Testing Recap",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510718",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Test-Driven Development",
+                "lessons": [
+                    {
+                        "name": "What is Test-driven Development",
+                        "duration": "2m 54s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510898",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing the Returns",
+                        "duration": "2m 33s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510905",
+                        "preview": false
+                    },
+                    {
+                        "name": "Test Cases",
+                        "duration": "2m 53s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510907",
+                        "preview": false
+                    },
+                    {
+                        "name": "Populating the Database",
+                        "duration": "7m 14s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510910",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Authorization",
+                        "duration": "7m 22s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510908",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Input",
+                        "duration": "3m 42s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510909",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring Tests",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510913",
+                        "preview": false
+                    },
+                    {
+                        "name": "Looking Up an Object",
+                        "duration": "3m 04s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510911",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing if Rental Processed",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510914",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Valid Request",
+                        "duration": "2m 23s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510899",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the ReturnDate",
+                        "duration": "4m 15s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510901",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the RentalFee",
+                        "duration": "4m 50s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510900",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Movie Stock",
+                        "duration": "5m 37s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510902",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Response",
+                        "duration": "3m 36s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510903",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring the Validation Logic",
+                        "duration": "6m 44s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510912",
+                        "preview": false
+                    },
+                    {
+                        "name": "Mongoose Static Methods",
+                        "duration": "6m 12s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510904",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring the Domain Logic",
+                        "duration": "4m 04s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4510906",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Deployment",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 21s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4600072",
+                        "preview": false
+                    },
+                    {
+                        "name": "Preparing the App for Production",
+                        "duration": "2m 28s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4600067",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Started with Heroku",
+                        "duration": "2m 15s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4600068",
+                        "preview": false
+                    },
+                    {
+                        "name": "Preparing the App for Heroku",
+                        "duration": "1m 55s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4600069",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding the Code to a Git Repository",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4600071",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deploying to Heroku",
+                        "duration": "3m 44s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4600070",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing Logs",
+                        "duration": "2m 45s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4600073",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Environment Variables",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4600075",
+                        "preview": false
+                    },
+                    {
+                        "name": "MongoDB in the Cloud",
+                        "duration": "8m 23s",
+                        "type": 1,
+                        "href": "/courses/the-complete-node-js-course/lectures/4600074",
+                        "preview": false
+                    },
+                    {
+                        "name": "Wrap Up",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/6069723",
+                        "preview": false
+                    },
+                    {
+                        "name": "What to Learn Next",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-complete-node-js-course/lectures/10253838",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

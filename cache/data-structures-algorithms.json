@@ -1,0 +1,114 @@
+{
+    "course": {
+        "id": 680815,
+        "name": "The Ultimate Data Structures & Algorithms Bundle",
+        "slug": "data-structures-algorithms",
+        "heading": "Ace your coding job interview. Learn to write better and faster code.",
+        "promoVideoId": "hclxtwqlc7",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769276/promo-videos/dsa-part1.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/cAHw6qPCQKScz9SDKriJ_New+Covers.002.jpeg",
+        "hours": 13,
+        "lessons": 300,
+        "categories": [
+            6
+        ],
+        "bundleContents": [
+            639884,
+            650827,
+            680168
+        ],
+        "level": "Beginner to Pro",
+        "type": "bundle",
+        "price": 149,
+        "turnOffSale": false,
+        "bonus": "IntelliJ",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/4759457/data-structures-algorithms-1",
+        "coupons": [
+            {
+                "code": "MOSHBYTES",
+                "discount": 0.9
+            }
+        ],
+        "description": "The Ultimate Data Structures & Algorithms Bundle is designed to help you ace your coding job interview and write better, faster code. Whether you’re preparing for a technical interview or just looking to sharpen your skills, this course covers everything you need to master data structures and algorithms.\n\nYou’ll learn to implement essential data structures like arrays, linked lists, stacks, queues, and trees. We’ll dive into common algorithms such as searching, sorting, and graph algorithms, and you’ll learn to analyze and evaluate the time and space complexity of your solutions.\n\nIn addition to the fundamentals, we’ll cover advanced data structures like hash tables, heaps, and tries, and you’ll implement graph algorithms such as breadth-first search and depth-first search. By the end of this course, you’ll have the skills and confidence to tackle coding challenges and ace your next technical interview.",
+        "outcomes": [
+            "Master essential data structures such as arrays, linked lists, stacks, queues, and trees",
+            "Implement common algorithms including searching, sorting, and graph algorithms",
+            "Analyze and evaluate the time and space complexity of algorithms",
+            "Understand and implement various graph algorithms such as breadth-first search and depth-first search",
+            "Utilize advanced data structures such as hash tables, heaps, and tries"
+        ],
+        "audience": [
+            "Students and professionals in computer science or related fields",
+            "Self-taught programmers looking to level up their skills",
+            "Programmers looking to write more efficient and optimized code",
+            "Those interested in competitive programming",
+            "Those seeking to build a solid foundation in programming",
+            "Experienced programmers seeking to enhance their skills"
+        ],
+        "prerequisites": {
+            "courses": [
+                580597
+            ],
+            "text": [
+                "In this course, I use Java to teach the concepts but you can apply these concepts in any programming language. Our focus is on problem-solving, not programming languages and tools.",
+                "All you need to take this course are some basic programming skills. If you know variables, loops, and conditional statements, you're good."
+            ]
+        },
+        "cta": {
+            "heading": "Ace Coding Interviews & Write Better Code",
+            "description": "Want to land a job at Google, Amazon, or Meta? Mastering data structures & algorithms is key to passing technical interviews and writing efficient, scalable code. This structured, hands-on course makes complex concepts simple—so you can solve problems with confidence. No fluff. Just real-world coding skills."
+        },
+        "curriculum": []
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

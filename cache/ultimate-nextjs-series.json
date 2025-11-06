@@ -1,0 +1,121 @@
+{
+    "course": {
+        "id": 2187911,
+        "name": "The Ultimate Next.js Series",
+        "slug": "ultimate-nextjs-series",
+        "heading": "Everything you need to build fast, full-stack web apps with Next.js 13+ (App Router) and TypeScript",
+        "promoVideoId": "nextjs-bundle",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1696636179/promo-videos/nextjs-bundle.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/0dKhU49vRbiSSWknbHAR_1920X1357.jpg",
+        "hours": 12,
+        "lessons": 210,
+        "categories": [
+            1,
+            2
+        ],
+        "type": "bundle",
+        "bundleContents": [
+            2178940,
+            2187934
+        ],
+        "level": "Beginner to Pro",
+        "price": 149,
+        "turnOffSale": false,
+        "releaseDate": "2023-10-06",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5010638/ultimate-nextjs-series",
+        "coupons": [],
+        "description": "The Ultimate Next.js Series is your complete guide to building modern, full-stack applications with Next.js 13+ (App Router) and TypeScript. In this project-based Next.js course, you’ll build and deploy a production-grade issue tracker —— packed with real-world features like dashboards, filtering, sorting, pagination, forms, authentication, modal boxes, toast notifications, and more.\n\nBy the end, you’ll have a **polished, fast, responsive, fully functioning app in the cloud** that you can share with friends or potential employers to help you land your dream job. We’ll use a modern tech stack: Next.js, TypeScript, Tailwind, Radix UI, Prisma, and Next Auth.\n\nI’ll walk you through every line of code, helping you understand how to structure full-stack projects, write clean, scalable code, and build apps like a seasoned developer.\n\nAs always, this course is **clear, concise, comprehensive, well-organized, and practical** — ideal if you want to learn Next.js by building a real, full-stack web app from scratch.",
+        "outcomes": [
+            "Confidently build full-stack apps with Next.js 13+ and TypeScript",
+            "Style Next.js applications with Tailwind or CSS modules",
+            "Implement routing and navigation using the new App router",
+            "Build RESTful APIs",
+            "Use Prisma to integrate your Next.js apps with a database",
+            "Handle file uploads",
+            "Implement user authentication with NextAuth.js",
+            "Send beautifully styled emails",
+            "Optimize your apps for performance and SEO",
+            "Deploy your Next.js apps",
+            "Use VSCode shortcuts to increase your productivity",
+            "Apply the latest techniques and best practices",
+            "Troubleshoot errors with ease"
+        ],
+        "audience": [
+            "Web developers seeking to master Next.js 13+ and TypeScript for full-stack app development",
+            "Frontend devs looking to explore full-stack development with Next.js.",
+            "Next.js developers looking to fill in knowledge gaps and solidify their expertise"
+        ],
+        "prerequisites": {
+            "courses": [
+                2037633
+            ],
+            "text": [
+                "You don't need prior knowledge of Next.js to take this course. However, you should have some basic knowledge of React and TypeScript."
+            ]
+        },
+        "projects": [
+            "In this course, we’ll create and deploy a professional, full-stack issue tracker with all the features you’d expect in a modern app: a dashboard with charts, filtering, sorting, pagination, forms with client-side validation, user authentication, modal dialogs, toast notifications, and much more. By the end, you’ll have a fast, responsive, fully functional app in the cloud to showcase to potential employers. We’ll build this using a powerful tech stack—**Next.js, TypeScript, Tailwind, Radix UI, Prisma**, and **Next Auth**—to prepare you for building modern applications. Get a sneak peek of this app in the course trailer video on this page."
+        ],
+        "cta": {
+            "heading": "Want to Stand Out as a React Developer? Learn Next.js.",
+            "description": "Next.js is the go-to framework for modern web development, used by big companies like Netflix, TikTok, and Twitch to build fast, scalable apps. This structured, hands-on course teaches you Next.js the right way—fast. No fluff, just real-world coding skills to help you get ahead. Start learning today and take your React skills to the next level."
+        },
+        "seo": {
+            "title": "Next.js Course – Build Full-Stack Apps with Next.js 13+ and TypeScript",
+            "description": "Learn Next.js 13+ by building a full-stack app with TypeScript, Tailwind, Prisma, and more. This project-based Next.js course covers everything from routing to deployment.",
+            "h1": "Next.js Course – Build Full-Stack Apps"
+        },
+        "curriculum": []
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

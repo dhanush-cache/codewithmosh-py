@@ -1,0 +1,987 @@
+{
+    "course": {
+        "id": 2841801,
+        "name": "Build AI-Powered Apps",
+        "slug": "build-ai-powered-apps",
+        "heading": "Learn how to integrate AI into your apps - no ML background needed",
+        "promoVideoUrl": "https://cdn.codewithmosh.com/video/upload/v1755631419/promo-videos/build-ai-powered-apps.mp4",
+        "isPublished": true,
+        "comingSoon": false,
+        "releaseDate": "2025-08-24",
+        "imageUrl": "https://res.cloudinary.com/codewithmosh/image/upload/f_auto,q_auto/v1/covers/build-ai-powered-apps",
+        "hours": 7,
+        "lessons": 120,
+        "categories": [
+            1,
+            2
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 199,
+        "turnOffSale": false,
+        "teaserUrl": "https://cdn.codewithmosh.com/video/upload/v1755631699/promo-videos/build-ai-powered-apps-teaser.mp4",
+        "teaserCoverUrl": "https://res.cloudinary.com/codewithmosh/image/upload/f_auto,q_auto/v1/covers/build-ai-powered-apps-teaser-cover",
+        "previewUrl": "https://members.codewithmosh.com/courses/build-ai-powered-apps/lectures/62789461",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6420960/build-ai-powered-apps",
+        "activeCouponCode": {
+            "1": "LAUNCHXR1K",
+            "2": "LAUNCHYD2J",
+            "3": "LAUNCHZP3C",
+            "4": "LAUNCHLI4X"
+        },
+        "coupons": [
+            {
+                "code": "LAUNCHXR1K",
+                "discount": 0.25,
+                "startDate": "2025-08-24",
+                "endDate": "2025-09-04"
+            },
+            {
+                "code": "LAUNCHYD2J",
+                "discount": 0.5,
+                "startDate": "2025-08-24",
+                "endDate": "2025-09-04"
+            },
+            {
+                "code": "LAUNCHZP3C",
+                "discount": 0.85,
+                "startDate": "2025-08-24",
+                "endDate": "2025-09-04"
+            },
+            {
+                "code": "LAUNCHLI4X",
+                "discount": 0.9,
+                "startDate": "2025-08-24",
+                "endDate": "2025-09-04"
+            }
+        ],
+        "seo": {
+            "title": "The Practical AI Course for Developers",
+            "description": "Learn AI app development in this 7-hour AI course for developers. No ML background required. Hands-on projects with React, TypeScript, Bun, Prisma, and more.",
+            "h1": "Build AI-Powered Apps – An AI Course for Developers"
+        },
+        "description": "AI is everywhere — but can you actually build with it?\n\nMost developers have played around with ChatGPT. Maybe you’ve even copied some AI-generated code into your project. But that’s not the same as building real, AI-powered features that make your apps smarter, more engaging, and more valuable to users.\n\nThat’s exactly what this course is about.\n\nIn Build AI-Powered Apps, I’ll walk you step by step through the **concepts, modern tools, and best practices** you need to create production-ready apps powered by AI.\n\nThis is the AI course every developer needs right now",
+        "outcomes": [
+            "Understand Large Language Models (LLMs) and how they work",
+            "Work with tokens, context windows, and model settings",
+            "Write effective prompts using proven prompt engineering techniques",
+            "Build a chatbot from scratch with a clean, maintainable architecture",
+            "Create a review summarizer that helps users make faster decisions",
+            "Integrate open-source models using Hugging Face and Ollama",
+            "Run models locally on your own machine",
+            "Apply best practices and clean code principles",
+            "Use modern tools to build full-stack AI-powered apps (Bun, Tailwind CSS, shadcn/ui, Prisma, and more)"
+        ],
+        "audience": [
+            "Anyone who wants to add AI skills to their developer toolkit",
+            "Frontend devs ready to go full-stack with AI-powered features",
+            "Developers who want to learn modern tools and best practices for building real-world apps",
+            "Anyone tired of “AI hype” and looking for practical, hands-on projects"
+        ],
+        "prerequisites": {
+            "courses": [
+                2037633
+            ],
+            "text": [
+                "To get the most out of this course, you should be comfortable with **modern JavaScript and TypeScript** and know the **basics of React**, like creating components, using JSX, and working with state and effect hooks. Some familiarity with backend development or databases is helpful but not required, and the same goes for AI—you don’t need prior experience as I’ll cover the essentials from scratch."
+            ]
+        },
+        "projects": [
+            "**Chatbot**: Build a chatbot that can answer questions about an imaginary theme park — things like “What rides are suitable for kids under 10?”, “Where can I find vegetarian food options?”, or “What are the park’s opening hours?”. Instead of clicking through menus or digging through a website, visitors can get instant answers. Step by step, you’ll create the backend, structure your code using clean architecture principles, and build a modern frontend that makes the experience seamless and engaging.\n\n**Review Summarizer**: These days, lots of apps let users summarize content so they can make faster decisions. In this project, we’ll build a tool that condenses customer reviews into clear, actionable insights. The techniques you’ll learn here can be applied to all sorts of AI-integrated features."
+        ],
+        "cta": {
+            "heading": "Ready to Build AI-Powered Apps?",
+            "description": "Don’t just play with AI.\n\nLearn how to integrate it into your apps with confidence."
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "1m 26s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789461",
+                        "preview": true
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "0m 55s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789462",
+                        "preview": true
+                    },
+                    {
+                        "name": "What You'll Learn",
+                        "duration": "3m 54s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789524",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up Your Development Environment",
+                        "duration": "0m 56s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789463",
+                        "preview": true
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789465",
+                        "preview": false
+                    },
+                    {
+                        "name": "Questions and Support",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789467",
+                        "preview": false
+                    },
+                    {
+                        "name": "Connect with Me",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789466",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Introduction to AI Models",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 36s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789564",
+                        "preview": false
+                    },
+                    {
+                        "name": "Rise of AI Engineering",
+                        "duration": "4m 01s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789565",
+                        "preview": true
+                    },
+                    {
+                        "name": "What are Large Language Models?",
+                        "duration": "4m 22s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789567",
+                        "preview": true
+                    },
+                    {
+                        "name": "What Can You Do With Language Models?",
+                        "duration": "2m 25s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789568",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding Tokens and Context Window",
+                        "duration": "3m 02s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789570",
+                        "preview": false
+                    },
+                    {
+                        "name": "Counting Tokens",
+                        "duration": "3m 43s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789563",
+                        "preview": true
+                    },
+                    {
+                        "name": "Choosing the Right Model",
+                        "duration": "5m 02s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789569",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding Model Settings",
+                        "duration": "8m 46s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789571",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calling Models",
+                        "duration": "7m 35s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789566",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789572",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Setting Up a Modern Full-Stack Project",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 12s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789594",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up Bun",
+                        "duration": "1m 31s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789588",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating the Project Structure",
+                        "duration": "2m 48s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789592",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating the Backend",
+                        "duration": "6m 38s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789599",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing OpenAI API Key",
+                        "duration": "5m 15s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789595",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating the Frontend",
+                        "duration": "2m 45s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789597",
+                        "preview": false
+                    },
+                    {
+                        "name": "Connecting the Frontend and Backend",
+                        "duration": "5m 13s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789590",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running Both Apps Together",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789593",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up TailwindCSS",
+                        "duration": "3m 35s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789596",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up Shadcn",
+                        "duration": "6m 30s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789598",
+                        "preview": false
+                    },
+                    {
+                        "name": "Formatting Code with Prettier",
+                        "duration": "5m 02s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789591",
+                        "preview": false
+                    },
+                    {
+                        "name": "Automating Pre-Commit Checks with Husky",
+                        "duration": "6m 50s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789589",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789602",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Project: Building a Chatbot",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 29s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789628",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Backend",
+                        "duration": "0m 36s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789636",
+                        "preview": false
+                    },
+                    {
+                        "name": "2.1- Building the Chat API",
+                        "duration": "6m 26s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789643",
+                        "preview": false
+                    },
+                    {
+                        "name": "2.2- Testing the API",
+                        "duration": "1m 57s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789629",
+                        "preview": false
+                    },
+                    {
+                        "name": "2.3- Managing Conversation State",
+                        "duration": "6m 22s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789644",
+                        "preview": false
+                    },
+                    {
+                        "name": "2.4- Input Validation",
+                        "duration": "5m 48s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789634",
+                        "preview": false
+                    },
+                    {
+                        "name": "2.5- Error Handling",
+                        "duration": "2m 18s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789627",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring the Chat API",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789626",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.1- Extracting Conversation Repository",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789640",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.2- Extracting Chat Service",
+                        "duration": "6m 44s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789654",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.3- Extracting Chat Controller",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789645",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.4- Extractring Routes",
+                        "duration": "4m 51s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789638",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Frontend",
+                        "duration": "0m 19s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789632",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.1- Building the ChatBot Component",
+                        "duration": "7m 28s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789641",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.2- Handling Form Submission",
+                        "duration": "9m 23s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789652",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.3- Calling the Backend",
+                        "duration": "3m 18s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789631",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.4- Rendering the Messages",
+                        "duration": "4m 37s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789633",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.5- Styling Messages",
+                        "duration": "4m 35s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789649",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.6- Rendering Markdown Text",
+                        "duration": "2m 30s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789637",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.7- Adding a Typing Indicator",
+                        "duration": "4m 09s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789647",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.8- Auto-Scrolling to the Latest Message",
+                        "duration": "2m 20s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789651",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.9- Improving Copy Behaviour",
+                        "duration": "4m 47s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789642",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.10- Improving the Look and Feel",
+                        "duration": "8m 04s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789630",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.11- Handling Errors",
+                        "duration": "3m 28s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789646",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactorings",
+                        "duration": "1m 28s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789648",
+                        "preview": false
+                    },
+                    {
+                        "name": "5.1- Extracting TypingIndicator Component",
+                        "duration": "3m 49s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789650",
+                        "preview": false
+                    },
+                    {
+                        "name": "5.2- Extracting ChatMessages Component",
+                        "duration": "5m 19s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789639",
+                        "preview": false
+                    },
+                    {
+                        "name": "5.3- Extracing ChatInput Component",
+                        "duration": "8m 28s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789653",
+                        "preview": false
+                    },
+                    {
+                        "name": "5.4- Recap",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789635",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789656",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Prompt Engineering",
+                "lessons": [
+                    {
+                        "name": "What is Prompt Engineering",
+                        "duration": "2m 12s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789683",
+                        "preview": false
+                    },
+                    {
+                        "name": "Anatomy of a Good Prompt",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789690",
+                        "preview": false
+                    },
+                    {
+                        "name": "Providing Context",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789684",
+                        "preview": false
+                    },
+                    {
+                        "name": "Controlling the Output Format",
+                        "duration": "2m 32s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789691",
+                        "preview": false
+                    },
+                    {
+                        "name": "Providing Examples",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789687",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Errors and Edge Cases",
+                        "duration": "1m 55s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789686",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reducing Hallucinations",
+                        "duration": "3m 35s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789682",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refining Prompts",
+                        "duration": "4m 06s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789689",
+                        "preview": false
+                    },
+                    {
+                        "name": "Improving Chatbot Responses",
+                        "duration": "6m 00s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789688",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Sound Effects",
+                        "duration": "2m 38s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789685",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789710",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789712",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Building a Review Summerizer",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 50s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789779",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up the Database",
+                        "duration": "0m 26s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789794",
+                        "preview": false
+                    },
+                    {
+                        "name": "2.1- Setting Up MySQL",
+                        "duration": "2m 23s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789774",
+                        "preview": false
+                    },
+                    {
+                        "name": "2.2- Setting Up Prisma",
+                        "duration": "2m 46s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789790",
+                        "preview": false
+                    },
+                    {
+                        "name": "2.3- Defining the Prisma Schema",
+                        "duration": "7m 38s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789798",
+                        "preview": false
+                    },
+                    {
+                        "name": "2.4- Running Migrations",
+                        "duration": "6m 01s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789776",
+                        "preview": false
+                    },
+                    {
+                        "name": "2.5- Refining the Prisma Schema",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789795",
+                        "preview": false
+                    },
+                    {
+                        "name": "2.6- Populating the Database with Realistic Data",
+                        "duration": "3m 28s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789777",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Backend",
+                        "duration": "0m 20s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789781",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.1- Creating the API to Fetch Reviews",
+                        "duration": "7m 53s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789789",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.2- Refactoring- Separation of Concerns",
+                        "duration": "7m 38s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789805",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.3- Creating an API for Summarizing Reviews",
+                        "duration": "5m 27s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789784",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.4- Generating Summaries",
+                        "duration": "3m 00s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789793",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.5- Refactoring- Extracting the LLM Logic",
+                        "duration": "8m 49s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789800",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.6- Refactoring- Extracting the Prompt",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789799",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.7- Storing the Summary",
+                        "duration": "7m 24s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789780",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.8- Handling Regeneration",
+                        "duration": "2m 47s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789787",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.9- Handling Edge Cases",
+                        "duration": "6m 32s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789782",
+                        "preview": false
+                    },
+                    {
+                        "name": "3.10- Fetching the Summary",
+                        "duration": "8m 13s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789801",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Frontend",
+                        "duration": "0m 20s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789792",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.1- Displaying Reviews",
+                        "duration": "6m 35s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789803",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.2- Displaying Star Ratings",
+                        "duration": "4m 52s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789783",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.3- Displaying Loading Skeletons",
+                        "duration": "4m 38s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789804",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.4- Handling Errors",
+                        "duration": "2m 30s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789802",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.5- Introducing Tanstack Query",
+                        "duration": "7m 34s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789785",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.6- Displaying the Summary",
+                        "duration": "2m 42s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789797",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.7- Triggering Summary Generation",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789788",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.8- Displaying Loading Skeletons",
+                        "duration": "4m 17s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789778",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.9- Handling Errors",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789796",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.10- Refactoring with Mutations",
+                        "duration": "4m 23s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789791",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.11- Refactoring for Readability",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789775",
+                        "preview": false
+                    },
+                    {
+                        "name": "4.12- Extracting the API Layer",
+                        "duration": "5m 28s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789786",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Building with Open Source Models",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 22s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789890",
+                        "preview": false
+                    },
+                    {
+                        "name": "Why Use Open-Source Models",
+                        "duration": "1m 48s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789892",
+                        "preview": false
+                    },
+                    {
+                        "name": "Finding Open-Source Models",
+                        "duration": "4m 17s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789885",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calling Hugging Face Models",
+                        "duration": "5m 35s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789889",
+                        "preview": false
+                    },
+                    {
+                        "name": "Choosing the Right Model For the Job",
+                        "duration": "6m 43s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789887",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running Models Locally",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789891",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Hugging Face Models with Ollama",
+                        "duration": "2m 29s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789888",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calling Ollama Models",
+                        "duration": "3m 03s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789886",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Course Wrap Up",
+                "lessons": [
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "1m 20s",
+                        "type": 1,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789898",
+                        "preview": false
+                    },
+                    {
+                        "name": "Feedback",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/build-ai-powered-apps/lectures/62789921",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

@@ -1,0 +1,437 @@
+{
+    "course": {
+        "id": 680168,
+        "name": "Ultimate Data Structures & Algorithms: Part 3",
+        "slug": "data-structures-algorithms-part-3",
+        "heading": "Ace your coding job interview. Learn to write better and faster code.",
+        "promoVideoId": "hclxtwqlc7",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769560/promo-videos/dsa-part3.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/2RIhasSLupm8OMd3bG1w_Data+Structures++3.001.jpeg",
+        "hours": 3,
+        "lessons": 50,
+        "categories": [
+            6
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 49,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/data-structures-algorithms-part-3/lectures/12134665",
+        "parentBundleId": 680815,
+        "outcomes": [
+            "Searching Algorithms: linear search, binary search, ternary search, jump search, and more",
+            "Sorting Algorithms: bubble sort, selection sort, insertion sort, merge sort, quick sort, and more",
+            "String Manipulation Algorithms: removing duplicates, capitalization, anagrams, palindrome, and more"
+        ],
+        "audience": [
+            "Anyone preparing for a coding job interview",
+            "Computer science students whose lecturers failed to explain the topics",
+            "Self-taught developers who missed out on a computer science degree",
+            "Anyone who wants to become a better developer"
+        ],
+        "prerequisites": {
+            "courses": [
+                639884,
+                650827
+            ],
+            "text": [
+                "This course is the third part of a series. So you should have watched the first two parts or have a solid understanding of the concepts covered there."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 45s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134665",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134687",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/25354816",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/34610422",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Sorting Algorithms",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 00s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134695",
+                        "preview": true
+                    },
+                    {
+                        "name": "Bubble Sort",
+                        "duration": "3m 10s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134701",
+                        "preview": true
+                    },
+                    {
+                        "name": "Bubble Sort- Implementation",
+                        "duration": "6m 24s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134698",
+                        "preview": true
+                    },
+                    {
+                        "name": "Selection Sort",
+                        "duration": "2m 41s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134696",
+                        "preview": true
+                    },
+                    {
+                        "name": "Selection Sort- Implementation",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134708",
+                        "preview": false
+                    },
+                    {
+                        "name": "Insertion Sort",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134703",
+                        "preview": false
+                    },
+                    {
+                        "name": "Insertion Sort- Implementation",
+                        "duration": "2m 28s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134697",
+                        "preview": false
+                    },
+                    {
+                        "name": "Merge Sort",
+                        "duration": "5m 06s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134709",
+                        "preview": false
+                    },
+                    {
+                        "name": "Merge Sort- Implementation",
+                        "duration": "8m 04s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134705",
+                        "preview": false
+                    },
+                    {
+                        "name": "Quick Sort",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134702",
+                        "preview": false
+                    },
+                    {
+                        "name": "Partitioning",
+                        "duration": "6m 01s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134694",
+                        "preview": false
+                    },
+                    {
+                        "name": "Quick Sort- Implementation",
+                        "duration": "9m 00s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134706",
+                        "preview": false
+                    },
+                    {
+                        "name": "Counting Sort",
+                        "duration": "4m 08s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134704",
+                        "preview": false
+                    },
+                    {
+                        "name": "Counting Sort- Implementation",
+                        "duration": "2m 48s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134707",
+                        "preview": false
+                    },
+                    {
+                        "name": "Bucket Sort",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134700",
+                        "preview": false
+                    },
+                    {
+                        "name": "Bucket Sort- Implementation",
+                        "duration": "7m 07s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134699",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Searching Algorithms",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 46s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134729",
+                        "preview": false
+                    },
+                    {
+                        "name": "Linear Search",
+                        "duration": "1m 04s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134736",
+                        "preview": false
+                    },
+                    {
+                        "name": "Linear Search- Implementation",
+                        "duration": "1m 36s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134728",
+                        "preview": false
+                    },
+                    {
+                        "name": "Binary Search",
+                        "duration": "3m 47s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134733",
+                        "preview": false
+                    },
+                    {
+                        "name": "Binary Search- Recursive Implementation",
+                        "duration": "4m 52s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134734",
+                        "preview": false
+                    },
+                    {
+                        "name": "Binary Search- Iterative Implementation",
+                        "duration": "2m 14s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134737",
+                        "preview": false
+                    },
+                    {
+                        "name": "Ternary Search",
+                        "duration": "3m 27s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134731",
+                        "preview": false
+                    },
+                    {
+                        "name": "Ternary Search- Implementation",
+                        "duration": "4m 12s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134735",
+                        "preview": false
+                    },
+                    {
+                        "name": "Jump Search",
+                        "duration": "3m 16s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134732",
+                        "preview": false
+                    },
+                    {
+                        "name": "Jump Search- Implementation",
+                        "duration": "3m 54s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134727",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exponential Search",
+                        "duration": "2m 47s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134730",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exponential Search- Implementation",
+                        "duration": "2m 55s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134726",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "String Manipulation Algorithms",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 35s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134988",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134994",
+                        "preview": false
+                    },
+                    {
+                        "name": "Useful Java Methods",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134989",
+                        "preview": false
+                    },
+                    {
+                        "name": "Count Vowels",
+                        "duration": "4m 49s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134996",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reverse a String",
+                        "duration": "5m 40s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134993",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reverse Words",
+                        "duration": "6m 13s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134985",
+                        "preview": false
+                    },
+                    {
+                        "name": "Rotations",
+                        "duration": "5m 48s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134992",
+                        "preview": false
+                    },
+                    {
+                        "name": "Remove Duplicates",
+                        "duration": "3m 12s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134997",
+                        "preview": false
+                    },
+                    {
+                        "name": "Most Repeated Char",
+                        "duration": "7m 12s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134998",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sentence Capitalization",
+                        "duration": "6m 38s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134991",
+                        "preview": false
+                    },
+                    {
+                        "name": "Anagrams- Using Sorting",
+                        "duration": "6m 07s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134986",
+                        "preview": false
+                    },
+                    {
+                        "name": "Anagrams- Using Histogramming",
+                        "duration": "6m 18s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134987",
+                        "preview": false
+                    },
+                    {
+                        "name": "Palindrome",
+                        "duration": "4m 25s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134990",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "1m 06s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-3/lectures/12134995",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

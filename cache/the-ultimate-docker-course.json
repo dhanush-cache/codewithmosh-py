@@ -1,0 +1,780 @@
+{
+    "course": {
+        "id": 1359863,
+        "name": "The Ultimate Docker Course",
+        "slug": "the-ultimate-docker-course",
+        "heading": "Everything you need to master Docker in one clear, concise, and practical course",
+        "promoVideoId": "5jmlgr3px5",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768693/promo-videos/dockerc.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/3uI9SdEPToKkAz9FKDW4_3.jpg",
+        "hours": 5,
+        "lessons": 100,
+        "categories": [
+            6
+        ],
+        "level": "Beginner to Pro",
+        "type": "single",
+        "price": 79,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-docker-course/lectures/31446593",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141206/the-ultimate-docker-course-1",
+        "coupons": [
+            {
+                "code": "DOCKERIZE",
+                "discount": 0.8
+            }
+        ],
+        "description": "The Ultimate Docker Course is your complete guide to mastering Docker and containerization technology. Whether you're just starting out or looking to level up your skills, this course is designed to be clear, concise, and practical, giving you everything you need to work confidently with Docker.\n\nYou’ll learn how to create and manage Docker containers, build custom Docker images for your applications, and use Docker Compose to orchestrate multi-container setups. We’ll dive into container networking, inter-container communication, and explore how to optimize your containers for performance and scalability.\n\nIn addition, you’ll learn to properly version your Docker images, store persistent data using volumes, and provision Docker hosts with Docker Machine. By the end of this course, you’ll be troubleshooting Docker issues like a pro and applying industry best practices to ensure your containers run smoothly in any environment.",
+        "outcomes": [
+            "Understand the fundamentals of Docker and containerization technology",
+            "Create and manage Docker containers effectively",
+            "Build custom Docker images for different applications and services",
+            "Utilize Docker Compose to orchestrate multi-container applications",
+            "Implement container networking and manage inter-container communication",
+            "Optimize Docker containers for performance and scalability",
+            "Properly version your Docker images",
+            "Store persistent data in volumes",
+            "Use Docker Machine to provision Docker hosts",
+            "Troubleshoot issues like a pro"
+        ],
+        "audience": [
+            "Anyone who needs to learn Docker for work",
+            "Anyone looking for a career as a DevOps engineer"
+        ],
+        "prerequisites": {
+            "courses": [],
+            "text": [
+                "Most other courses assume so much Linux knowledge and throw weird, complex commands at you to teach you Docker. Not this course! You'll learn everything you need to know from scratch. The only requirement is at least 3 months of coding experience and basic familiarity with Git."
+            ]
+        },
+        "cta": {
+            "heading": "Master Docker & Simplify Application Deployment",
+            "description": "Docker is the #1 containerization platform, used by companies like Google, Netflix, and Spotify to build and scale applications efficiently. This structured, hands-on course teaches you Docker from the ground up, so you can containerize applications, streamline development, and deploy with confidence. No fluff. Just real-world Docker skills."
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31446593",
+                        "preview": false
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "0m 43s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31446594",
+                        "preview": false
+                    },
+                    {
+                        "name": "How to Take this Course",
+                        "duration": "0m 46s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31446595",
+                        "preview": false
+                    },
+                    {
+                        "name": "Supplementary Files",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31446700",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Help",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31446726",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31446736",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-docker-course/lectures/34609432",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Introduction to Docker",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447055",
+                        "preview": true
+                    },
+                    {
+                        "name": "What is Docker",
+                        "duration": "3m 15s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447053",
+                        "preview": true
+                    },
+                    {
+                        "name": "Virtual Machines vs Containers",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447052",
+                        "preview": true
+                    },
+                    {
+                        "name": "Docker Architecture",
+                        "duration": "2m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447048",
+                        "preview": true
+                    },
+                    {
+                        "name": "Installing Docker",
+                        "duration": "3m 35s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447049",
+                        "preview": false
+                    },
+                    {
+                        "name": "Development Workflow",
+                        "duration": "2m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447054",
+                        "preview": false
+                    },
+                    {
+                        "name": "Docker in Action",
+                        "duration": "9m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447051",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447050",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Note for Windows Users",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31456764",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "The Linux Command Line",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447534",
+                        "preview": false
+                    },
+                    {
+                        "name": "Linux Distributions",
+                        "duration": "1m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447532",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running Linux",
+                        "duration": "5m 11s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447539",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Packages",
+                        "duration": "3m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447536",
+                        "preview": false
+                    },
+                    {
+                        "name": "Linux File System",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447541",
+                        "preview": false
+                    },
+                    {
+                        "name": "Navigating the File System",
+                        "duration": "4m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447543",
+                        "preview": false
+                    },
+                    {
+                        "name": "Manipulating Files and Directories",
+                        "duration": "3m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447528",
+                        "preview": false
+                    },
+                    {
+                        "name": "Editing and Viewing Files",
+                        "duration": "3m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447531",
+                        "preview": false
+                    },
+                    {
+                        "name": "Redirection",
+                        "duration": "3m 04s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447538",
+                        "preview": false
+                    },
+                    {
+                        "name": "Searching for Text",
+                        "duration": "2m 18s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447537",
+                        "preview": false
+                    },
+                    {
+                        "name": "Finding Files and Directories",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447529",
+                        "preview": false
+                    },
+                    {
+                        "name": "Chaining Commands",
+                        "duration": "5m 05s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447540",
+                        "preview": false
+                    },
+                    {
+                        "name": "Environment Variables",
+                        "duration": "7m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447544",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Processes",
+                        "duration": "2m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447545",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Users",
+                        "duration": "7m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447530",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Groups",
+                        "duration": "3m 17s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447533",
+                        "preview": false
+                    },
+                    {
+                        "name": "File Permissions",
+                        "duration": "5m 23s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447535",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31447542",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Building Images",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448364",
+                        "preview": false
+                    },
+                    {
+                        "name": "Images and Containers",
+                        "duration": "2m 41s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448377",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sample Web Application",
+                        "duration": "3m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448363",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dockerfile Instructions",
+                        "duration": "1m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448366",
+                        "preview": false
+                    },
+                    {
+                        "name": "Choosing the Right Base Image",
+                        "duration": "7m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448379",
+                        "preview": false
+                    },
+                    {
+                        "name": "Copying Files and Directories",
+                        "duration": "5m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448373",
+                        "preview": false
+                    },
+                    {
+                        "name": "Excluding Files and Directories",
+                        "duration": "3m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448372",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running Commands",
+                        "duration": "1m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448362",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Environment Variables",
+                        "duration": "1m 25s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448376",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exposing Ports",
+                        "duration": "1m 27s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448371",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting the User",
+                        "duration": "4m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448367",
+                        "preview": false
+                    },
+                    {
+                        "name": "Defining Entrypoints",
+                        "duration": "6m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448370",
+                        "preview": false
+                    },
+                    {
+                        "name": "Speeding Up Builds",
+                        "duration": "6m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448375",
+                        "preview": false
+                    },
+                    {
+                        "name": "Removing Images",
+                        "duration": "2m 46s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448368",
+                        "preview": false
+                    },
+                    {
+                        "name": "Tagging Images",
+                        "duration": "5m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448369",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sharing Images",
+                        "duration": "4m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448365",
+                        "preview": false
+                    },
+                    {
+                        "name": "Saving and Loading Images",
+                        "duration": "3m 28s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448374",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448378",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cleaning Up",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448402",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Working with Containers",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 35s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448943",
+                        "preview": false
+                    },
+                    {
+                        "name": "Starting Containers",
+                        "duration": "3m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448934",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing the Logs",
+                        "duration": "2m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448940",
+                        "preview": false
+                    },
+                    {
+                        "name": "Publishing Ports",
+                        "duration": "2m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448939",
+                        "preview": false
+                    },
+                    {
+                        "name": "Executing Commands in Running Containers",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448941",
+                        "preview": false
+                    },
+                    {
+                        "name": "Stopping and Starting Containers",
+                        "duration": "0m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448936",
+                        "preview": false
+                    },
+                    {
+                        "name": "Removing Containers",
+                        "duration": "1m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448942",
+                        "preview": false
+                    },
+                    {
+                        "name": "Containers File System",
+                        "duration": "1m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448935",
+                        "preview": false
+                    },
+                    {
+                        "name": "Persisting Data using Volumes",
+                        "duration": "5m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448945",
+                        "preview": false
+                    },
+                    {
+                        "name": "Copying Files between the Host and Containers",
+                        "duration": "2m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448938",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sharing the Source Code with a Container",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448944",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31448937",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Running Multi-container Applications",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450209",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing Docker Compose",
+                        "duration": "1m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450215",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cleaning Up our Workspace",
+                        "duration": "3m 07s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450217",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Sample Web Application",
+                        "duration": "3m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450216",
+                        "preview": false
+                    },
+                    {
+                        "name": "JSON and YAML Formats",
+                        "duration": "4m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450219",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Compose File",
+                        "duration": "8m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450208",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building Images",
+                        "duration": "3m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450207",
+                        "preview": false
+                    },
+                    {
+                        "name": "Starting and Stopping the Application",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450212",
+                        "preview": false
+                    },
+                    {
+                        "name": "Docker Networking",
+                        "duration": "4m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450213",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing Logs",
+                        "duration": "1m 28s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450214",
+                        "preview": false
+                    },
+                    {
+                        "name": "Publishing Changes",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450211",
+                        "preview": false
+                    },
+                    {
+                        "name": "Migrating the Database",
+                        "duration": "7m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450206",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running Tests",
+                        "duration": "2m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450210",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31450218",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Deploying Applications",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31455554",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deployment Options",
+                        "duration": "1m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31455561",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting a Virtual Private Server",
+                        "duration": "1m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31455558",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing Docker Machine",
+                        "duration": "1m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31455555",
+                        "preview": false
+                    },
+                    {
+                        "name": "Provisioning a Host",
+                        "duration": "4m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31455564",
+                        "preview": false
+                    },
+                    {
+                        "name": "Connecting to the Host",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31455557",
+                        "preview": false
+                    },
+                    {
+                        "name": "Defining the Production Configuration",
+                        "duration": "3m 04s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31455560",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reducing the Image Size",
+                        "duration": "8m 15s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31455562",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deploying the Application",
+                        "duration": "4m 31s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31455563",
+                        "preview": false
+                    },
+                    {
+                        "name": "Troubleshooting Deployment Issues",
+                        "duration": "7m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31455556",
+                        "preview": false
+                    },
+                    {
+                        "name": "Publishing Changes",
+                        "duration": "2m 42s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31455559",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-docker-course/lectures/31456476",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

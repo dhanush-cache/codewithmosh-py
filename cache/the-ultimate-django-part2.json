@@ -1,0 +1,708 @@
+{
+    "course": {
+        "id": 1522608,
+        "name": "Ultimate Django: Part 2",
+        "slug": "the-ultimate-django-part2",
+        "heading": "Everything you need to build secure RESTful APIs with Django REST Framework",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/VLpeAAzNSoaPkqAr3UgY_Django+Banner+2021+Final+1+%28750px+x+422px%29.jpg",
+        "hours": 6,
+        "lessons": 90,
+        "categories": [
+            2
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 69,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-django-part2/lectures/34919367",
+        "parentBundleId": 1607597,
+        "outcomes": [
+            "Build RESTful APIs using the Django framework",
+            "Understand the inner workings of Django REST Framework",
+            "Understand and troubleshoot issues like a pro",
+            "Work with class-based views",
+            "Create and use serializers",
+            "Use mixins and generic views",
+            "Generate routes with routers",
+            "Implement filtering, searching, sorting, and pagination",
+            "Implement authentication using Django Authentication System",
+            "Secure your APIs with JSON Web Tokens (JWT)",
+            "Use signals to decouple apps",
+            "Applying industry best practices"
+        ],
+        "audience": [
+            "Anyone familiar with Django who wants to learn how to build RESTful APIs",
+            "Anyone familiar with Django REST Framework who needs a refresher course to fill in the gaps"
+        ],
+        "prerequisites": {
+            "courses": [
+                1422300
+            ],
+            "text": [
+                "This course is the second part of a series. So ideally, you should have taken the first part or already understand the topics covered there. You don't need any prior knowledge about building APIs or Django REST Framework. This course covers everything you need."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34919367",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up the Project",
+                        "duration": "5m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900029",
+                        "preview": false
+                    },
+                    {
+                        "name": "Supplementary Materials",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34876608",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Help",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34876609",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34876610",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34876611",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Building RESTful APIs with Django REST Framework",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900105",
+                        "preview": true
+                    },
+                    {
+                        "name": "What are RESTful APIs",
+                        "duration": "1m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900118",
+                        "preview": true
+                    },
+                    {
+                        "name": "Resources",
+                        "duration": "1m 30s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900104",
+                        "preview": true
+                    },
+                    {
+                        "name": "Resource Representations",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900114",
+                        "preview": true
+                    },
+                    {
+                        "name": "HTTP Methods",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900111",
+                        "preview": true
+                    },
+                    {
+                        "name": "Installing Django REST Framework",
+                        "duration": "0m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900117",
+                        "preview": true
+                    },
+                    {
+                        "name": "Creating API Views",
+                        "duration": "8m 07s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900110",
+                        "preview": true
+                    },
+                    {
+                        "name": "Creating Serializers",
+                        "duration": "4m 04s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900119",
+                        "preview": false
+                    },
+                    {
+                        "name": "Serializing Objects",
+                        "duration": "6m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900115",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Custom Serializer Fields",
+                        "duration": "4m 30s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900108",
+                        "preview": false
+                    },
+                    {
+                        "name": "Serializing Relationships",
+                        "duration": "8m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900112",
+                        "preview": false
+                    },
+                    {
+                        "name": "Model Serializers",
+                        "duration": "4m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900107",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deserializing Objects",
+                        "duration": "2m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900120",
+                        "preview": false
+                    },
+                    {
+                        "name": "Data Validation",
+                        "duration": "5m 36s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900113",
+                        "preview": false
+                    },
+                    {
+                        "name": "Saving Objects",
+                        "duration": "7m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900116",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting Objects",
+                        "duration": "4m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900106",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building the Collections API",
+                        "duration": "4m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900109",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Advanced API Concepts",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 36s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900540",
+                        "preview": false
+                    },
+                    {
+                        "name": "Class-based Views",
+                        "duration": "4m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900538",
+                        "preview": false
+                    },
+                    {
+                        "name": "Mixins",
+                        "duration": "4m 17s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900544",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generic Views",
+                        "duration": "7m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900537",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing Generic Views",
+                        "duration": "4m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900543",
+                        "preview": false
+                    },
+                    {
+                        "name": "ViewSets",
+                        "duration": "5m 00s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900534",
+                        "preview": false
+                    },
+                    {
+                        "name": "Routers",
+                        "duration": "9m 00s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900539",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Reviews API",
+                        "duration": "4m 07s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900547",
+                        "preview": false
+                    },
+                    {
+                        "name": "Nested Routers",
+                        "duration": "9m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900542",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering",
+                        "duration": "4m 46s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900533",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generic Filtering",
+                        "duration": "6m 23s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900532",
+                        "preview": false
+                    },
+                    {
+                        "name": "Searching",
+                        "duration": "2m 17s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900536",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting",
+                        "duration": "1m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900541",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pagination",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900535",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Designing and Implementing a Shopping Cart API",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 21s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900756",
+                        "preview": false
+                    },
+                    {
+                        "name": "Designing the API",
+                        "duration": "3m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900753",
+                        "preview": false
+                    },
+                    {
+                        "name": "Revisiting the Data Model",
+                        "duration": "8m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900754",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Cart",
+                        "duration": "4m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900752",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting a Cart",
+                        "duration": "9m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900751",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting a Cart",
+                        "duration": "1m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900749",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Cart Items",
+                        "duration": "4m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900748",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding a Cart Item",
+                        "duration": "12m 11s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900750",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating a Cart Item",
+                        "duration": "2m 11s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900755",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting a Cart Item",
+                        "duration": "1m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900747",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Django Authentication System",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900799",
+                        "preview": false
+                    },
+                    {
+                        "name": "Django Authentication System",
+                        "duration": "3m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900800",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing the User Model",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900798",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extending the User Model",
+                        "duration": "10m 35s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900796",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating user Profiles",
+                        "duration": "7m 00s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900795",
+                        "preview": false
+                    },
+                    {
+                        "name": "Groups and Permissions",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900794",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Custom Permissions",
+                        "duration": "2m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900797",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Securing APIs",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900839",
+                        "preview": false
+                    },
+                    {
+                        "name": "Token-based Authentication",
+                        "duration": "1m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900834",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding the Authentication Endpoints",
+                        "duration": "6m 21s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900827",
+                        "preview": false
+                    },
+                    {
+                        "name": "Registering Users",
+                        "duration": "9m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900835",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Profile API",
+                        "duration": "5m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900826",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logging In",
+                        "duration": "4m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900833",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inspecting a JSON Web Token",
+                        "duration": "3m 30s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900832",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refreshing Tokens",
+                        "duration": "1m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900828",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting the Current User",
+                        "duration": "4m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900838",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Current User's Profile",
+                        "duration": "6m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900829",
+                        "preview": false
+                    },
+                    {
+                        "name": "Applying Permissions",
+                        "duration": "4m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900837",
+                        "preview": false
+                    },
+                    {
+                        "name": "Applying Custom Permissions",
+                        "duration": "7m 05s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900830",
+                        "preview": false
+                    },
+                    {
+                        "name": "Applying Model Permissions",
+                        "duration": "4m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900836",
+                        "preview": false
+                    },
+                    {
+                        "name": "Applying Custom Model Permissions",
+                        "duration": "4m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34900831",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Designing and Building the Orders API",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34924545",
+                        "preview": false
+                    },
+                    {
+                        "name": "Designing the API",
+                        "duration": "1m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34924549",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting the Orders",
+                        "duration": "5m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34924542",
+                        "preview": false
+                    },
+                    {
+                        "name": "Applying Permissions",
+                        "duration": "6m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34924543",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating an Order",
+                        "duration": "5m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34924548",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Order Items",
+                        "duration": "6m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34924550",
+                        "preview": false
+                    },
+                    {
+                        "name": "Returning the Created Order",
+                        "duration": "3m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34924539",
+                        "preview": false
+                    },
+                    {
+                        "name": "Data Validation",
+                        "duration": "3m 30s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34924540",
+                        "preview": false
+                    },
+                    {
+                        "name": "Revisiting the Permissions",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34924541",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating an Order",
+                        "duration": "2m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34924546",
+                        "preview": false
+                    },
+                    {
+                        "name": "Signals",
+                        "duration": "7m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34924544",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Custom Signals",
+                        "duration": "5m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34924547",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part2/lectures/34926268",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Ultimate Django- Part 3",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part2/lectures/36681914",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

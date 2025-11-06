@@ -1,0 +1,439 @@
+{
+    "course": {
+        "id": 1260591,
+        "name": "Ultimate HTML & CSS: Part 1",
+        "slug": "the-ultimate-html-css-part1",
+        "heading": "Master the fundamentals of web development with HTML5 and CSS3",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/Riz0IDmIRy2liTBRbX1i_FA_cc_codemosh_part1.jpg",
+        "hours": 3,
+        "lessons": 50,
+        "categories": [
+            1,
+            5
+        ],
+        "level": "Beginner",
+        "type": "single",
+        "price": 29,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-html-css-part1/lectures/28672265",
+        "parentBundleId": 1270682,
+        "outcomes": [
+            "Learn and understand the fundamentals of web development",
+            "Use HTML to structure your web pages",
+            "Apply CSS styles to control the layout, colors, fonts, etc",
+            "Prevent cross-browser issues",
+            "Inspect and debug web pages using Chrome DevTools",
+            "Learn industry best practices for writing clean, well-structured HTML and CSS code",
+            "Validate your HTML5/CSS3 code",
+            "And much, much more!"
+        ],
+        "audience": [
+            "Anyone looking for a career in front-end development",
+            "Anyone familiar with HTML/CSS who needs a refresher course to fill in the gaps",
+            "Anyone wanting to build and maintain Wordpress websites",
+            "Backend developers who want to become full-stack developers"
+        ],
+        "prerequisites": {
+            "courses": [],
+            "text": [
+                "No prior knowledge of HTML or CSS is necessary to take this course. We'll start from the very beginning and cover all the basics, so you can build a solid foundation and progress at your own pace.",
+                "If you're new to web development or programming in general, don't worry! This course is designed to be beginner-friendly, and you'll learn everything you need to know to get started with HTML and CSS."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672265",
+                        "preview": true
+                    },
+                    {
+                        "name": "Who This Course Is For",
+                        "duration": "0m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672267",
+                        "preview": true
+                    },
+                    {
+                        "name": "What You Need",
+                        "duration": "1m 31s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672266",
+                        "preview": true
+                    },
+                    {
+                        "name": "Getting Help",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672284",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672292",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/34610211",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Web Development Fundamentals",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672275",
+                        "preview": true
+                    },
+                    {
+                        "name": "Languages and Tools of Web Development",
+                        "duration": "5m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672278",
+                        "preview": true
+                    },
+                    {
+                        "name": "How the Web Works",
+                        "duration": "4m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672279",
+                        "preview": true
+                    },
+                    {
+                        "name": "Inspecting HTTP Requests and Responses",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672276",
+                        "preview": true
+                    },
+                    {
+                        "name": "HTML Basics",
+                        "duration": "7m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672282",
+                        "preview": false
+                    },
+                    {
+                        "name": "CSS Basics",
+                        "duration": "4m 15s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672283",
+                        "preview": false
+                    },
+                    {
+                        "name": "Formatting Code",
+                        "duration": "2m 15s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672277",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inspecting Pages Using DevTools",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672281",
+                        "preview": false
+                    },
+                    {
+                        "name": "Validating Web Pages",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672280",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672274",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "HTML Basics",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 42s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672319",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Head Section",
+                        "duration": "3m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672320",
+                        "preview": false
+                    },
+                    {
+                        "name": "Text",
+                        "duration": "6m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672328",
+                        "preview": false
+                    },
+                    {
+                        "name": "Entities",
+                        "duration": "3m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672323",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hyperlinks",
+                        "duration": "9m 30s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672322",
+                        "preview": false
+                    },
+                    {
+                        "name": "Images",
+                        "duration": "5m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672326",
+                        "preview": false
+                    },
+                    {
+                        "name": "Video and Audio",
+                        "duration": "5m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672321",
+                        "preview": false
+                    },
+                    {
+                        "name": "Lists",
+                        "duration": "6m 05s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672329",
+                        "preview": false
+                    },
+                    {
+                        "name": "Tables",
+                        "duration": "8m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672324",
+                        "preview": false
+                    },
+                    {
+                        "name": "Containers",
+                        "duration": "5m 04s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672327",
+                        "preview": false
+                    },
+                    {
+                        "name": "Semantic Elements",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672325",
+                        "preview": false
+                    },
+                    {
+                        "name": "Structuring a Web Page",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672318",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672330",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "CSS Basics",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672355",
+                        "preview": false
+                    },
+                    {
+                        "name": "Providing CSS",
+                        "duration": "6m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672349",
+                        "preview": false
+                    },
+                    {
+                        "name": "Normalizing CSS",
+                        "duration": "2m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672356",
+                        "preview": false
+                    },
+                    {
+                        "name": "Basic Selectors",
+                        "duration": "4m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672352",
+                        "preview": false
+                    },
+                    {
+                        "name": "Relational Selectors",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672346",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pseudo-class Selectors",
+                        "duration": "9m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672348",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pseudo-element Selectors",
+                        "duration": "4m 42s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672347",
+                        "preview": false
+                    },
+                    {
+                        "name": "Selectors Specificty",
+                        "duration": "8m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672350",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inheritance",
+                        "duration": "2m 43s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672351",
+                        "preview": false
+                    },
+                    {
+                        "name": "Colors",
+                        "duration": "6m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672358",
+                        "preview": false
+                    },
+                    {
+                        "name": "Gradients",
+                        "duration": "6m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672357",
+                        "preview": false
+                    },
+                    {
+                        "name": "Borders",
+                        "duration": "5m 46s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672354",
+                        "preview": false
+                    },
+                    {
+                        "name": "Shadows",
+                        "duration": "4m 25s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672359",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672345",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672360",
+                        "preview": false
+                    },
+                    {
+                        "name": "What's Next",
+                        "duration": "0m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/28672353",
+                        "preview": false
+                    },
+                    {
+                        "name": "Wrap Up",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-html-css-part1/lectures/29711661",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "course": {
+        "id": 1270682,
+        "name": "The Ultimate HTML5 & CSS3 Series",
+        "slug": "the-ultimate-html-css",
+        "heading": "Everything you need to build fast and stunning websites with HTML5 and CSS3 in one bundle",
+        "promoVideoId": "bqjivbxzgq",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684540144/promo-videos/htmlcss.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/8HOurJsmRsWjP1X534s6_FA_cc_codemosh_nobadge.jpg",
+        "hours": 14,
+        "lessons": 180,
+        "categories": [
+            1,
+            5
+        ],
+        "bundleContents": [
+            1260591,
+            1269823,
+            1269822
+        ],
+        "level": "Beginner to Pro",
+        "type": "bundle",
+        "price": 149,
+        "turnOffSale": false,
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/2759193/the-ultimate-html-css",
+        "coupons": [
+            {
+                "code": "YOUTUBE",
+                "discount": 0.9
+            },
+            {
+                "code": "WEBNINJA",
+                "discount": 0.9
+            }
+        ],
+        "description": "The Ultimate HTML5 & CSS3 Series is everything you need to build fast, stunning websites that look great on any screen. In this 3-part series, I’ll take you on a journey, starting with the fundamentals and moving on to advanced techniques. By the end, you’ll build a **beautiful, fully responsive website for an imaginary hosting company**—packed with modern features and optimized for performance.\n\nYou’ll learn how to confidently build websites using HTML5 and CSS3, create layouts with Flexbox and Grid, add smooth animations, and optimize your images for faster load times. We’ll also cover how to write clean, maintainable CSS, ensure your HTML is search engine friendly, and use the best practices every web developer should know.\n\nThis course isn’t just about coding—it’s about becoming a more productive and efficient web developer. You’ll learn little-known shortcuts, how to host your code on GitHub, set up continuous deployment, measure your site’s performance, and troubleshoot issues like a pro.\n\nWhether you’re just starting out or looking to refine your web development skills, this course is **clear, concise, comprehensive, well-organized, and practical**—everything you need to build professional, high-quality websites.",
+        "outcomes": [
+            "Confidently build beautiful and responsive websites with HTML5/CSS3",
+            "Fundamentals of web development",
+            "Essential Photoshop skills every web developer must have",
+            "Create layouts with Flex and Grid layout systems",
+            "Add smooth, beautiful animations",
+            "Create beautiful typography",
+            "Optimize images for performance",
+            "Build forms with data validation",
+            "Write clean, maintainable, object-oriented CSS3",
+            "HTML5/CSS3 best practices",
+            "Write valid, semantic HTML5 code that search engines love",
+            "Increase your productivity using little-known shortcuts",
+            "Host your code on GitHub",
+            "Set up continuous deployment",
+            "Measure your website's performance",
+            "Deploy your websites to the cloud",
+            "Get to know the tools that make your job easier",
+            "Troubleshoot issues like a pro"
+        ],
+        "audience": [
+            "Anyone wanting to become a front-end developer",
+            "Anyone wanting to create websites for fun or to make money"
+        ],
+        "prerequisites": {
+            "courses": [],
+            "text": [
+                "Everything you need to know from the basics to more advanced concepts are included. I’ve carefully structured this course so anyone can progress quickly and easily and learn a lot along the way."
+            ]
+        },
+        "projects": [
+            "In this course, we’ll build a stunning, mobile-friendly, and blazing-fast website for an imaginary cloud hosting company, Moshified. This project is designed to showcase the best practices in HTML and modern web design. You can view the finished site live at moshified.com."
+        ],
+        "cta": {
+            "heading": "Want to Become a Front-End Developer? Start Here.",
+            "description": "Every great web developer starts with HTML & CSS—the building blocks of the web. This structured, hands-on course teaches you everything you need to build beautiful, responsive websites—fast. No fluff, no wasted time—just real-world skills to kickstart your career."
+        },
+        "seo": {
+            "title": "HTML and CSS Course – Build Responsive Websites with HTML5 & CSS3",
+            "description": "Learn HTML and CSS step-by-step by building stunning, responsive websites. This complete HTML and CSS course covers Flexbox, Grid, SEO best practices, and performance optimization."
+        },
+        "curriculum": []
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

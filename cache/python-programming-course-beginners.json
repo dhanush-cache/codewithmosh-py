@@ -1,0 +1,1528 @@
+{
+    "course": {
+        "id": 417695,
+        "name": "Complete Python Mastery",
+        "slug": "python-programming-course-beginners",
+        "heading": "Everything you need to program in Python in one course (includes 3 real-world projects)",
+        "promoVideoId": "d9wa45y32q",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684540018/promo-videos/python.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/v13473aDTrub6vdfY5hP_V1.jpg",
+        "hours": 12,
+        "lessons": 200,
+        "categories": [
+            5
+        ],
+        "languages": [
+            {
+                "name": "Hindi",
+                "price": 5,
+                "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5789115/python-programming-course-beginners-11?coupon_code=SITE"
+            }
+        ],
+        "level": "Beginner to Pro",
+        "type": "single",
+        "price": 149,
+        "turnOffSale": false,
+        "bonus": "PyCharm",
+        "previewUrl": "https://codewithmosh.teachable.com/courses/python-programming-course-beginners/lectures/6781576",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/866084/python-programming-course-beginners",
+        "activeCouponCode": {
+            "1": "DEALTAJX",
+            "2": "DEALTB37",
+            "3": "DEALTC99",
+            "4": "DEALTDK4"
+        },
+        "coupons": [
+            {
+                "code": "PYTHONDEAL",
+                "discount": 0.85
+            },
+            {
+                "code": "DEALTAJX",
+                "discount": 0.25,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            },
+            {
+                "code": "DEALTB37",
+                "discount": 0.5,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            },
+            {
+                "code": "DEALTC99",
+                "discount": 0.8,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            },
+            {
+                "code": "DEALTDK4",
+                "discount": 0.87,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            }
+        ],
+        "description": "If you’re looking for a complete Python programming course that takes you from beginner to pro, this is it. Whether you want to learn Python to automate tasks, build web apps, explore machine learning, or just write better code — this online Python class is designed to get you there.\n\n*Complete Python Mastery* is your step-by-step guide to becoming a confident Python developer.  It’s not just a Python course for beginners — it’s a deep, project-based curriculum that covers real-world tools and use cases.\n\nWe’ll start with the basics and move quickly to the fun stuff: working with APIs, building web apps with Django, and even exploring machine learning. Along the way, you’ll be automating boring tasks, processing all kinds of files, and building tools like command-line utilities and web scrapers.\n\nThis complete Python course includes three hands-on projects — one for automation, one for machine learning, and one for web development — so you can apply what you learn immediately.\n\nBy the end, you’ll not only be fluent in Python, but also confident using it for backend development, data science, or simply making your life easier through automation.\n\nThis course is for anyone ready to get serious about Python — whether you're just starting out or looking to level up your skills.",
+        "outcomes": [
+            "Write Python code with confidence",
+            "Use Python in machine learning and data science projects",
+            "Learn the basics of building websites with Python and Django",
+            "Automate boring, repetitive tasks",
+            "Build command-line utilities",
+            "Build web scraping tools",
+            "Process CSV, JSON, Excel spreadsheets, PDFs, ZIP files, etc",
+            "Send emails and text messages",
+            "Automate UI testing with Selenium",
+            "Call backend APIs",
+            "Apply object-oriented programming principles",
+            "Use 3rd-party Python packages and publish your own"
+        ],
+        "audience": [
+            "Anyone who wants to learn programming for the first time",
+            "College students who want to better understand Python",
+            "Anyone who wants to automate repetitive tasks with Python",
+            "Anyone pursuing a career in AI, data science or web development",
+            "Python developers who want to brush up on their Python skills"
+        ],
+        "prerequisites": {
+            "courses": [],
+            "text": [
+                "This course assumes you know nothing about Python or any other programming languages. Go from complete beginner to expert, with plenty of hands-on exercises along the way."
+            ]
+        },
+        "projects": [
+            "**Grocery Store Website:** In this project, we’ll create a website for an imaginary grocery store using Python and Django. You’ll build features like a shopping cart, order placement, and an admin interface for managing orders.",
+            "**Music Recommendation System:** Together, we’ll develop a machine learning model that predicts music preferences based on user profiles, just like how YouTube recommends videos based on your history.",
+            "**Data Automation Tool:** This project will teach you to build an automation tool to process thousands of spreadsheets, transform data, and generate summaries in seconds—saving valuable time with Python."
+        ],
+        "cta": {
+            "heading": "Python: The Most Valuable Skill You Can Learn",
+            "description": "Python is everywhere—AI, web development, automation, data science, and more. Learn Python the right way, with a structured, no-fluff course that takes you from beginner to pro."
+        },
+        "seo": {
+            "title": "Python Programming Course | From Beginner to Pro with Real Projects",
+            "description": "A complete Python programming course — from basics to advanced topics like OOP, automation, machine learning, and Django. Build real projects and become job-ready.",
+            "h1": "The Complete Python Programming Course – From Beginner to Pro"
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "What is Python",
+                        "duration": "3m 21s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781576",
+                        "preview": true
+                    },
+                    {
+                        "name": "Installing Python",
+                        "duration": "1m 52s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781575",
+                        "preview": true
+                    },
+                    {
+                        "name": "Python Interpreter",
+                        "duration": "1m 55s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781574",
+                        "preview": true
+                    },
+                    {
+                        "name": "Code Editors",
+                        "duration": "1m 19s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781567",
+                        "preview": true
+                    },
+                    {
+                        "name": "Your First Python Program",
+                        "duration": "3m 36s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781573",
+                        "preview": true
+                    },
+                    {
+                        "name": "Python Extension",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781566",
+                        "preview": true
+                    },
+                    {
+                        "name": "Linting Python Code",
+                        "duration": "4m 14s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781569",
+                        "preview": true
+                    },
+                    {
+                        "name": "Formatting Python Code",
+                        "duration": "3m 54s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781572",
+                        "preview": true
+                    },
+                    {
+                        "name": "Running Python Code",
+                        "duration": "2m 59s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781565",
+                        "preview": true
+                    },
+                    {
+                        "name": "Python Implementations",
+                        "duration": "2m 28s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781570",
+                        "preview": true
+                    },
+                    {
+                        "name": "How Python Code is Executed",
+                        "duration": "2m 46s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781571",
+                        "preview": true
+                    },
+                    {
+                        "name": "Quiz",
+                        "duration": "1m 37s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781568",
+                        "preview": true
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/python-programming-course-beginners/lectures/25351854",
+                        "preview": true
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/python-programming-course-beginners/lectures/34609486",
+                        "preview": true
+                    }
+                ]
+            },
+            {
+                "name": "Primitive Types",
+                "lessons": [
+                    {
+                        "name": "Variables",
+                        "duration": "3m 04s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781593",
+                        "preview": false
+                    },
+                    {
+                        "name": "Variable Names",
+                        "duration": "3m 02s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781592",
+                        "preview": false
+                    },
+                    {
+                        "name": "Strings",
+                        "duration": "5m 30s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781590",
+                        "preview": false
+                    },
+                    {
+                        "name": "Escape Sequences",
+                        "duration": "2m 40s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781586",
+                        "preview": false
+                    },
+                    {
+                        "name": "Formatted Strings",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781587",
+                        "preview": false
+                    },
+                    {
+                        "name": "String Methods",
+                        "duration": "5m 54s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781588",
+                        "preview": false
+                    },
+                    {
+                        "name": "Numbers",
+                        "duration": "2m 46s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781591",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Numbers",
+                        "duration": "2m 09s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781589",
+                        "preview": false
+                    },
+                    {
+                        "name": "Type Conversion",
+                        "duration": "5m 04s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781594",
+                        "preview": false
+                    },
+                    {
+                        "name": "Quiz",
+                        "duration": "2m 43s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781585",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Control Flow",
+                "lessons": [
+                    {
+                        "name": "Comparison Operators",
+                        "duration": "2m 04s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781617",
+                        "preview": false
+                    },
+                    {
+                        "name": "Conditional Statements",
+                        "duration": "4m 09s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781626",
+                        "preview": false
+                    },
+                    {
+                        "name": "Ternary Operator",
+                        "duration": "2m 09s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781623",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logical Operators",
+                        "duration": "4m 02s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781619",
+                        "preview": false
+                    },
+                    {
+                        "name": "Short-circuit Evaluation",
+                        "duration": "2m 06s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781625",
+                        "preview": false
+                    },
+                    {
+                        "name": "Chaining Comparison Operators",
+                        "duration": "1m 22s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781627",
+                        "preview": false
+                    },
+                    {
+                        "name": "Quiz",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781621",
+                        "preview": false
+                    },
+                    {
+                        "name": "For Loops",
+                        "duration": "3m 38s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781622",
+                        "preview": false
+                    },
+                    {
+                        "name": "For..Else",
+                        "duration": "2m 46s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781624",
+                        "preview": false
+                    },
+                    {
+                        "name": "Nested Loops",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781628",
+                        "preview": false
+                    },
+                    {
+                        "name": "Iterables",
+                        "duration": "3m 08s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781620",
+                        "preview": false
+                    },
+                    {
+                        "name": "While Loops",
+                        "duration": "4m 59s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781616",
+                        "preview": false
+                    },
+                    {
+                        "name": "Infinite Loops",
+                        "duration": "1m 37s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781615",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": "2m 05s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781618",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Functions",
+                "lessons": [
+                    {
+                        "name": "Defining Functions",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781639",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arguments",
+                        "duration": "2m 20s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781646",
+                        "preview": false
+                    },
+                    {
+                        "name": "Types of Functions",
+                        "duration": "4m 02s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781650",
+                        "preview": false
+                    },
+                    {
+                        "name": "Keyword Arguments",
+                        "duration": "2m 00s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781642",
+                        "preview": false
+                    },
+                    {
+                        "name": "Default Arguments",
+                        "duration": "1m 35s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781648",
+                        "preview": false
+                    },
+                    {
+                        "name": "xargs",
+                        "duration": "4m 15s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781640",
+                        "preview": false
+                    },
+                    {
+                        "name": "xxargs",
+                        "duration": "2m 20s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781644",
+                        "preview": false
+                    },
+                    {
+                        "name": "Scope",
+                        "duration": "5m 09s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781638",
+                        "preview": false
+                    },
+                    {
+                        "name": "Debugging",
+                        "duration": "6m 50s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781641",
+                        "preview": false
+                    },
+                    {
+                        "name": "VSCode Coding Tricks - Windows",
+                        "duration": "2m 21s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781647",
+                        "preview": false
+                    },
+                    {
+                        "name": "VSCode Coding Tricks - Mac",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781643",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": "1m 29s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781645",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "4m 41s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781649",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/python-programming-course-beginners/lectures/8778267",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Data Structures",
+                "lessons": [
+                    {
+                        "name": "Lists",
+                        "duration": "3m 54s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781704",
+                        "preview": false
+                    },
+                    {
+                        "name": "Accessing Items",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781703",
+                        "preview": false
+                    },
+                    {
+                        "name": "List Unpacking",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781696",
+                        "preview": false
+                    },
+                    {
+                        "name": "Looping over Lists",
+                        "duration": "2m 54s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781702",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding or Removing Items",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781709",
+                        "preview": false
+                    },
+                    {
+                        "name": "Finding Items",
+                        "duration": "1m 28s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781691",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting Lists",
+                        "duration": "4m 35s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781698",
+                        "preview": false
+                    },
+                    {
+                        "name": "Lambda Functions",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781706",
+                        "preview": false
+                    },
+                    {
+                        "name": "Map Function",
+                        "duration": "3m 25s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781705",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filter Function",
+                        "duration": "2m 05s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781689",
+                        "preview": false
+                    },
+                    {
+                        "name": "List Comprehensions",
+                        "duration": "3m 10s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781687",
+                        "preview": false
+                    },
+                    {
+                        "name": "Zip Function",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781700",
+                        "preview": false
+                    },
+                    {
+                        "name": "Stacks",
+                        "duration": "4m 24s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781699",
+                        "preview": false
+                    },
+                    {
+                        "name": "Queues",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781688",
+                        "preview": false
+                    },
+                    {
+                        "name": "Tuples",
+                        "duration": "4m 02s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781707",
+                        "preview": false
+                    },
+                    {
+                        "name": "Swapping Variables",
+                        "duration": "2m 37s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781695",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arrays",
+                        "duration": "3m 11s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781690",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sets",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781697",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dictionaries",
+                        "duration": "5m 24s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781692",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dictionary Comprehensions",
+                        "duration": "3m 19s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781693",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generator Expressions",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781708",
+                        "preview": false
+                    },
+                    {
+                        "name": "Unpacking Operator",
+                        "duration": "4m 05s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781701",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": "6m 21s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6781694",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Exceptions",
+                "lessons": [
+                    {
+                        "name": "Exceptions",
+                        "duration": "2m 16s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880896",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Exceptions",
+                        "duration": "4m 10s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880894",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Different Exceptions",
+                        "duration": "3m 05s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880895",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cleaning Up",
+                        "duration": "1m 57s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880892",
+                        "preview": false
+                    },
+                    {
+                        "name": "The With Statement",
+                        "duration": "3m 07s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880897",
+                        "preview": false
+                    },
+                    {
+                        "name": "Raising Exceptions",
+                        "duration": "3m 21s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880891",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cost of Raising Exceptions",
+                        "duration": "4m 41s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880893",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Classes",
+                "lessons": [
+                    {
+                        "name": "Classes",
+                        "duration": "2m 35s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880920",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Classes",
+                        "duration": "3m 45s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880937",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructors",
+                        "duration": "4m 37s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880927",
+                        "preview": false
+                    },
+                    {
+                        "name": "Class vs Instance Attributes",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880932",
+                        "preview": false
+                    },
+                    {
+                        "name": "Class vs Instance Methods",
+                        "duration": "4m 05s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880926",
+                        "preview": false
+                    },
+                    {
+                        "name": "Magic Methods",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880930",
+                        "preview": false
+                    },
+                    {
+                        "name": "Comparing Objects",
+                        "duration": "3m 11s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880928",
+                        "preview": false
+                    },
+                    {
+                        "name": "Performing Arithmetic Operations",
+                        "duration": "1m 31s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880931",
+                        "preview": false
+                    },
+                    {
+                        "name": "Making Custom Containers",
+                        "duration": "6m 55s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880938",
+                        "preview": false
+                    },
+                    {
+                        "name": "Private Members",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880935",
+                        "preview": false
+                    },
+                    {
+                        "name": "Properties",
+                        "duration": "7m 30s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880936",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inheritance",
+                        "duration": "4m 23s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880925",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Object Class",
+                        "duration": "2m 23s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880917",
+                        "preview": false
+                    },
+                    {
+                        "name": "Method Overriding",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880924",
+                        "preview": false
+                    },
+                    {
+                        "name": "Multi-level Inheritance",
+                        "duration": "2m 42s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880934",
+                        "preview": false
+                    },
+                    {
+                        "name": "Multiple Inheritance",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880923",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Good Example of Inheritance",
+                        "duration": "4m 31s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880921",
+                        "preview": false
+                    },
+                    {
+                        "name": "Abstract Base Classes",
+                        "duration": "4m 50s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880929",
+                        "preview": false
+                    },
+                    {
+                        "name": "Polymorphism",
+                        "duration": "3m 56s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880919",
+                        "preview": false
+                    },
+                    {
+                        "name": "Duck Typing",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880922",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extending Built-in Types",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880933",
+                        "preview": false
+                    },
+                    {
+                        "name": "Data Classes",
+                        "duration": "4m 36s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/6880918",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Modules",
+                "lessons": [
+                    {
+                        "name": "Creating Modules",
+                        "duration": "4m 16s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417531",
+                        "preview": false
+                    },
+                    {
+                        "name": "Compiled Python Files",
+                        "duration": "2m 19s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417533",
+                        "preview": false
+                    },
+                    {
+                        "name": "Module Search Path",
+                        "duration": "1m 35s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417536",
+                        "preview": false
+                    },
+                    {
+                        "name": "Packages",
+                        "duration": "2m 27s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417532",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sub-packages",
+                        "duration": "1m 01s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417537",
+                        "preview": false
+                    },
+                    {
+                        "name": "Intra-package References",
+                        "duration": "1m 36s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417534",
+                        "preview": false
+                    },
+                    {
+                        "name": "The dir Function",
+                        "duration": "1m 39s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417530",
+                        "preview": false
+                    },
+                    {
+                        "name": "Executing Modules as Scripts",
+                        "duration": "2m 55s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417535",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Python Standard Library",
+                "lessons": [
+                    {
+                        "name": "Python Standard Library",
+                        "duration": "0m 51s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417577",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working With Paths",
+                        "duration": "4m 48s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417574",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Directories",
+                        "duration": "4m 14s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417581",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Files",
+                        "duration": "3m 59s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417578",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Zip Files",
+                        "duration": "3m 15s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417584",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with CSV Files",
+                        "duration": "4m 50s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417580",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with JSON Files",
+                        "duration": "3m 57s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417589",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with a SQLite Database",
+                        "duration": "9m 10s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417579",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Timestamps",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417590",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with DateTimes",
+                        "duration": "5m 05s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417587",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Time Deltas",
+                        "duration": "2m 41s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417576",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generating Random Values",
+                        "duration": "4m 09s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417586",
+                        "preview": false
+                    },
+                    {
+                        "name": "Opening the Browser",
+                        "duration": "1m 12s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417582",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sending Emails",
+                        "duration": "6m 48s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417583",
+                        "preview": false
+                    },
+                    {
+                        "name": "Templates",
+                        "duration": "4m 53s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417575",
+                        "preview": false
+                    },
+                    {
+                        "name": "Command-line Arguments",
+                        "duration": "1m 54s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417585",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running External Programs",
+                        "duration": "8m 06s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417588",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Python Package Index",
+                "lessons": [
+                    {
+                        "name": "Pypi",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417619",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pip",
+                        "duration": "6m 23s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417624",
+                        "preview": false
+                    },
+                    {
+                        "name": "Virtual Environments",
+                        "duration": "4m 04s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417616",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pipenv",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417617",
+                        "preview": false
+                    },
+                    {
+                        "name": "Virtual Environments in VSCode",
+                        "duration": "3m 49s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417615",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pipfile",
+                        "duration": "4m 48s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417621",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Dependencies",
+                        "duration": "3m 28s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417623",
+                        "preview": false
+                    },
+                    {
+                        "name": "Publishing Packages",
+                        "duration": "8m 22s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417622",
+                        "preview": false
+                    },
+                    {
+                        "name": "Docstrings",
+                        "duration": "5m 48s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417620",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pydoc",
+                        "duration": "4m 06s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8417618",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Popular Python Packages",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 41s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8481668",
+                        "preview": false
+                    },
+                    {
+                        "name": "What are APIs",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8481671",
+                        "preview": false
+                    },
+                    {
+                        "name": "Yelp API",
+                        "duration": "2m 51s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8481673",
+                        "preview": false
+                    },
+                    {
+                        "name": "Searching for Businesses",
+                        "duration": "9m 54s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8481665",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hiding API Keys",
+                        "duration": "2m 05s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8481676",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sending Text Messages",
+                        "duration": "6m 02s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8481674",
+                        "preview": false
+                    },
+                    {
+                        "name": "Web Scraping",
+                        "duration": "9m 06s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8481667",
+                        "preview": false
+                    },
+                    {
+                        "name": "Browser Automation",
+                        "duration": "11m 28s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8481670",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with PDFs",
+                        "duration": "6m 18s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8481666",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Excel Spreadsheets",
+                        "duration": "9m 52s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8481675",
+                        "preview": false
+                    },
+                    {
+                        "name": "Command Query Separation Principle",
+                        "duration": "4m 39s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8481672",
+                        "preview": false
+                    },
+                    {
+                        "name": "NumPy",
+                        "duration": "9m 05s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/8481669",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Building Web Applications with Django",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219265",
+                        "preview": false
+                    },
+                    {
+                        "name": "Your First Django Project",
+                        "duration": "4m 11s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219275",
+                        "preview": false
+                    },
+                    {
+                        "name": "Your First App",
+                        "duration": "3m 41s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219268",
+                        "preview": false
+                    },
+                    {
+                        "name": "Views",
+                        "duration": "7m 59s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219254",
+                        "preview": false
+                    },
+                    {
+                        "name": "Models",
+                        "duration": "4m 57s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219273",
+                        "preview": false
+                    },
+                    {
+                        "name": "Migrations",
+                        "duration": "8m 00s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219258",
+                        "preview": false
+                    },
+                    {
+                        "name": "Changing the Models",
+                        "duration": "5m 38s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219271",
+                        "preview": false
+                    },
+                    {
+                        "name": "Admin",
+                        "duration": "4m 29s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219263",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing the Admin",
+                        "duration": "6m 55s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219267",
+                        "preview": false
+                    },
+                    {
+                        "name": "Database Abstraction API",
+                        "duration": "3m 52s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219272",
+                        "preview": false
+                    },
+                    {
+                        "name": "Templates",
+                        "duration": "10m 23s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219257",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Bootstrap",
+                        "duration": "4m 19s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219262",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing the Layout",
+                        "duration": "2m 23s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219255",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sharing a Template Across Multiple Apps",
+                        "duration": "3m 48s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219274",
+                        "preview": false
+                    },
+                    {
+                        "name": "Url Parameters",
+                        "duration": "4m 37s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219266",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting a Single Object",
+                        "duration": "3m 48s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219269",
+                        "preview": false
+                    },
+                    {
+                        "name": "Raising 404 Errors",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219261",
+                        "preview": false
+                    },
+                    {
+                        "name": "Referencing Urls",
+                        "duration": "3m 47s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219270",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating APIs",
+                        "duration": "9m 26s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219256",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding the Homepage",
+                        "duration": "4m 27s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219259",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Ready to Deploy",
+                        "duration": "9m 44s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219260",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deployment",
+                        "duration": "7m 59s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219264",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Machine Learning with Python",
+                "lessons": [
+                    {
+                        "name": "What is Machine Learning",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219318",
+                        "preview": false
+                    },
+                    {
+                        "name": "Machine Learning in Action",
+                        "duration": "2m 47s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219322",
+                        "preview": false
+                    },
+                    {
+                        "name": "Libraries and Tools",
+                        "duration": "4m 54s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219321",
+                        "preview": false
+                    },
+                    {
+                        "name": "Importing a Data Set",
+                        "duration": "6m 21s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219320",
+                        "preview": false
+                    },
+                    {
+                        "name": "Jupyter Shortcuts",
+                        "duration": "5m 26s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219324",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Real Machine Learning Problem",
+                        "duration": "3m 17s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219316",
+                        "preview": false
+                    },
+                    {
+                        "name": "Preparing the Data",
+                        "duration": "3m 05s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219326",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning and Predicting",
+                        "duration": "4m 04s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219317",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calculating the Accuracy",
+                        "duration": "6m 20s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219323",
+                        "preview": false
+                    },
+                    {
+                        "name": "Persisting Models",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219319",
+                        "preview": false
+                    },
+                    {
+                        "name": "Visualizing a Decision Tree",
+                        "duration": "6m 26s",
+                        "type": 1,
+                        "href": "/courses/python-programming-course-beginners/lectures/9219325",
+                        "preview": false
+                    },
+                    {
+                        "name": "What to Learn Next",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/python-programming-course-beginners/lectures/11644490",
+                        "preview": false
+                    },
+                    {
+                        "name": "Thank You",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/python-programming-course-beginners/lectures/9220308",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

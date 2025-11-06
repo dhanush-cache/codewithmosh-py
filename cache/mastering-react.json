@@ -1,0 +1,1717 @@
+{
+    "course": {
+        "id": 357787,
+        "name": "Mastering React 16",
+        "slug": "mastering-react",
+        "heading": "Don't get left behind. React is the way forward to building fast, interactive web apps. This course covers everything.",
+        "isPublished": false,
+        "imageUrl": "https://www.filepicker.io/api/file/SVFQZQAyRpqJ31f6LNGe",
+        "hours": 13,
+        "lessons": 220,
+        "categories": [
+            1
+        ],
+        "level": "Beginner to Pro",
+        "type": "single",
+        "price": 149,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/mastering-react/lectures/45970957",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/754264/mastering-react",
+        "outcomes": [
+            "Build and deploy fast and interactive React apps with confidence",
+            "Build reusable components",
+            "Build tables and lists with pagination, sorting and searching",
+            "Build forms with validation",
+            "Implement routing with React Router",
+            "Call HTTP services with Axios",
+            "Implement authentication and authorization",
+            "Handle and log errors effectively",
+            "All about Function Components and Hooks",
+            "Share data using React Context",
+            "Deploy your React apps to Heroku",
+            "Write clean, maintainable code like a pro",
+            "Shortcuts to write more code in less time",
+            "And much, much more!"
+        ],
+        "audience": [
+            "Anyone wanting to learn front-end development with React",
+            "Front-end developers familiar with other libraries and frameworks such as Angular or Vue who want to add React to their toolbox",
+            "Back-end developers who want to transition to full-stack development"
+        ],
+        "prerequisites": {
+            "courses": [
+                1896395
+            ],
+            "text": [
+                "All you need is some basic, beginner-level familiarity with JavaScript."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "New Version Available",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-react/lectures/45970957",
+                        "preview": true
+                    },
+                    {
+                        "name": "What is React",
+                        "duration": "4m 32s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634517",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up the Development Environment",
+                        "duration": "3m 37s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634521",
+                        "preview": true
+                    },
+                    {
+                        "name": "Your First React App",
+                        "duration": "6m 33s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634519",
+                        "preview": true
+                    },
+                    {
+                        "name": "Hello World",
+                        "duration": "5m 25s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634520",
+                        "preview": true
+                    },
+                    {
+                        "name": "Custom Configs",
+                        "duration": "3m 11s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634523",
+                        "preview": true
+                    },
+                    {
+                        "name": "Full-stack Architecture",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634518",
+                        "preview": true
+                    },
+                    {
+                        "name": "Course Structure",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634522",
+                        "preview": true
+                    },
+                    {
+                        "name": "Redux?",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-react/lectures/5931880",
+                        "preview": true
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-react/lectures/25353368",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-react/lectures/34609793",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "ES6 Refresher",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634558",
+                        "preview": false
+                    },
+                    {
+                        "name": "Let vs Var vs Const",
+                        "duration": "3m 52s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634567",
+                        "preview": false
+                    },
+                    {
+                        "name": "Objects",
+                        "duration": "2m 45s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634569",
+                        "preview": false
+                    },
+                    {
+                        "name": "The this Keyword",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634564",
+                        "preview": false
+                    },
+                    {
+                        "name": "Binding this",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634560",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arrow Functions",
+                        "duration": "4m 15s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634556",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arrow Functions and this",
+                        "duration": "4m 14s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634563",
+                        "preview": false
+                    },
+                    {
+                        "name": "Array.map Method",
+                        "duration": "3m 36s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634562",
+                        "preview": false
+                    },
+                    {
+                        "name": "Object Destructuring",
+                        "duration": "2m 29s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634557",
+                        "preview": false
+                    },
+                    {
+                        "name": "Spread Operator",
+                        "duration": "4m 02s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634568",
+                        "preview": false
+                    },
+                    {
+                        "name": "Classes",
+                        "duration": "3m 45s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634559",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inheritance",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634566",
+                        "preview": false
+                    },
+                    {
+                        "name": "Modules",
+                        "duration": "4m 11s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634565",
+                        "preview": false
+                    },
+                    {
+                        "name": "Named and Default Exports",
+                        "duration": "5m 15s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634561",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Components",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 38s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634621",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up the Project",
+                        "duration": "2m 06s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634627",
+                        "preview": false
+                    },
+                    {
+                        "name": "Your First React Component",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634616",
+                        "preview": false
+                    },
+                    {
+                        "name": "Side Note: Class vs Function Components",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-react/lectures/39196181",
+                        "preview": false
+                    },
+                    {
+                        "name": "Specifying Children",
+                        "duration": "4m 16s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634614",
+                        "preview": false
+                    },
+                    {
+                        "name": "Embedding Expressions",
+                        "duration": "4m 50s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634617",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Attributes",
+                        "duration": "5m 45s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634613",
+                        "preview": false
+                    },
+                    {
+                        "name": "Rendering Classes Dynamically",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634625",
+                        "preview": false
+                    },
+                    {
+                        "name": "Rendering Lists",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634610",
+                        "preview": false
+                    },
+                    {
+                        "name": "Conditional Rendering",
+                        "duration": "6m 04s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634620",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Events",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634622",
+                        "preview": false
+                    },
+                    {
+                        "name": "Binding Event Handlers",
+                        "duration": "4m 36s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634615",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating the State",
+                        "duration": "2m 14s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634608",
+                        "preview": false
+                    },
+                    {
+                        "name": "What Happens When State Changes",
+                        "duration": "2m 04s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634611",
+                        "preview": false
+                    },
+                    {
+                        "name": "Passing Event Arguments",
+                        "duration": "3m 04s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634618",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up the Vidly Project",
+                        "duration": "5m 38s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634612",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": "3m 25s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634623",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Movies Component",
+                        "duration": "7m 18s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634619",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting a Movie",
+                        "duration": "5m 18s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634626",
+                        "preview": false
+                    },
+                    {
+                        "name": "Conditional Rendering",
+                        "duration": "3m 26s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634609",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 36s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634624",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Composing Components",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 45s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634725",
+                        "preview": false
+                    },
+                    {
+                        "name": "Composing Components",
+                        "duration": "3m 45s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634716",
+                        "preview": false
+                    },
+                    {
+                        "name": "Passing Data to Components",
+                        "duration": "3m 11s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634713",
+                        "preview": false
+                    },
+                    {
+                        "name": "Passing Children",
+                        "duration": "3m 10s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634710",
+                        "preview": false
+                    },
+                    {
+                        "name": "Debugging React Apps",
+                        "duration": "4m 09s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634703",
+                        "preview": false
+                    },
+                    {
+                        "name": "Props vs State",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634715",
+                        "preview": false
+                    },
+                    {
+                        "name": "Raising and Handling Events",
+                        "duration": "4m 52s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634711",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating the State",
+                        "duration": "4m 38s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634718",
+                        "preview": false
+                    },
+                    {
+                        "name": "Single Source of Truth",
+                        "duration": "3m 55s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634714",
+                        "preview": false
+                    },
+                    {
+                        "name": "Removing the Local State",
+                        "duration": "6m 47s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634721",
+                        "preview": false
+                    },
+                    {
+                        "name": "Multiple Components in Sync",
+                        "duration": "5m 53s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634706",
+                        "preview": false
+                    },
+                    {
+                        "name": "Lifting the State Up",
+                        "duration": "5m 36s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634719",
+                        "preview": false
+                    },
+                    {
+                        "name": "Stateless Functional Components",
+                        "duration": "2m 29s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634720",
+                        "preview": false
+                    },
+                    {
+                        "name": "Destructuring Arguments",
+                        "duration": "2m 00s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634724",
+                        "preview": false
+                    },
+                    {
+                        "name": "Lifecycle Hooks",
+                        "duration": "1m 38s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634717",
+                        "preview": false
+                    },
+                    {
+                        "name": "Mounting Phase",
+                        "duration": "5m 34s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634707",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Phase",
+                        "duration": "4m 20s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634723",
+                        "preview": false
+                    },
+                    {
+                        "name": "Unmounting Phase",
+                        "duration": "1m 26s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634709",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Decrement Button",
+                        "duration": "1m 05s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634712",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution - Decrement Button",
+                        "duration": "4m 53s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634705",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Like Component",
+                        "duration": "1m 44s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634708",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Like Component",
+                        "duration": "12m 26s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634722",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 42s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5634704",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Pagination, Filtering, and Sorting",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 08s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706714",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Pagination Component",
+                        "duration": "1m 01s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706692",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pagination- Component Interface",
+                        "duration": "3m 47s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706697",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pagination- Displaying Pages",
+                        "duration": "6m 48s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706706",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pagination- Handling Page Changes",
+                        "duration": "5m 49s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706710",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pagination- Paginating Data",
+                        "duration": "6m 14s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706707",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pagination- Type Checking with PropTypes",
+                        "duration": "4m 56s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706709",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- ListGroup Component",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706695",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering- Component Interface",
+                        "duration": "5m 32s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706700",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering- Displaying Items",
+                        "duration": "3m 57s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706703",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering- Default Props",
+                        "duration": "2m 06s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706715",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering- Handling Selection",
+                        "duration": "4m 20s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706691",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering- Implementing Filtering",
+                        "duration": "2m 59s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706699",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering- Adding All Genres",
+                        "duration": "3m 39s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706696",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting- Extracting MoviesTable",
+                        "duration": "5m 19s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706690",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting- Raising the Sort Event",
+                        "duration": "3m 28s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706711",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting- Implementing Sorting",
+                        "duration": "5m 13s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706693",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting- Moving Responsibility",
+                        "duration": "5m 15s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706694",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting- Extracting TableHeader",
+                        "duration": "7m 44s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706708",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting- Extracting TableBody",
+                        "duration": "3m 12s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706705",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting- Rendering Cell Content",
+                        "duration": "8m 02s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706701",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting- Unique Keys - Final",
+                        "duration": "2m 58s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706702",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting- Adding the Sort Icon",
+                        "duration": "3m 57s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706713",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting- Extracting Table",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706712",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting- Extracting a Method",
+                        "duration": "3m 18s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706698",
+                        "preview": false
+                    },
+                    {
+                        "name": "Destructuring Arguments",
+                        "duration": "0m 58s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706704",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 51s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706716",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-react/lectures/5980664",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Routing",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 33s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706771",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setup",
+                        "duration": "1m 46s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706948",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Routing",
+                        "duration": "4m 15s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706936",
+                        "preview": false
+                    },
+                    {
+                        "name": "Switch",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706943",
+                        "preview": false
+                    },
+                    {
+                        "name": "Link",
+                        "duration": "4m 20s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706944",
+                        "preview": false
+                    },
+                    {
+                        "name": "Route Props",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706949",
+                        "preview": false
+                    },
+                    {
+                        "name": "Passing Props",
+                        "duration": "2m 35s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706939",
+                        "preview": false
+                    },
+                    {
+                        "name": "Route Parameters",
+                        "duration": "3m 32s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706945",
+                        "preview": false
+                    },
+                    {
+                        "name": "Optional Parameters",
+                        "duration": "2m 06s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706950",
+                        "preview": false
+                    },
+                    {
+                        "name": "Query String Parameters",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706947",
+                        "preview": false
+                    },
+                    {
+                        "name": "Redirects",
+                        "duration": "3m 06s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706941",
+                        "preview": false
+                    },
+                    {
+                        "name": "Programmatic Navigation",
+                        "duration": "2m 20s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706946",
+                        "preview": false
+                    },
+                    {
+                        "name": "Nested Routing",
+                        "duration": "4m 35s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706940",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises- NavBar and Routing",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706937",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding React Router",
+                        "duration": "1m 26s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706934",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Routes",
+                        "duration": "4m 57s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706942",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding the NavBar",
+                        "duration": "4m 39s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706938",
+                        "preview": false
+                    },
+                    {
+                        "name": "Linking to the MovieForm",
+                        "duration": "4m 42s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706935",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 31s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5706951",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Forms",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 38s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707058",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building a Bootstrap Form",
+                        "duration": "5m 34s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707049",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Form Submission",
+                        "duration": "2m 00s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707050",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refs",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707067",
+                        "preview": false
+                    },
+                    {
+                        "name": "Controlled Elements",
+                        "duration": "4m 32s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707048",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Multiple Inputs",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707063",
+                        "preview": false
+                    },
+                    {
+                        "name": "Common Errors",
+                        "duration": "2m 28s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707052",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting a Reusable Input",
+                        "duration": "3m 57s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707071",
+                        "preview": false
+                    },
+                    {
+                        "name": "Validation",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707061",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Basic Validation Implementation",
+                        "duration": "3m 11s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707069",
+                        "preview": false
+                    },
+                    {
+                        "name": "Displaying Validation Errors",
+                        "duration": "3m 42s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707056",
+                        "preview": false
+                    },
+                    {
+                        "name": "Validation on Change",
+                        "duration": "4m 19s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707055",
+                        "preview": false
+                    },
+                    {
+                        "name": "Joi",
+                        "duration": "4m 33s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707068",
+                        "preview": false
+                    },
+                    {
+                        "name": "Validating a Form Using Joi",
+                        "duration": "4m 43s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707065",
+                        "preview": false
+                    },
+                    {
+                        "name": "Validating a Field Using Joi",
+                        "duration": "5m 22s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707057",
+                        "preview": false
+                    },
+                    {
+                        "name": "Disabling the Submit Button",
+                        "duration": "1m 11s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707051",
+                        "preview": false
+                    },
+                    {
+                        "name": "Code Review",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707053",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting a Reusable Form",
+                        "duration": "4m 51s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707070",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting Helper Rendering Methods",
+                        "duration": "8m 18s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707066",
+                        "preview": false
+                    },
+                    {
+                        "name": "Register Form",
+                        "duration": "1m 42s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707062",
+                        "preview": false
+                    },
+                    {
+                        "name": "Code Review",
+                        "duration": "1m 10s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707054",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 2- Movie Form",
+                        "duration": "3m 18s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707047",
+                        "preview": false
+                    },
+                    {
+                        "name": "Code Review",
+                        "duration": "8m 24s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707060",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise 3- Search Movies",
+                        "duration": "1m 22s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707059",
+                        "preview": false
+                    },
+                    {
+                        "name": "Code Review",
+                        "duration": "5m 12s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5707064",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Calling Backend Services",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 13s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867611",
+                        "preview": false
+                    },
+                    {
+                        "name": "JSON Placeholder",
+                        "duration": "2m 54s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867634",
+                        "preview": false
+                    },
+                    {
+                        "name": "Http Clients",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867631",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Data",
+                        "duration": "5m 26s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867635",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Data",
+                        "duration": "4m 52s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867620",
+                        "preview": false
+                    },
+                    {
+                        "name": "Lifecycle of a Request",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867614",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Data",
+                        "duration": "4m 14s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867630",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting Data",
+                        "duration": "1m 35s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867627",
+                        "preview": false
+                    },
+                    {
+                        "name": "Optimistic vs Pessimistic Updates",
+                        "duration": "4m 24s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867632",
+                        "preview": false
+                    },
+                    {
+                        "name": "Expected vs Unexpected Errors",
+                        "duration": "6m 40s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867619",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Unexpected Errors Globally",
+                        "duration": "7m 54s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867623",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting a Reusable Http Service",
+                        "duration": "3m 43s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867625",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting a Config Module",
+                        "duration": "1m 36s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867628",
+                        "preview": false
+                    },
+                    {
+                        "name": "Displaying Toast Notifications",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867636",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logging Errors",
+                        "duration": "5m 47s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867626",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting a Logger Service",
+                        "duration": "4m 25s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867616",
+                        "preview": false
+                    },
+                    {
+                        "name": "Vidly Backend",
+                        "duration": "1m 50s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867624",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing MongoDB on Mac",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867618",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing MongoDB on Windows",
+                        "duration": "5m 39s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867617",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up the Node Backend",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867613",
+                        "preview": false
+                    },
+                    {
+                        "name": "Disabling Authentication",
+                        "duration": "4m 01s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867610",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Connect Movies Page to the Backend",
+                        "duration": "1m 56s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867612",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Http and Log Services",
+                        "duration": "2m 38s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867633",
+                        "preview": false
+                    },
+                    {
+                        "name": "Replacing FakeGenreService",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867615",
+                        "preview": false
+                    },
+                    {
+                        "name": "Replacing FakeMovieService",
+                        "duration": "5m 48s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867621",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting a Config File",
+                        "duration": "1m 54s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867609",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Connect Movie Form to the Backend",
+                        "duration": "0m 56s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867607",
+                        "preview": false
+                    },
+                    {
+                        "name": "Populating the Form",
+                        "duration": "3m 45s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867608",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring",
+                        "duration": "2m 30s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867622",
+                        "preview": false
+                    },
+                    {
+                        "name": "Saving the Movie",
+                        "duration": "2m 40s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867637",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5867629",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Authentication and Authorization",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 49s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876737",
+                        "preview": false
+                    },
+                    {
+                        "name": "Registering a New User",
+                        "duration": "2m 37s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876728",
+                        "preview": false
+                    },
+                    {
+                        "name": "Submitting the Registration Form",
+                        "duration": "4m 30s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876735",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Registration Errors",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876724",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logging in a User",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876740",
+                        "preview": false
+                    },
+                    {
+                        "name": "Submitting the Login Form",
+                        "duration": "2m 23s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876742",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Login Errors",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876736",
+                        "preview": false
+                    },
+                    {
+                        "name": "Storing the JWT",
+                        "duration": "3m 04s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876734",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logging in the User upon Registration",
+                        "duration": "5m 37s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876726",
+                        "preview": false
+                    },
+                    {
+                        "name": "JSON Web Tokens",
+                        "duration": "3m 59s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876743",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting the Current User",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876725",
+                        "preview": false
+                    },
+                    {
+                        "name": "Displaying the Current User on NavBar",
+                        "duration": "4m 48s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876722",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logging out a User",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876732",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring",
+                        "duration": "10m 03s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876727",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calling Protected API Endpoints",
+                        "duration": "4m 10s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876741",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fixing Bi-directional Dependencies",
+                        "duration": "2m 43s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876730",
+                        "preview": false
+                    },
+                    {
+                        "name": "Authorization",
+                        "duration": "6m 30s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876731",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing or Hiding Elements based on the User",
+                        "duration": "2m 40s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876738",
+                        "preview": false
+                    },
+                    {
+                        "name": "Protecting Routes",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876795",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting ProtectedRoute",
+                        "duration": "5m 55s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876729",
+                        "preview": false
+                    },
+                    {
+                        "name": "Redirecting after Login",
+                        "duration": "5m 40s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876723",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": "0m 19s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876733",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hiding the Delete Column",
+                        "duration": "4m 19s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5876739",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Deployment",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 38s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5922157",
+                        "preview": false
+                    },
+                    {
+                        "name": "Environment Variables",
+                        "duration": "4m 58s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5922152",
+                        "preview": false
+                    },
+                    {
+                        "name": "Production Builds",
+                        "duration": "2m 48s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5922158",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Started with Heroku",
+                        "duration": "2m 06s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5922155",
+                        "preview": false
+                    },
+                    {
+                        "name": "MongoDB in the Cloud",
+                        "duration": "2m 35s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5922162",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Code to a Git Repository",
+                        "duration": "3m 05s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5922161",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deploying to Heroku",
+                        "duration": "3m 01s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5922156",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing Logs",
+                        "duration": "2m 40s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5922153",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Environment Variables on Heroku",
+                        "duration": "4m 37s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5922154",
+                        "preview": false
+                    },
+                    {
+                        "name": "Preparing the Font-end for Deployment",
+                        "duration": "4m 09s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5922159",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deploying the Front-end",
+                        "duration": "2m 38s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/5922160",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Advanced Topics",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 31s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898955",
+                        "preview": false
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-react/lectures/13898953",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up the Development Environment",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898952",
+                        "preview": false
+                    },
+                    {
+                        "name": "Higher Order Components",
+                        "duration": "2m 04s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898959",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing a Higher Order Component",
+                        "duration": "8m 35s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898957",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hooks",
+                        "duration": "3m 06s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898951",
+                        "preview": false
+                    },
+                    {
+                        "name": "The useState Hook",
+                        "duration": "8m 30s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898958",
+                        "preview": false
+                    },
+                    {
+                        "name": "The useEffect Hook",
+                        "duration": "5m 46s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898949",
+                        "preview": false
+                    },
+                    {
+                        "name": "Custom Hooks",
+                        "duration": "3m 04s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898948",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fetching Data with Hooks",
+                        "duration": "4m 37s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898954",
+                        "preview": false
+                    },
+                    {
+                        "name": "Context",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898947",
+                        "preview": false
+                    },
+                    {
+                        "name": "Context in Class Components",
+                        "duration": "9m 46s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898945",
+                        "preview": false
+                    },
+                    {
+                        "name": "Context in Functional Components",
+                        "duration": "3m 33s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898950",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating the Context",
+                        "duration": "7m 06s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898946",
+                        "preview": false
+                    },
+                    {
+                        "name": "Consuming Multiple Contexts",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/mastering-react/lectures/13898956",
+                        "preview": false
+                    },
+                    {
+                        "name": "Thank You!",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-react/lectures/6069785",
+                        "preview": false
+                    },
+                    {
+                        "name": "What to Learn Next",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/mastering-react/lectures/9937025",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

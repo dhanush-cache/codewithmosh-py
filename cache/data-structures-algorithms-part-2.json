@@ -1,0 +1,908 @@
+{
+    "course": {
+        "id": 650827,
+        "name": "Ultimate Data Structures & Algorithms: Part 2",
+        "slug": "data-structures-algorithms-part-2",
+        "heading": "Ace your coding job interview. Learn to write better and faster code.",
+        "promoVideoId": "hclxtwqlc7",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769449/promo-videos/dsa-part2.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/cAHw6qPCQKScz9SDKriJ_New+Covers.002.jpeg",
+        "hours": 6,
+        "lessons": 130,
+        "categories": [
+            6
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 49,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/data-structures-algorithms-part-2/lectures/11619971",
+        "parentBundleId": 680815,
+        "outcomes": [
+            "Binary Trees: Understand binary tree structure, traversal algorithms, and applications",
+            "AVL Trees: Explore balanced binary search trees like AVL trees for efficient searching and insertion",
+            "Heaps: Study min heaps and max heaps, including heapify operations and heap sort algorithm",
+            "Tries: Delve into trie data structures for efficient word/key searching and storage",
+            "Graphs: Learn about directed and undirected graphs, BFS, DFS, and other graph algorithm"
+        ],
+        "audience": [
+            "Anyone preparing for a coding job interview",
+            "Computer science students whose lecturers failed to explain the topics",
+            "Self-taught developers who missed out on a computer science degree",
+            "Anyone who wants to become a better developer"
+        ],
+        "prerequisites": {
+            "courses": [
+                639884
+            ],
+            "text": [
+                "This course is the second part of a series. So you should have watched the first part or have a solid understanding of the concepts covered there."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 50s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11619971",
+                        "preview": false
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11619973",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/25354805",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/34610410",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Binary Trees",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 55s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620029",
+                        "preview": true
+                    },
+                    {
+                        "name": "What are Trees",
+                        "duration": "5m 36s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620018",
+                        "preview": true
+                    },
+                    {
+                        "name": "Exercise- Populating a Binary Search Tree",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620011",
+                        "preview": true
+                    },
+                    {
+                        "name": "Exercise- Building a Tree",
+                        "duration": "2m 41s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620020",
+                        "preview": true
+                    },
+                    {
+                        "name": "Solution- insert",
+                        "duration": "7m 44s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620028",
+                        "preview": true
+                    },
+                    {
+                        "name": "Solution- find",
+                        "duration": "2m 00s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620017",
+                        "preview": true
+                    },
+                    {
+                        "name": "Traversing Trees",
+                        "duration": "5m 58s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620012",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Tree Traversal",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620024",
+                        "preview": false
+                    },
+                    {
+                        "name": "Recursion",
+                        "duration": "5m 39s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620021",
+                        "preview": false
+                    },
+                    {
+                        "name": "Depth First Traversals",
+                        "duration": "5m 23s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620013",
+                        "preview": false
+                    },
+                    {
+                        "name": "Depth and Height of Nodes",
+                        "duration": "7m 06s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620023",
+                        "preview": false
+                    },
+                    {
+                        "name": "Minimum Value in a Tree",
+                        "duration": "7m 37s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620026",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Equality Checking",
+                        "duration": "0m 45s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620009",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Equality Checking",
+                        "duration": "4m 08s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620010",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Validating Binary Search Trees",
+                        "duration": "4m 14s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620025",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Validating Binary Search Trees",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620016",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Nodes at K Distance",
+                        "duration": "1m 48s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620027",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Nodes at K Distance from the Root",
+                        "duration": "4m 37s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620015",
+                        "preview": false
+                    },
+                    {
+                        "name": "Level Order Traversal",
+                        "duration": "2m 55s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620022",
+                        "preview": false
+                    },
+                    {
+                        "name": "Trees- Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620019",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "1m 22s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620014",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "AVL Trees",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 31s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620086",
+                        "preview": false
+                    },
+                    {
+                        "name": "Balanced and Unbalanced Trees",
+                        "duration": "3m 01s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620088",
+                        "preview": false
+                    },
+                    {
+                        "name": "Rotations",
+                        "duration": "5m 02s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620097",
+                        "preview": false
+                    },
+                    {
+                        "name": "AVL Trees",
+                        "duration": "4m 04s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620100",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise: AVL Rotations",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620090",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building an AVL Tree",
+                        "duration": "1m 11s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620087",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- insert",
+                        "duration": "8m 47s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620099",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Height Calculation",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620096",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Height Calculation",
+                        "duration": "2m 43s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620093",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Balance Factor",
+                        "duration": "2m 04s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620092",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Balance Factor",
+                        "duration": "4m 01s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620094",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Detecting Rotations",
+                        "duration": "2m 54s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620084",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Detecting Rotations",
+                        "duration": "3m 32s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620091",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Implementing Rotations",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620095",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Implementing Rotations",
+                        "duration": "5m 40s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620089",
+                        "preview": false
+                    },
+                    {
+                        "name": "AVL Trees- Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620098",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "1m 01s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620085",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11643339",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Heaps",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 21s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620127",
+                        "preview": false
+                    },
+                    {
+                        "name": "What are Heaps",
+                        "duration": "6m 28s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620136",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Working with Heaps",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620128",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building a Heap",
+                        "duration": "1m 55s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620130",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- insert",
+                        "duration": "8m 24s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620131",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- remove",
+                        "duration": "7m 07s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620133",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution - Edge Cases",
+                        "duration": "6m 11s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620122",
+                        "preview": false
+                    },
+                    {
+                        "name": "Heap Sort",
+                        "duration": "2m 29s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620132",
+                        "preview": false
+                    },
+                    {
+                        "name": "Priority Queues",
+                        "duration": "5m 04s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620125",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Heapify",
+                        "duration": "1m 26s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620126",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Heapify",
+                        "duration": "7m 12s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620121",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Optimization",
+                        "duration": "2m 42s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620134",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Kth Largest Item",
+                        "duration": "0m 31s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620123",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Kth Largest Item",
+                        "duration": "3m 47s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620124",
+                        "preview": false
+                    },
+                    {
+                        "name": "Heaps- Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620135",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "1m 19s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620129",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Tries",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 30s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620248",
+                        "preview": false
+                    },
+                    {
+                        "name": "What are Tries",
+                        "duration": "3m 50s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620252",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Populating a Trie",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620243",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building a Trie",
+                        "duration": "3m 03s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620247",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Building a Trie",
+                        "duration": "5m 44s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620253",
+                        "preview": false
+                    },
+                    {
+                        "name": "An Implementation with a HashTable",
+                        "duration": "1m 50s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620244",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Better Abstraction",
+                        "duration": "5m 28s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620254",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Looking Up a Word",
+                        "duration": "1m 12s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620242",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Looking Up a Word",
+                        "duration": "2m 35s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620251",
+                        "preview": false
+                    },
+                    {
+                        "name": "Traversals",
+                        "duration": "3m 35s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620255",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Removing a Word",
+                        "duration": "1m 53s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620250",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Removing a Word",
+                        "duration": "8m 14s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620246",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Auto Completion",
+                        "duration": "2m 51s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620249",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Auto Completion",
+                        "duration": "5m 59s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620245",
+                        "preview": false
+                    },
+                    {
+                        "name": "Tries- Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620240",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 45s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11620241",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11643342",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Graphs",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 26s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654098",
+                        "preview": false
+                    },
+                    {
+                        "name": "What are Graphs",
+                        "duration": "2m 09s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654089",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adjacency Matrix",
+                        "duration": "4m 14s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654097",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adjacency List",
+                        "duration": "6m 32s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654091",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building a Graph",
+                        "duration": "1m 50s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654096",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Adding Nodes and Edges",
+                        "duration": "7m 34s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654093",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Removing Nodes and Edges",
+                        "duration": "4m 48s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654095",
+                        "preview": false
+                    },
+                    {
+                        "name": "Traversal Algorithms",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654101",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Traversal Algorithms",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654087",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Depth-first Traversal",
+                        "duration": "1m 29s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654094",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Depth-first Traversal",
+                        "duration": "3m 44s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654085",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Depth-first Traversal",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654086",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Depth-first Traversal",
+                        "duration": "3m 59s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654084",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Breadth-first Traversal",
+                        "duration": "1m 18s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654100",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Breadth-first Traversal",
+                        "duration": "2m 41s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654083",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Topological Sorting",
+                        "duration": "5m 06s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654099",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Topological Sort",
+                        "duration": "4m 05s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654090",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Cycle Detection",
+                        "duration": "3m 42s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654102",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Cycle Detection",
+                        "duration": "6m 26s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654088",
+                        "preview": false
+                    },
+                    {
+                        "name": "Graphs Summary",
+                        "duration": "1m 02s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654092",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Undirected Graphs",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 26s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654115",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Weighted Graphs",
+                        "duration": "1m 30s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654121",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Weighted Graphs",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654125",
+                        "preview": false
+                    },
+                    {
+                        "name": "An Object-oriented Solution",
+                        "duration": "6m 13s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654120",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dijkstra's Shortest Path Algorithm",
+                        "duration": "4m 35s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654117",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Getting the Shortest Distance",
+                        "duration": "6m 08s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654123",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- The Shortest Distance",
+                        "duration": "5m 27s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654116",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Shortest Path",
+                        "duration": "7m 53s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654124",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Cycle Detection",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654122",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Cycle Detection",
+                        "duration": "4m 42s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654126",
+                        "preview": false
+                    },
+                    {
+                        "name": "Minimum Spanning Tree",
+                        "duration": "1m 56s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654119",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Prim's Algorithm",
+                        "duration": "2m 45s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654127",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Prim's Algorithm",
+                        "duration": "10m 39s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654118",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 30s",
+                        "type": 1,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/12133058",
+                        "preview": false
+                    },
+                    {
+                        "name": "Thank You",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/data-structures-algorithms-part-2/lectures/11654137",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "displayName": "Code with Mosh",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "status": "active",
+        "websiteUrl": "https://codewithmosh.com",
+        "badFit": null,
+        "country": "US",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        }
+    }
+}

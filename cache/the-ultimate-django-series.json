@@ -1,0 +1,126 @@
+{
+    "course": {
+        "id": 1607597,
+        "name": "The Ultimate Django Series",
+        "slug": "the-ultimate-django-series",
+        "heading": "From zero to hero: Learn to build fast and secure APIs with Django and MySQL ",
+        "promoVideoId": "oer2y04uwg",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768296/promo-videos/dj.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/VLpeAAzNSoaPkqAr3UgY_Django+Banner+2021+Final+1+%28750px+x+422px%29.jpg",
+        "hours": 15,
+        "lessons": 300,
+        "categories": [
+            2
+        ],
+        "bundleContents": [
+            1422300,
+            1522608,
+            1604024
+        ],
+        "level": "Beginner to Pro",
+        "type": "bundle",
+        "price": 149,
+        "bonus": "PyCharm",
+        "turnOffSale": false,
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141197/the-ultimate-django-series-1",
+        "coupons": [
+            {
+                "code": "DJANGOBOOST",
+                "discount": 0.9
+            }
+        ],
+        "description": "The Ultimate Django Series is your complete guide to building fast and secure backends with Django. Whether you’re just getting started or looking to deepen your skills, this course will take you from zero to hero in building robust backends. Together, we’ll build the backend for an e-commerce application using Python, Django, and MySQL.\n\nYou’ll start by understanding the fundamentals of Django and its role in web development, before diving into setting up MySQL, creating database tables, and interacting with data using Django ORM. You’ll also learn to manage your application data with Django Admin, implement authentication, and build RESTful backends with Django—all while keeping your application secure with JSON Web Tokens.\n\nThroughout the course, we’ll focus on troubleshooting like a pro, finding performance bottlenecks, caching data with Redis, and running background jobs with Celery. You’ll also learn to write automated tests with pytest and apply industry best practices to ensure your code is clean, efficient, and scalable.\n\nBy the end of this course, you’ll have the skills to confidently build and deploy powerful backends with Django and MySQL, following the same techniques used by professional developers.",
+        "outcomes": [
+            "Understand the fundamentals of Django and its role in web development",
+            "Understand the inner workings of Django",
+            "Troubleshoot issues like a pro",
+            "Implement Django models to define and interact with database structures",
+            "Set up and use MySQL in your Django projects",
+            "Create database tables using Django Migrations",
+            "Retrieve and store data using Django ORM",
+            "Create generic relationships using Content Types Framework",
+            "Manage your application data using Django Admin",
+            "Implement authentication using Django Authentication System",
+            "Build RESTful APIs using the Django framework",
+            "Secure your APIs with JSON Web Tokens",
+            "Write automated tests with pytest",
+            "Find performance bottlenecks",
+            "Cache data with Redis",
+            "Run background jobs using Celery",
+            "Apply industry best practices"
+        ],
+        "audience": [
+            "Python developers who want to dive into web development",
+            "Anyone familiar with Django who needs a refresher course to fill in the gaps",
+            "Front-end developers who want to become full-stack developers"
+        ],
+        "prerequisites": {
+            "courses": [
+                417695,
+                525068
+            ],
+            "text": [
+                "To take this course, you need basic familiarity with Python and relational databases. No prior knowledge of Django is required. This course covers everything you need to know to go from zero to hero."
+            ]
+        },
+        "projects": [
+            "In this course, we’ll build and deploy the backend for a full-featured e-commerce application. This RESTful API supports CRUD operations, search, sorting, pagination, and secure authentication and authorization with JSON Web Tokens (JWT). Following industry best practices, we’ll also write automated tests to ensure reliability. By the end, you’ll have a robust, production-ready backend that powers a real-world application."
+        ],
+        "cta": {
+            "heading": "The Complete Guide to Building APIs with Django",
+            "description": "Django powers high-performance web applications used by Instagram, Spotify, and Mozilla. This complete bundle takes you from beginner to expert, teaching you how to build scalable, secure APIs with Django—fast. No fluff. Just real-world backend development skills."
+        },
+        "curriculum": []
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

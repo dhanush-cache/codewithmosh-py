@@ -1,0 +1,113 @@
+{
+    "course": {
+        "id": 606250,
+        "name": "The Ultimate Java Mastery Series",
+        "slug": "the-ultimate-java-mastery-series",
+        "heading": "Master Java - the most popular programming language underpinning most apps and websites",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/e7PdvPhbTuWgCXxtbDb6_Java.jpg",
+        "hours": 14,
+        "lessons": 260,
+        "categories": [
+            5
+        ],
+        "bundleContents": [
+            580597,
+            606251,
+            711980
+        ],
+        "level": "Beginner to Pro",
+        "type": "bundle",
+        "price": 99,
+        "bonus": "IntelliJ",
+        "turnOffSale": false,
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5082223/the-ultimate-java-mastery-series-1",
+        "coupons": [
+            {
+                "code": "YOUTUBE",
+                "discount": 0.85
+            },
+            {
+                "code": "BEAN15",
+                "discount": 0.8
+            }
+        ],
+        "description": "The Ultimate Java Mastery Series is your complete guide to mastering Java—the most popular programming language that powers many of the world’s apps and websites. Whether you’re a beginner or looking to refine your skills, this course will take you through everything you need to know to become a confident Java developer.\n\nYou’ll master the fundamentals of Java programming, troubleshoot and fix common errors, and dive deep into object-oriented programming (OOP) principles. As you progress, we’ll explore advanced concepts like generics, lambda expressions, and functional programming, as well as multithreading and concurrent programming, all essential for writing efficient and scalable applications.\n\nBy the end of this course, you’ll have the skills to write clean, professional-grade Java code and understand the key concepts for both web and mobile development. This course is **clear, concise, comprehensive, well-organized, and highly practical**—everything you need to succeed as a Java developer.",
+        "outcomes": [
+            "Master the fundamentals of Java programming",
+            "Troubleshoot and fix common Java errors",
+            "Learn object-oriented programming (OOP) principles and apply them in Java",
+            "Dive into advanced Java concepts such as generics, lambda expressions, and functional programming",
+            "Explore multithreading and concurrent programming in Java",
+            "Master Java concepts essential for web and mobile development",
+            "Write clean code like a pro"
+        ],
+        "audience": [
+            "Anyone who wants to learn programming for the first time",
+            "College students who want to better understand Java",
+            "Anyone who wants to learn Java from the basics to the advanced concepts",
+            "Java developers who want to brush up on their Java skills"
+        ],
+        "prerequisites": {
+            "courses": [],
+            "text": [
+                "I've carefully designed this series to help people at varying skill levels. If you're a beginner, you should start from the first part. If you're already familiar with Java, the next two parts are structured sequentially, so you can jump right in at a level that’s perfect for you."
+            ]
+        },
+        "cta": {
+            "heading": "Want a High-Paying Job? Learn Java.",
+            "description": "Java is one of the most in-demand programming languages, used by companies like Google, Amazon, and Netflix to build scalable, high-performance applications. This structured, hands-on course teaches you modern Java—fast. No fluff, just real-world coding skills to help you stand out. Start learning today and boost your career."
+        },
+        "curriculum": []
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

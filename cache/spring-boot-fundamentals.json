@@ -1,0 +1,719 @@
+{
+    "course": {
+        "id": 2741443,
+        "name": "Spring Boot: Mastering the Fundamentals",
+        "slug": "spring-boot-fundamentals",
+        "heading": "Master dependency injection and database integration with Spring Boot and Spring Data JPA",
+        "promoVideoId": "d9wa45y32q",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/f_auto:video,q_auto/v1/promo-videos/spring-boot-part1",
+        "isPublished": true,
+        "comingSoon": false,
+        "releaseDate": "2025-02-24",
+        "imageUrl": "https://res.cloudinary.com/codewithmosh/image/upload/f_auto,q_auto/v1/covers/spring-boot-part1",
+        "hours": 6,
+        "lessons": 80,
+        "categories": [
+            2
+        ],
+        "level": "Beginner to Intermediate",
+        "type": "single",
+        "price": 99,
+        "turnOffSale": false,
+        "bonus": "IntelliJ",
+        "previewUrl": "https://codewithmosh.teachable.com/courses/spring-boot-mastering-the-fundamentals/lectures/60162299",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141167/spring-boot-mastering-fundamentals",
+        "teaserUrl": "https://res.cloudinary.com/codewithmosh/video/upload/f_auto:video,q_auto/v1/promo-videos/spring-boot-part1-teaser",
+        "description": "Spring Boot is the go-to framework for modern Java development. Whether you’re building web applications, microservices, or enterprise applications, Spring Boot simplifies the process by handling configuration, dependency management, and embedded servers—allowing you to build and deploy applications quickly.\n\nMastering Spring Boot isn’t just about writing better code—it’s also a great career move. Companies are actively hiring Spring Boot developers, with salaries ranging from $164K to $306K per year and a median of $219K, according to Glassdoor.\n\nThis course is the first part of a series designed to take you from **zero to mastering Spring Boot**. In this part, we focus on the fundamentals, ensuring you have a rock-solid understanding before moving on to building web applications and APIs in Part 2.\n\nThis isn’t just another Spring Boot course—it’s a **clear, concise, and no-nonsense course** that gets straight to the point. Every lesson is carefully structured to build on what you’ve learned, with **real-world examples, best practices,** and **tips that most courses don’t cover**.\n\nIf you’re looking for a **well-organized, practical, and fluff-free** Spring Boot course that gives you the skills to build real applications, this is the course for you!",
+        "outcomes": [
+            "Understand how Spring Boot manages objects and dependencies.",
+            "Connect your application to a relational database.",
+            "Manage application configuration using application.properties and YAML files.",
+            "Use Spring Data repositories to interact with the database.",
+            "Database-first vs. model-first workflows and when to use each approach.",
+            "How Hibernate tracks entities and how transactions ensure data consistency.",
+            "Optimize fetching strategies with eager and lazy loading to improve performance.",
+            "Write custom queries with @Query, JPQL, and native SQL.",
+            "Use projections to fetch only the necessary fields, reducing data load.",
+            "Build dynamic queries with Query by Example, Criteria API, and Specifications API.",
+            "Implement sorting and pagination to efficiently handle large datasets.",
+            "Use Lombok to reduce boilerplate code and simplify entity classes.",
+            "Leverage productivity tools to quickly generate entities, repositories, and queries.",
+            "Apply best practices to structure your application and optimize performance."
+        ],
+        "audience": [
+            "Java developers who want to master Spring Boot from the ground up.",
+            "Spring Boot developers who want to strengthen their fundamentals and fill in knowledge gaps."
+        ],
+        "prerequisites": {
+            "courses": [
+                606250,
+                525068
+            ],
+            "text": [
+                "To take this course, you need a solid understanding of **Java and object-oriented programming**, working with classes, interfaces, generics and lambdas.\n\nYou also need basic knowledge of **relational databases and SQL**. You should be familiar with concepts like tables, primary and foreign keys, and basic SQL queries."
+            ]
+        },
+        "cta": {
+            "heading": "Spring Boot Developers Are in High Demand",
+            "description": "Spring Boot is one of the most sought-after skills in the industry, with companies like Netflix, Amazon, and Google using it to build scalable applications. Skip the fluff. Learn the essentials fast."
+        },
+        "curriculum": [
+            {
+                "name": "Introduction",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "1m 12s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60162299",
+                        "preview": true
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "0m 50s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123877",
+                        "preview": true
+                    },
+                    {
+                        "name": "Course Structure",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123875",
+                        "preview": true
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": "1m 16s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123876",
+                        "preview": true
+                    },
+                    {
+                        "name": "Questions and Support",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124948",
+                        "preview": false
+                    },
+                    {
+                        "name": "Connect with Me",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124947",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Getting Started with Spring Boot",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 50s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123977",
+                        "preview": true
+                    },
+                    {
+                        "name": "Introduction to Spring Boot",
+                        "duration": "2m 41s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123968",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting up the Development Environment",
+                        "duration": "3m 25s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123972",
+                        "preview": true
+                    },
+                    {
+                        "name": "Creating a Spring Boot Project",
+                        "duration": "3m 43s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123973",
+                        "preview": true
+                    },
+                    {
+                        "name": "Understanding the Project Structure",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123969",
+                        "preview": true
+                    },
+                    {
+                        "name": "Dependency Management",
+                        "duration": "7m 51s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123970",
+                        "preview": true
+                    },
+                    {
+                        "name": "Building Your First Spring Controller",
+                        "duration": "4m 13s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123976",
+                        "preview": true
+                    },
+                    {
+                        "name": "Running Spring Boot Applications",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123975",
+                        "preview": true
+                    },
+                    {
+                        "name": "Debugging Spring Boot Applications",
+                        "duration": "5m 54s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123974",
+                        "preview": false
+                    },
+                    {
+                        "name": "Automatic Restarts with Spring Boot DevTools",
+                        "duration": "3m 37s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123971",
+                        "preview": false
+                    },
+                    {
+                        "name": "Configuring Application Properties",
+                        "duration": "2m 37s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60123978",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124108",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Dependency Injection",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 01s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124136",
+                        "preview": false
+                    },
+                    {
+                        "name": "What is Dependency Injection?",
+                        "duration": "7m 42s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124132",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructor Injection",
+                        "duration": "4m 54s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124143",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setter Injection",
+                        "duration": "2m 39s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124133",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Spring IoC Container",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124138",
+                        "preview": false
+                    },
+                    {
+                        "name": "Configuring Beans Using Annotations",
+                        "duration": "5m 01s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124137",
+                        "preview": false
+                    },
+                    {
+                        "name": "Controlling Bean Selection",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124141",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exerise- Implementing a Notification Service",
+                        "duration": "4m 26s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124135",
+                        "preview": false
+                    },
+                    {
+                        "name": "Externalizing Configuration",
+                        "duration": "7m 30s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124140",
+                        "preview": false
+                    },
+                    {
+                        "name": "Configuring Beans Using Code",
+                        "duration": "6m 31s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124130",
+                        "preview": false
+                    },
+                    {
+                        "name": "Lazy Initialization",
+                        "duration": "3m 12s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124139",
+                        "preview": false
+                    },
+                    {
+                        "name": "Bean Scopes",
+                        "duration": "2m 30s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124142",
+                        "preview": false
+                    },
+                    {
+                        "name": "Bean Lifecycle Hooks",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124131",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Implementing a User Registration Service",
+                        "duration": "5m 47s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124134",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124144",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Database Integration with Spring Data JPA",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124798",
+                        "preview": false
+                    },
+                    {
+                        "name": "JDBC, JPA, Spring Data JPA",
+                        "duration": "4m 08s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124809",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up MySQL",
+                        "duration": "1m 52s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124786",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up Spring Data JPA",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124779",
+                        "preview": false
+                    },
+                    {
+                        "name": "Designing the Application Model",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124792",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating the Database",
+                        "duration": "0m 56s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124817",
+                        "preview": false
+                    },
+                    {
+                        "name": "6.1- Creating Database Tables",
+                        "duration": "5m 49s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124787",
+                        "preview": false
+                    },
+                    {
+                        "name": "6.2- Database Migrations with Flyway",
+                        "duration": "4m 52s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124802",
+                        "preview": false
+                    },
+                    {
+                        "name": "6.3- Chaning the Database Schema",
+                        "duration": "5m 02s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124796",
+                        "preview": false
+                    },
+                    {
+                        "name": "6.4- Running Migrations Using Maven",
+                        "duration": "5m 17s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124783",
+                        "preview": false
+                    },
+                    {
+                        "name": "6.5- Exercise- Creating the Profiles, and Tags Tables",
+                        "duration": "4m 55s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124808",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating the Domain Model",
+                        "duration": "0m 49s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124794",
+                        "preview": false
+                    },
+                    {
+                        "name": "7.1- Defining Entities",
+                        "duration": "5m 58s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124807",
+                        "preview": false
+                    },
+                    {
+                        "name": "7.2- Simplifying Code with Lombok",
+                        "duration": "5m 54s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124815",
+                        "preview": false
+                    },
+                    {
+                        "name": "7.3- Exercise- Defining the Address, Profile and Tag Entities",
+                        "duration": "2m 39s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124803",
+                        "preview": false
+                    },
+                    {
+                        "name": "7.4 - Defining One-To-Many Relationships",
+                        "duration": "9m 22s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124780",
+                        "preview": false
+                    },
+                    {
+                        "name": "7.5- Defining Many-to-Many Relationships",
+                        "duration": "7m 36s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124774",
+                        "preview": false
+                    },
+                    {
+                        "name": "7.6- Defining One-to-One Relationships",
+                        "duration": "4m 48s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124812",
+                        "preview": false
+                    },
+                    {
+                        "name": "7.7- Exercise- Creating the Category and Product Entities",
+                        "duration": "3m 28s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124772",
+                        "preview": false
+                    },
+                    {
+                        "name": "7.8- Generating Entities Using JPA Buddy",
+                        "duration": "5m 37s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124778",
+                        "preview": false
+                    },
+                    {
+                        "name": "7.9- Model First with JPA Buddy",
+                        "duration": "7m 39s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124782",
+                        "preview": false
+                    },
+                    {
+                        "name": "7.10- Exercise- Creating the Wishlist Table",
+                        "duration": "4m 31s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124799",
+                        "preview": false
+                    },
+                    {
+                        "name": "7.11- Generating Database Tables with Hibernate",
+                        "duration": "4m 38s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124789",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Repositories",
+                        "duration": "1m 06s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124814",
+                        "preview": false
+                    },
+                    {
+                        "name": "8.1- Defining Repositories",
+                        "duration": "4m 35s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124773",
+                        "preview": false
+                    },
+                    {
+                        "name": "8.2- Using Repositories",
+                        "duration": "6m 18s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124801",
+                        "preview": false
+                    },
+                    {
+                        "name": "8.3- Understanding Entity States",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124797",
+                        "preview": false
+                    },
+                    {
+                        "name": "8.4- Managing Transactions",
+                        "duration": "7m 03s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124776",
+                        "preview": false
+                    },
+                    {
+                        "name": "8.5- Fetching Strategies- Eager and Lazy Loading",
+                        "duration": "8m 24s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124805",
+                        "preview": false
+                    },
+                    {
+                        "name": "8.6- Exercise- Understanding Fetching Strategies",
+                        "duration": "4m 02s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124818",
+                        "preview": false
+                    },
+                    {
+                        "name": "8.7- Persisting Related Entities",
+                        "duration": "3m 17s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124804",
+                        "preview": false
+                    },
+                    {
+                        "name": "8.8- Deleting Related Entities",
+                        "duration": "10m 08s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124813",
+                        "preview": false
+                    },
+                    {
+                        "name": "8.9- Exercise- Managing Products and Wishlists",
+                        "duration": "11m 48s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124800",
+                        "preview": false
+                    },
+                    {
+                        "name": "Writing Custom Queries",
+                        "duration": "0m 57s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124790",
+                        "preview": false
+                    },
+                    {
+                        "name": "9.1- Derived Query Methods",
+                        "duration": "5m 24s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124806",
+                        "preview": false
+                    },
+                    {
+                        "name": "9.2- Writing Custom Queries Using @Query",
+                        "duration": "8m 53s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124784",
+                        "preview": false
+                    },
+                    {
+                        "name": "9.3- Fetching Partial Data with Projections",
+                        "duration": "8m 08s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124775",
+                        "preview": false
+                    },
+                    {
+                        "name": "9.4- Efficiently Loading Entities with @EntityGraph",
+                        "duration": "6m 38s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124781",
+                        "preview": false
+                    },
+                    {
+                        "name": "9.5- Avoiding the N+1 Problem",
+                        "duration": "5m 21s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124816",
+                        "preview": false
+                    },
+                    {
+                        "name": "9.6- Calling Stored Procedures",
+                        "duration": "6m 54s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124811",
+                        "preview": false
+                    },
+                    {
+                        "name": "9.7- Exercise- Writing Custom Queries",
+                        "duration": "8m 50s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124777",
+                        "preview": false
+                    },
+                    {
+                        "name": "Writing Dynamic Queries",
+                        "duration": "1m 09s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124795",
+                        "preview": false
+                    },
+                    {
+                        "name": "10.1- Query by Example",
+                        "duration": "6m 03s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124793",
+                        "preview": false
+                    },
+                    {
+                        "name": "10.2- Dynamic Queries Using Criteria API",
+                        "duration": "9m 59s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124785",
+                        "preview": false
+                    },
+                    {
+                        "name": "10.3- Composable Queries Using Specifications API",
+                        "duration": "7m 20s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124810",
+                        "preview": false
+                    },
+                    {
+                        "name": "10.4- Sorting and Pagination",
+                        "duration": "6m 18s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124788",
+                        "preview": false
+                    },
+                    {
+                        "name": "10.5- Exercise- Writing Dynamic Queries",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124903",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124828",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Course Wrap Up",
+                "lessons": [
+                    {
+                        "name": "What's Next",
+                        "duration": "1m 27s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60124791",
+                        "preview": false
+                    },
+                    {
+                        "name": "Spring Boot - Part 2",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-the-fundamentals/lectures/60162658",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

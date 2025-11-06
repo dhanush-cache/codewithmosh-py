@@ -1,0 +1,585 @@
+{
+    "course": {
+        "id": 1857029,
+        "name": "Ultimate C++ Part 1: Fundamentals",
+        "slug": "ultimate-c-plus-plus-part1",
+        "heading": "Master the fundamentals of C++ - the most popular programming language underpinning most games and high-performance apps",
+        "promoVideoId": "k24m4zleyb",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769035/promo-videos/cpp-part1.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/kgsPr9zuTiqoGJR3AIDn_C%2B%2B+Part+1.jpg",
+        "hours": 4,
+        "lessons": 70,
+        "categories": [
+            5
+        ],
+        "level": "Beginner",
+        "type": "single",
+        "price": 49,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-c-plus-plus-part1/lectures/42187035",
+        "parentBundleId": 1860251,
+        "outcomes": [
+            "Understand the fundamentals of programming in C++",
+            "Master the C++ syntax, variables, and basic data types",
+            "Utilize control structures (e.g., loops, conditionals) for flow control",
+            "Implement functions to write modular and reusable code",
+            "Run, and debug C++ applications",
+            "Get ready to learn intermediate-level C++ features"
+        ],
+        "audience": [
+            "Anyone who wants to learn programming for the first time",
+            "College students who want to better understand C++",
+            "C++ developers who want to brush up on their C++ skills"
+        ],
+        "prerequisites": {
+            "courses": [],
+            "text": [
+                "Don’t worry if you’re a complete beginner. You don’t need any experience with C++ or programming in general! From the beginning, I'll hold your hands and teach you everything you need to know.",
+                "However, if you do have experience in C++ or other programming languages, you can go through the course faster."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Welcome",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "0m 57s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187035",
+                        "preview": true
+                    },
+                    {
+                        "name": "Course Structure",
+                        "duration": "1m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187034",
+                        "preview": true
+                    },
+                    {
+                        "name": "Getting Help",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187090",
+                        "preview": true
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187095",
+                        "preview": true
+                    }
+                ]
+            },
+            {
+                "name": "Getting Started with C++",
+                "lessons": [
+                    {
+                        "name": "Introduction to C++",
+                        "duration": "3m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187129",
+                        "preview": true
+                    },
+                    {
+                        "name": "Popular IDEs",
+                        "duration": "1m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187126",
+                        "preview": true
+                    },
+                    {
+                        "name": "Your First C++ Program",
+                        "duration": "7m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187128",
+                        "preview": true
+                    },
+                    {
+                        "name": "Compiling and Running a C++ Program",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187127",
+                        "preview": true
+                    },
+                    {
+                        "name": "Changing the Theme",
+                        "duration": "1m 14s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187125",
+                        "preview": true
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187134",
+                        "preview": true
+                    }
+                ]
+            },
+            {
+                "name": "The Basics",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187243",
+                        "preview": false
+                    },
+                    {
+                        "name": "Variables",
+                        "duration": "6m 07s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187239",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constants",
+                        "duration": "1m 28s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187236",
+                        "preview": false
+                    },
+                    {
+                        "name": "Naming Conventions",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187240",
+                        "preview": false
+                    },
+                    {
+                        "name": "Mathematical Expressions",
+                        "duration": "5m 34s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187237",
+                        "preview": false
+                    },
+                    {
+                        "name": "Order of Operators",
+                        "duration": "3m 09s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187235",
+                        "preview": false
+                    },
+                    {
+                        "name": "Writing Output to the Console",
+                        "duration": "9m 16s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187241",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reading from the Console",
+                        "duration": "4m 34s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187238",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with the Standard Library",
+                        "duration": "4m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187242",
+                        "preview": false
+                    },
+                    {
+                        "name": "Comments",
+                        "duration": "2m 31s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187244",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187258",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Fundamental Data Types",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 49s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187631",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fundamental Data Types",
+                        "duration": "3m 04s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187632",
+                        "preview": false
+                    },
+                    {
+                        "name": "Initializing Variables",
+                        "duration": "4m 43s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187635",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Numbers",
+                        "duration": "3m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187627",
+                        "preview": false
+                    },
+                    {
+                        "name": "Narrowing",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187630",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generating Random Numbers",
+                        "duration": "7m 16s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187634",
+                        "preview": false
+                    },
+                    {
+                        "name": "Formatting Output",
+                        "duration": "8m 31s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187637",
+                        "preview": false
+                    },
+                    {
+                        "name": "Data Types Size and Limits",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187628",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Booleans",
+                        "duration": "1m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187633",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Characters and Strings",
+                        "duration": "6m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187638",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Arrays",
+                        "duration": "6m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187636",
+                        "preview": false
+                    },
+                    {
+                        "name": "Type Conversion",
+                        "duration": "5m 14s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187629",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187690",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Decision Making",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 40s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187732",
+                        "preview": false
+                    },
+                    {
+                        "name": "Comparison Operators",
+                        "duration": "3m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187735",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logical Operators",
+                        "duration": "4m 09s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187738",
+                        "preview": false
+                    },
+                    {
+                        "name": "Order of Logical Operators",
+                        "duration": "6m 40s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187734",
+                        "preview": false
+                    },
+                    {
+                        "name": "If Statements",
+                        "duration": "6m 20s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187736",
+                        "preview": false
+                    },
+                    {
+                        "name": "Nested If Statements",
+                        "duration": "4m 53s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187737",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Conditional Operator",
+                        "duration": "4m 28s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187740",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Switch Statement",
+                        "duration": "7m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187733",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187760",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Loops",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 44s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187873",
+                        "preview": false
+                    },
+                    {
+                        "name": "The for Loop",
+                        "duration": "9m 01s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187870",
+                        "preview": false
+                    },
+                    {
+                        "name": "Range-based for Loops",
+                        "duration": "6m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187874",
+                        "preview": false
+                    },
+                    {
+                        "name": "While Loops",
+                        "duration": "5m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187875",
+                        "preview": false
+                    },
+                    {
+                        "name": "Do-while Loops",
+                        "duration": "2m 41s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187869",
+                        "preview": false
+                    },
+                    {
+                        "name": "Break and Continue Statements",
+                        "duration": "4m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187872",
+                        "preview": false
+                    },
+                    {
+                        "name": "Nested Loops",
+                        "duration": "5m 43s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187871",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42187889",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Functions",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42188012",
+                        "preview": false
+                    },
+                    {
+                        "name": "Defining and Calling Functions",
+                        "duration": "8m 55s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42188019",
+                        "preview": false
+                    },
+                    {
+                        "name": "Parameters with a Default Value",
+                        "duration": "2m 41s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42188013",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading Functions",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42188020",
+                        "preview": false
+                    },
+                    {
+                        "name": "Passing Arguments by Value or Reference",
+                        "duration": "6m 17s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42188015",
+                        "preview": false
+                    },
+                    {
+                        "name": "Local vs Global Variables",
+                        "duration": "3m 06s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42188023",
+                        "preview": false
+                    },
+                    {
+                        "name": "Declaring Functions",
+                        "duration": "1m 45s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42188018",
+                        "preview": false
+                    },
+                    {
+                        "name": "Organizing Functions in Files",
+                        "duration": "8m 34s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42188017",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Namespaces",
+                        "duration": "4m 30s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42188021",
+                        "preview": false
+                    },
+                    {
+                        "name": "Debugging C++ Programs",
+                        "duration": "5m 07s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42188014",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42188060",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42230827",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/42188016",
+                        "preview": false
+                    },
+                    {
+                        "name": "Feedback",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part1/lectures/43023552",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

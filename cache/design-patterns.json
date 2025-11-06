@@ -1,0 +1,110 @@
+{
+    "course": {
+        "id": 733596,
+        "name": "The Ultimate Design Pattern Series",
+        "slug": "design-patterns",
+        "heading": "Learn to write maintainable and extensible code. Become a senior software engineer.",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/QaKRnoVbSbWmI7Y7u3ee_Design+a+Cover+for+an+Online+Course.jpg",
+        "hours": 8,
+        "lessons": 130,
+        "categories": [
+            6
+        ],
+        "bundleContents": [
+            759570,
+            760032,
+            1467728
+        ],
+        "level": "Beginner to Pro",
+        "price": 149,
+        "bonus": "IntelliJ",
+        "type": "bundle",
+        "turnOffSale": false,
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/1589336/design-patterns-1",
+        "coupons": [
+            {
+                "code": "GOFPATTERNS",
+                "discount": 0.9
+            }
+        ],
+        "description": "The Ultimate Design Pattern Bundle is designed to help you master the essential design patterns that professional developers use to write clean, reusable, and maintainable code. This bundle includes three in-depth courses that will guide you through the principles of object-oriented design and show you how to apply classic design patterns to real-world software development.\n\nThrough these courses, you’ll gain the skills to efficiently create, structure, and manage objects, while improving the overall architecture of your applications. By understanding and implementing creational, structural, and behavioral design patterns, you’ll be able to build scalable, flexible software systems that stand the test of time.\n\nWhether you're a seasoned developer or just looking to strengthen your design skills, this bundle will give you the practical tools and knowledge to elevate your code to a professional level.",
+        "outcomes": [
+            "Understand the role of design patterns to create reusable and maintainable code",
+            "Understand and apply the principles of object-oriented design",
+            "Master the classic design patterns in software development",
+            "Apply creational patterns to create objects in a flexible and consistent manner",
+            "Implement structural patterns to compose objects and form larger structures",
+            "Utilize behavioral patterns to define interaction between objects"
+        ],
+        "audience": [
+            "Anyone who wants to reach senior levels of software development",
+            "Anyone who wants to write maintainable and extensible code",
+            "Anyone preparing for a coding job interview"
+        ],
+        "prerequisites": {
+            "courses": [
+                580597,
+                606251
+            ],
+            "text": [
+                "To take this course, you need at least 3 months of programming experience and familiarly with an object-oriented programming language."
+            ]
+        },
+        "cta": {
+            "heading": "Design Patterns Every Developer Should Know",
+            "description": "Mastering design patterns is essential for writing scalable, maintainable, and reusable code—a skill top companies look for in developers. This complete bundle covers all 23 Gang of Four (GoF) design patterns, with hands-on examples to help you apply them in real-world projects. No fluff. Just practical design patterns you’ll actually use."
+        },
+        "curriculum": []
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

@@ -1,0 +1,771 @@
+{
+    "course": {
+        "id": 2074069,
+        "name": "React 18: Intermediate Topics",
+        "slug": "ultimate-react-part2",
+        "heading": "Take your React skills to the next level by mastering state management and routing",
+        "promoVideoId": "82gxeptblf",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684539844/promo-videos/react-part2.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/SWtZL7dtR3SYRScauf7w_+1920x1357.jpg",
+        "hours": 6,
+        "lessons": 100,
+        "categories": [
+            1
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 149,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-react-part2/lectures/46678341",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/4727911/ultimate-react-part2",
+        "coupons": [
+            {
+                "code": "REACTPLUS",
+                "discount": 0.9
+            }
+        ],
+        "description": "React 18: Intermediate Topics is designed to take your React skills to the next level. This course builds on what you learned in React 18 for Beginners, enhancing the video game discovery app with more advanced features. You’ll master key concepts like state management, routing, and performance optimization to make your apps faster, more efficient, and easier to maintain.\n\nYou’ll learn how to fetch and update data using React Query, implement caching for performance boosts, and add infinite scrolling to your apps. We’ll dive deep into state management with reducers, context, and Zustand, giving you the tools to effectively manage complex state. You’ll also implement routing with React Router and structure your projects for long-term maintainability.\n\nBy the end of this course, you’ll confidently apply the latest React techniques, write clean, professional-grade code, and build scalable applications that perform smoothly.",
+        "outcomes": [
+            "Confidently build front-end apps with React and TypeScript",
+            "Fetch and update data using React Query",
+            "Boost your application's performance with caching",
+            "Implement infinite scrolling",
+            "Use reducers to consolidate state management logic",
+            "Use context to share state",
+            "Manage application state using Zustand",
+            "Implement routing with React Router",
+            "Structure your React projects for maintainability",
+            "Apply the latest techniques and best practices",
+            "Write clean code like a pro"
+        ],
+        "audience": [
+            "React developers who want to fill in the gaps in their knowledge",
+            "Anyone who wants to become a confident and proficient React developer"
+        ],
+        "prerequisites": {
+            "courses": [
+                2037633
+            ],
+            "text": [
+                "To take this course, I recommend that you have watched the first part or have a solid understanding of the concepts covered there. This includes the basics of TypeScript, building components, styling components, managing component state, and calling backend services."
+            ]
+        },
+        "projects": [
+            "In this intermediate course, we’ll enhance the video game discovery app built in the first part of the series. We’ll add advanced features like data management with React Query, routing with React Router, and global state management using Zustand. You’ll also implement infinite scrolling for a seamless user experience. By the end, you’ll have a portfolio-ready project to showcase to potential employers."
+        ],
+        "cta": {
+            "heading": "Take Your React Skills to the Next Level",
+            "description": "Knowing the basics of React isn’t enough—to build real-world applications, you need to master state management and routing. This structured, hands-on course teaches you how to manage complex state and navigate React apps like a pro—without the confusion. No fluff. Just real-world React skills."
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 02s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678341",
+                        "preview": true
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "0m 54s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678337",
+                        "preview": false
+                    },
+                    {
+                        "name": "What You'll Learn",
+                        "duration": "1m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678342",
+                        "preview": false
+                    },
+                    {
+                        "name": "How to Take This Course",
+                        "duration": "1m 59s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678339",
+                        "preview": false
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": "2m 21s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678338",
+                        "preview": false
+                    },
+                    {
+                        "name": "Connect with Me",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part2/lectures/46678340",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part2/lectures/46678343",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Fetching and Updating Data with React Query",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 14s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678949",
+                        "preview": true
+                    },
+                    {
+                        "name": "What is React Query",
+                        "duration": "4m 36s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678959",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up React Query",
+                        "duration": "1m 23s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678935",
+                        "preview": true
+                    },
+                    {
+                        "name": "Fetching Data",
+                        "duration": "5m 17s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678954",
+                        "preview": true
+                    },
+                    {
+                        "name": "Handling Errors",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678927",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing a Loading Indicator",
+                        "duration": "1m 04s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678947",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Custom Query Hook",
+                        "duration": "2m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678937",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using React Query DevTools",
+                        "duration": "3m 08s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678933",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing Query Settings",
+                        "duration": "5m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678932",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Fetching Data",
+                        "duration": "3m 31s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678945",
+                        "preview": false
+                    },
+                    {
+                        "name": "Parameterized Queries",
+                        "duration": "6m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678942",
+                        "preview": false
+                    },
+                    {
+                        "name": "Paginated Queries",
+                        "duration": "5m 37s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678929",
+                        "preview": false
+                    },
+                    {
+                        "name": "Infinite Queries",
+                        "duration": "7m 07s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678952",
+                        "preview": false
+                    },
+                    {
+                        "name": "Part Two- Mutating Data",
+                        "duration": "0m 39s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678928",
+                        "preview": false
+                    },
+                    {
+                        "name": "Mutating Data",
+                        "duration": "9m 40s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678956",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Mutation Errors",
+                        "duration": "2m 14s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678958",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing Mutation Progress",
+                        "duration": "1m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678946",
+                        "preview": false
+                    },
+                    {
+                        "name": "Optimistic Updates",
+                        "duration": "7m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678940",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Custom Mutation Hook",
+                        "duration": "7m 04s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678950",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Reusable API Client",
+                        "duration": "10m 00s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678938",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Reusable HTTP Service",
+                        "duration": "2m 34s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678939",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding the Application Layers",
+                        "duration": "1m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678941",
+                        "preview": false
+                    },
+                    {
+                        "name": "Part Three- Project Work",
+                        "duration": "0m 31s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678951",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Fetching Genres",
+                        "duration": "10m 55s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678948",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Fetching Platforms",
+                        "duration": "3m 30s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678953",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Fetching Games",
+                        "duration": "8m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678936",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Removing Duplicate Interfaces",
+                        "duration": "2m 57s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678934",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Creating a Reusable API Client",
+                        "duration": "5m 44s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678930",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Implementing Infinite Queries",
+                        "duration": "7m 39s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678944",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Implementing Infinite Scroll",
+                        "duration": "5m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678955",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Simplifying Query Objects",
+                        "duration": "10m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678957",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Creating Lookup Hooks",
+                        "duration": "6m 59s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678931",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Simplifying Time Calculations",
+                        "duration": "3m 31s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46678943",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part2/lectures/46678986",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Global State Management",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679164",
+                        "preview": false
+                    },
+                    {
+                        "name": "Consolidating State Logic with a Reducer",
+                        "duration": "7m 12s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679168",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Complex Actions",
+                        "duration": "6m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679155",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Working with Reducers",
+                        "duration": "4m 37s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679154",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sharing State using React Context",
+                        "duration": "9m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679158",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Working with Context",
+                        "duration": "4m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679153",
+                        "preview": false
+                    },
+                    {
+                        "name": "Debugging with React DevTools",
+                        "duration": "1m 07s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679156",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Custom Provider",
+                        "duration": "2m 58s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679159",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Hook to Access Context",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679147",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Creating a Provider",
+                        "duration": "2m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679162",
+                        "preview": false
+                    },
+                    {
+                        "name": "Organizing Code for Scalability and Maintainability",
+                        "duration": "9m 37s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679150",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Organizing Code",
+                        "duration": "3m 09s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679167",
+                        "preview": false
+                    },
+                    {
+                        "name": "Splitting Contexts for Efficiency",
+                        "duration": "2m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679161",
+                        "preview": false
+                    },
+                    {
+                        "name": "When to Use Context",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679157",
+                        "preview": false
+                    },
+                    {
+                        "name": "Context vs Redux",
+                        "duration": "4m 57s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679171",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Application State with Zustand",
+                        "duration": "7m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679148",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Working with Zustand",
+                        "duration": "4m 15s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679152",
+                        "preview": false
+                    },
+                    {
+                        "name": "Preventing Unnecessary Renders with Selectors",
+                        "duration": "2m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679166",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inspecting Stores with Zustand DevTools",
+                        "duration": "2m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679165",
+                        "preview": false
+                    },
+                    {
+                        "name": "Part Two- Project Work",
+                        "duration": "0m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679146",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Picking the Right State Management Solution",
+                        "duration": "3m 19s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679169",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Setting Up a Zustand Store",
+                        "duration": "6m 44s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679160",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Removing Props",
+                        "duration": "12m 03s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679163",
+                        "preview": false
+                    },
+                    {
+                        "name": "Discussion- Building Reusable Components",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679151",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part2/lectures/46679149",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Routing with React Router",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 45s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679344",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up Routing",
+                        "duration": "3m 09s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679323",
+                        "preview": false
+                    },
+                    {
+                        "name": "Navigation",
+                        "duration": "2m 43s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679335",
+                        "preview": false
+                    },
+                    {
+                        "name": "Passing Data with Route Parameters",
+                        "duration": "2m 02s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679331",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Data about the Current Route",
+                        "duration": "2m 57s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679333",
+                        "preview": false
+                    },
+                    {
+                        "name": "Nested Routes",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679343",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Working with Nested Routes",
+                        "duration": "3m 09s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679325",
+                        "preview": false
+                    },
+                    {
+                        "name": "Styling the Active Link",
+                        "duration": "2m 20s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679332",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Errors",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679327",
+                        "preview": false
+                    },
+                    {
+                        "name": "Private Routes",
+                        "duration": "2m 59s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679339",
+                        "preview": false
+                    },
+                    {
+                        "name": "Layout Routes",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679322",
+                        "preview": false
+                    },
+                    {
+                        "name": "Part Two- Project Work",
+                        "duration": "0m 26s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679340",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Setting Up Routing",
+                        "duration": "6m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679324",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Handling Errors",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679337",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Fetching a Game",
+                        "duration": "11m 35s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679326",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Refactoring Entities",
+                        "duration": "2m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679334",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building Expandable Text",
+                        "duration": "5m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679341",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building Game Attributes",
+                        "duration": "9m 53s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679342",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building Game Trailer",
+                        "duration": "8m 52s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679328",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building Game Screenshots",
+                        "duration": "5m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679345",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Improving the Layout",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679338",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Fixing the NavBar",
+                        "duration": "2m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679330",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Refactoring Entities",
+                        "duration": "2m 29s",
+                        "type": 1,
+                        "href": "/courses/ultimate-react-part2/lectures/46679329",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part2/lectures/46679847",
+                        "preview": false
+                    },
+                    {
+                        "name": "What's Next",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-react-part2/lectures/46679336",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

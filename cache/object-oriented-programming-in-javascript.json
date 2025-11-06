@@ -1,0 +1,581 @@
+{
+    "course": {
+        "id": 310571,
+        "name": "Ultimate JavaScript Part 2: Advanced Topics",
+        "slug": "object-oriented-programming-in-javascript",
+        "heading": "Level up your JavaScript skills and prepare for technical interviews.",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/sOTTvGV2SyeoyGTMkBZg_Udemy+-+Cover+-+edited.jpg",
+        "hours": 4,
+        "lessons": 60,
+        "categories": [
+            1,
+            5
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 59,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/object-oriented-programming-in-javascript/lectures/4880999",
+        "parentBundleId": 1896395,
+        "outcomes": [
+            "Understand advanced JavaScript concepts, including hoisting, closures, prototypal inheritance",
+            "Understand and apply object-oriented programming (OOP) principles in JavaScript",
+            "Utilize modern JavaScript features such as arrow functions, template literals, and destructuring",
+            "Implement modules and use module bundlers (e.g., Webpack) for code organization and modular development",
+            "Write clean code like a pro",
+            "Apply industry best practices"
+        ],
+        "audience": [
+            "Anyone who wants to take their JavaScript skills to the next level",
+            "Anyone who wants to learn and understand object-oriented programming principles",
+            "Anyone who wants to learn the techniques to apply object-oriented concepts in JavaScript",
+            "Anyone preparing for JavaScript coding interviews"
+        ],
+        "prerequisites": {
+            "courses": [
+                324741
+            ],
+            "text": [
+                "To take this course, you should have a good understanding of JavaScript fundamentals. You don't need any familiarity with object-oriented programming."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "What is OOP",
+                        "duration": "1m 45s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4880999",
+                        "preview": true
+                    },
+                    {
+                        "name": "Four Pillars of OOP",
+                        "duration": "7m 02s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4880998",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up the Development Environment",
+                        "duration": "2m 16s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4880997",
+                        "preview": true
+                    },
+                    {
+                        "name": "Course Structure",
+                        "duration": "2m 55s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881000",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/25353565",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/34610032",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Objects",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 44s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881070",
+                        "preview": false
+                    },
+                    {
+                        "name": "Object Literals",
+                        "duration": "3m 03s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881076",
+                        "preview": false
+                    },
+                    {
+                        "name": "Factories",
+                        "duration": "2m 51s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881075",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructors",
+                        "duration": "5m 36s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881078",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructor Property",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881079",
+                        "preview": false
+                    },
+                    {
+                        "name": "Functions are Objects",
+                        "duration": "4m 47s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881077",
+                        "preview": false
+                    },
+                    {
+                        "name": "Value vs Reference Types",
+                        "duration": "5m 49s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881080",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding or Removing Properties",
+                        "duration": "3m 53s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881081",
+                        "preview": false
+                    },
+                    {
+                        "name": "Enumerating Properties",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881082",
+                        "preview": false
+                    },
+                    {
+                        "name": "Abstraction",
+                        "duration": "4m 02s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881071",
+                        "preview": false
+                    },
+                    {
+                        "name": "Private Properties and Methods",
+                        "duration": "4m 05s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881074",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getters and Setters",
+                        "duration": "5m 36s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881073",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cheat Sheet",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881106",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Stopwatch",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881072",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Stopwatch",
+                        "duration": "2m 31s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881084",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Prototypes",
+                "lessons": [
+                    {
+                        "name": "Inheritance",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881216",
+                        "preview": false
+                    },
+                    {
+                        "name": "Prototypes and Prototypical Inheritance",
+                        "duration": "5m 33s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881218",
+                        "preview": false
+                    },
+                    {
+                        "name": "Multilevel Inheritance",
+                        "duration": "2m 51s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881221",
+                        "preview": false
+                    },
+                    {
+                        "name": "Property Descriptors",
+                        "duration": "5m 07s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881220",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructor Prototypes",
+                        "duration": "3m 52s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881223",
+                        "preview": false
+                    },
+                    {
+                        "name": "Prototype vs Instance Members",
+                        "duration": "6m 04s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881222",
+                        "preview": false
+                    },
+                    {
+                        "name": "Iterating Instance and Prototype Members",
+                        "duration": "2m 39s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881225",
+                        "preview": false
+                    },
+                    {
+                        "name": "Avoid Extending the Built-in Objects",
+                        "duration": "1m 41s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881224",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cheat Sheet",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881226",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": "1m 33s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881219",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "5m 38s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881217",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Prototypical Inheritance",
+                "lessons": [
+                    {
+                        "name": "Creating Your Own Prototypical Inheritance",
+                        "duration": "5m 34s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881270",
+                        "preview": false
+                    },
+                    {
+                        "name": "Resetting the Constructor",
+                        "duration": "4m 00s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881275",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calling the Super Constructor",
+                        "duration": "3m 48s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881274",
+                        "preview": false
+                    },
+                    {
+                        "name": "Intermediate Function Inheritance",
+                        "duration": "3m 05s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881276",
+                        "preview": false
+                    },
+                    {
+                        "name": "Method Overriding",
+                        "duration": "3m 29s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881277",
+                        "preview": false
+                    },
+                    {
+                        "name": "Polymorphism",
+                        "duration": "4m 22s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881278",
+                        "preview": false
+                    },
+                    {
+                        "name": "When to Use Inheritance",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881280",
+                        "preview": false
+                    },
+                    {
+                        "name": "Mixins",
+                        "duration": "5m 53s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881279",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cheat Sheet",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881282",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Prototypical Inheritance",
+                        "duration": "3m 18s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881281",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Prototypical Inheritance",
+                        "duration": "5m 53s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881272",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Polymorphism",
+                        "duration": "2m 35s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881271",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution- Polymorphism",
+                        "duration": "5m 11s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881273",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "ES6 Classes",
+                "lessons": [
+                    {
+                        "name": "ES6 Classes",
+                        "duration": "5m 41s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881376",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hoisting",
+                        "duration": "3m 46s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881367",
+                        "preview": false
+                    },
+                    {
+                        "name": "Static Methods",
+                        "duration": "4m 17s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881368",
+                        "preview": false
+                    },
+                    {
+                        "name": "The This Keyword",
+                        "duration": "4m 57s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881370",
+                        "preview": false
+                    },
+                    {
+                        "name": "Private Members Using Symbols",
+                        "duration": "7m 48s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881369",
+                        "preview": false
+                    },
+                    {
+                        "name": "Private Members Using WeakMaps",
+                        "duration": "6m 58s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881371",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getters and Setters",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881372",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inheritance",
+                        "duration": "4m 00s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881373",
+                        "preview": false
+                    },
+                    {
+                        "name": "Method Overriding",
+                        "duration": "2m 33s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881374",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cheat Sheet",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881375",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": "3m 25s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881365",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "4m 20s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881366",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "ES6 Tooling",
+                "lessons": [
+                    {
+                        "name": "Modules",
+                        "duration": "3m 42s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881470",
+                        "preview": false
+                    },
+                    {
+                        "name": "CommonJS Modules",
+                        "duration": "5m 51s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881473",
+                        "preview": false
+                    },
+                    {
+                        "name": "ES6 Modules",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881471",
+                        "preview": false
+                    },
+                    {
+                        "name": "ES6 Tooling",
+                        "duration": "1m 26s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881474",
+                        "preview": false
+                    },
+                    {
+                        "name": "Babel",
+                        "duration": "7m 11s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881476",
+                        "preview": false
+                    },
+                    {
+                        "name": "Webpack",
+                        "duration": "8m 26s",
+                        "type": 1,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881472",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cheat Sheet",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/4881475",
+                        "preview": false
+                    },
+                    {
+                        "name": "What to Learn Next",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/object-oriented-programming-in-javascript/lectures/10254075",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

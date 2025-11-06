@@ -1,0 +1,612 @@
+{
+    "course": {
+        "id": 606251,
+        "name": "Ultimate Java Part 2: Object-oriented Programming",
+        "slug": "ultimate-java-part-2",
+        "heading": "Learn to build robust, maintainable software with object-oriented programming techniques",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/E7lSUHCzQKSKeHimoCwT_P2.jpg",
+        "hours": 4,
+        "lessons": 70,
+        "categories": [
+            5
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 49,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-java-part-2/lectures/10953792",
+        "parentBundleId": 606250,
+        "outcomes": [
+            "Grasp principles of Object-Oriented Programming (OOP)",
+            "Design well-structured classes and follow best practices for writing clean, maintainable code",
+            "Understand the concept of coupling and its impact on code maintainability",
+            "Learn techniques to achieve loose coupling between classes",
+            "Understand and utilize dependency injection",
+            "Learn strategies for code reuse, including inheritance and composition",
+            "Explore polymorphism in-depth and how it helps create extensible software",
+            "Refactor procedural code into object-oriented code",
+            "Write clean code like a pro"
+        ],
+        "audience": [
+            "Anyone who wants to learn object-oriented programming",
+            "College students who want to better understand Java",
+            "Java developers who want to brush up on their Java skills"
+        ],
+        "prerequisites": {
+            "courses": [
+                580597
+            ],
+            "text": [
+                "This course is the second part of a series. So, you should have watched the first part or have a solid understanding of the concepts covered there."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 34s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953792",
+                        "preview": true
+                    },
+                    {
+                        "name": "Programming Paradigms",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953791",
+                        "preview": true
+                    },
+                    {
+                        "name": "Benefits of Object-oriented Programming",
+                        "duration": "2m 12s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953790",
+                        "preview": true
+                    },
+                    {
+                        "name": "Course Structure",
+                        "duration": "1m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953789",
+                        "preview": true
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953788",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-2/lectures/25354848",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Classes",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953814",
+                        "preview": false
+                    },
+                    {
+                        "name": "Classes and Objects",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953803",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Classes",
+                        "duration": "4m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953812",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Objects",
+                        "duration": "4m 30s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953807",
+                        "preview": false
+                    },
+                    {
+                        "name": "Memory Allocation",
+                        "duration": "3m 53s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953817",
+                        "preview": false
+                    },
+                    {
+                        "name": "Procedural Programming",
+                        "duration": "5m 37s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953808",
+                        "preview": false
+                    },
+                    {
+                        "name": "Encapsulation",
+                        "duration": "4m 37s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953815",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getters and Setters - Title",
+                        "duration": "7m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953818",
+                        "preview": false
+                    },
+                    {
+                        "name": "Abstraction",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953813",
+                        "preview": false
+                    },
+                    {
+                        "name": "Coupling",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953816",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reducing Coupling",
+                        "duration": "7m 17s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953806",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructors",
+                        "duration": "5m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953810",
+                        "preview": false
+                    },
+                    {
+                        "name": "Method Overloading",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953805",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructor Overloading",
+                        "duration": "2m 44s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953811",
+                        "preview": false
+                    },
+                    {
+                        "name": "Static Members",
+                        "duration": "4m 21s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953809",
+                        "preview": false
+                    },
+                    {
+                        "name": "Classes Quiz",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953804",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953802",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Refactoring Towards an Object-oriented Design",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 54s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953838",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Problem",
+                        "duration": "2m 40s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953833",
+                        "preview": false
+                    },
+                    {
+                        "name": "What Classes Do We Need?",
+                        "duration": "3m 41s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953835",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting the Console Class",
+                        "duration": "2m 58s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953829",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overloading Methods",
+                        "duration": "2m 39s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953836",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting the MortgageReport Class",
+                        "duration": "1m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953831",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting the MortgageCalculator Class",
+                        "duration": "6m 17s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953834",
+                        "preview": false
+                    },
+                    {
+                        "name": "Moving Away from Static Members",
+                        "duration": "5m 55s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953828",
+                        "preview": false
+                    },
+                    {
+                        "name": "Moving Static Fields",
+                        "duration": "2m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953839",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting Duplicate Logic",
+                        "duration": "4m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953837",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting getRemainingBalances - Title",
+                        "duration": "6m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953830",
+                        "preview": false
+                    },
+                    {
+                        "name": "One Last Touch",
+                        "duration": "2m 01s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953832",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-2/lectures/11006583",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Inheritance",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953850",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inheritance",
+                        "duration": "3m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953861",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Object Class",
+                        "duration": "4m 59s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953853",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructors and Inheritance",
+                        "duration": "2m 41s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953859",
+                        "preview": false
+                    },
+                    {
+                        "name": "Access Modifiers",
+                        "duration": "3m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953855",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overriding Methods",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953854",
+                        "preview": false
+                    },
+                    {
+                        "name": "Upcasting and Downcasting",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953857",
+                        "preview": false
+                    },
+                    {
+                        "name": "Comparing Objects",
+                        "duration": "9m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953856",
+                        "preview": false
+                    },
+                    {
+                        "name": "Polymorphism",
+                        "duration": "5m 23s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953862",
+                        "preview": false
+                    },
+                    {
+                        "name": "Abstract Classes and Methods",
+                        "duration": "2m 22s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953863",
+                        "preview": false
+                    },
+                    {
+                        "name": "Final Classes and Methods",
+                        "duration": "2m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953858",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deep Inheritance Hierarchies",
+                        "duration": "2m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953851",
+                        "preview": false
+                    },
+                    {
+                        "name": "Multiple Inheritance",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953852",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inheritance Quiz",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953860",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "1m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953864",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Interfaces",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 36s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953874",
+                        "preview": false
+                    },
+                    {
+                        "name": "What are Interfaces",
+                        "duration": "6m 04s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953880",
+                        "preview": false
+                    },
+                    {
+                        "name": "Tightly-coupled Code",
+                        "duration": "3m 56s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953875",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating an Interface",
+                        "duration": "5m 23s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953884",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dependency Injection",
+                        "duration": "1m 29s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953879",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constructor Injection",
+                        "duration": "3m 20s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953878",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setter Injection",
+                        "duration": "2m 39s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953872",
+                        "preview": false
+                    },
+                    {
+                        "name": "Method Injection",
+                        "duration": "2m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953881",
+                        "preview": false
+                    },
+                    {
+                        "name": "Interface Segregation Principle",
+                        "duration": "7m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953886",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- MyTube Video Platform",
+                        "duration": "3m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953883",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "5m 08s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953873",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fields",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953869",
+                        "preview": false
+                    },
+                    {
+                        "name": "Static Methods",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953870",
+                        "preview": false
+                    },
+                    {
+                        "name": "Private Methods",
+                        "duration": "2m 02s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953882",
+                        "preview": false
+                    },
+                    {
+                        "name": "Interfaces and Abstract Classes",
+                        "duration": "2m 09s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953877",
+                        "preview": false
+                    },
+                    {
+                        "name": "When to Use Interfaces",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953885",
+                        "preview": false
+                    },
+                    {
+                        "name": "Interfaces Quiz",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953871",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-2/lectures/10953876",
+                        "preview": false
+                    },
+                    {
+                        "name": "Thank You",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-2/lectures/11006581",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

@@ -1,0 +1,1709 @@
+{
+    "courses": [
+        {
+            "id": 2841801,
+            "name": "Build AI-Powered Apps",
+            "slug": "build-ai-powered-apps",
+            "heading": "Learn how to integrate AI into your apps - no ML background needed",
+            "promoVideoUrl": "https://cdn.codewithmosh.com/video/upload/v1755631419/promo-videos/build-ai-powered-apps.mp4",
+            "isPublished": true,
+            "comingSoon": false,
+            "releaseDate": "2025-08-24",
+            "imageUrl": "https://res.cloudinary.com/codewithmosh/image/upload/f_auto,q_auto/v1/covers/build-ai-powered-apps",
+            "hours": 7,
+            "lessons": 120,
+            "categories": [
+                1,
+                2
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 199,
+            "turnOffSale": false,
+            "teaserUrl": "https://cdn.codewithmosh.com/video/upload/v1755631699/promo-videos/build-ai-powered-apps-teaser.mp4",
+            "teaserCoverUrl": "https://res.cloudinary.com/codewithmosh/image/upload/f_auto,q_auto/v1/covers/build-ai-powered-apps-teaser-cover",
+            "previewUrl": "https://members.codewithmosh.com/courses/build-ai-powered-apps/lectures/62789461",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6420960/build-ai-powered-apps",
+            "activeCouponCode": {
+                "1": "LAUNCHXR1K",
+                "2": "LAUNCHYD2J",
+                "3": "LAUNCHZP3C",
+                "4": "LAUNCHLI4X"
+            },
+            "coupons": [
+                {
+                    "code": "LAUNCHXR1K",
+                    "discount": 0.25,
+                    "startDate": "2025-08-24",
+                    "endDate": "2025-09-04"
+                },
+                {
+                    "code": "LAUNCHYD2J",
+                    "discount": 0.5,
+                    "startDate": "2025-08-24",
+                    "endDate": "2025-09-04"
+                },
+                {
+                    "code": "LAUNCHZP3C",
+                    "discount": 0.85,
+                    "startDate": "2025-08-24",
+                    "endDate": "2025-09-04"
+                },
+                {
+                    "code": "LAUNCHLI4X",
+                    "discount": 0.9,
+                    "startDate": "2025-08-24",
+                    "endDate": "2025-09-04"
+                }
+            ]
+        },
+        {
+            "id": 417695,
+            "name": "Complete Python Mastery",
+            "slug": "python-programming-course-beginners",
+            "heading": "Everything you need to program in Python in one course (includes 3 real-world projects)",
+            "promoVideoId": "d9wa45y32q",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684540018/promo-videos/python.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/v13473aDTrub6vdfY5hP_V1.jpg",
+            "hours": 12,
+            "lessons": 200,
+            "categories": [
+                5
+            ],
+            "languages": [
+                {
+                    "name": "Hindi",
+                    "price": 5,
+                    "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5789115/python-programming-course-beginners-11?coupon_code=SITE"
+                }
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 149,
+            "turnOffSale": false,
+            "bonus": "PyCharm",
+            "previewUrl": "https://codewithmosh.teachable.com/courses/python-programming-course-beginners/lectures/6781576",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/866084/python-programming-course-beginners",
+            "activeCouponCode": {
+                "1": "DEALTAJX",
+                "2": "DEALTB37",
+                "3": "DEALTC99",
+                "4": "DEALTDK4"
+            },
+            "coupons": [
+                {
+                    "code": "PYTHONDEAL",
+                    "discount": 0.85
+                },
+                {
+                    "code": "DEALTAJX",
+                    "discount": 0.25,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                },
+                {
+                    "code": "DEALTB37",
+                    "discount": 0.5,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                },
+                {
+                    "code": "DEALTC99",
+                    "discount": 0.8,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                },
+                {
+                    "code": "DEALTDK4",
+                    "discount": 0.87,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                }
+            ]
+        },
+        {
+            "id": 2037633,
+            "name": "React 18 for Beginners",
+            "slug": "ultimate-react-part1",
+            "heading": "A step-by-step guide to building web apps with React 18+ and TypeScript",
+            "promoVideoId": "3fy0ubn04r",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684539103/promo-videos/react-part1.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/SWtZL7dtR3SYRScauf7w_+1920x1357.jpg",
+            "hours": 8,
+            "lessons": 140,
+            "categories": [
+                1
+            ],
+            "languages": [
+                {
+                    "name": "Hindi",
+                    "price": 5,
+                    "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5786115/ultimate-react-part1-11?coupon_code=SITE"
+                }
+            ],
+            "level": "Beginner",
+            "type": "single",
+            "price": 149,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-react-part1/lectures/45914979",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/4647771/ultimate-react-part1",
+            "activeCouponCode": {
+                "1": "DEALTAJX",
+                "2": "DEALTB37",
+                "3": "DEALTC99",
+                "4": "DEALTDK4"
+            },
+            "coupons": [
+                {
+                    "code": "YOUTUBE",
+                    "discount": 0.9
+                },
+                {
+                    "code": "REACTBYTES",
+                    "discount": 0.9
+                },
+                {
+                    "code": "DEALTAJX",
+                    "discount": 0.25,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                },
+                {
+                    "code": "DEALTB37",
+                    "discount": 0.5,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                },
+                {
+                    "code": "DEALTC99",
+                    "discount": 0.8,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                },
+                {
+                    "code": "DEALTDK4",
+                    "discount": 0.87,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                }
+            ]
+        },
+        {
+            "id": 1860251,
+            "name": "The Ultimate C++ Series",
+            "slug": "ultimate-c-plus-plus-series",
+            "heading": "Master Modern C++: Go from Novice to Professional. Everything you need to code in C++ in one bundle!",
+            "promoVideoId": "k24m4zleyb",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684540279/promo-videos/cplusplus.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/yCI5PJ8URfp6fYRbqBFT_C%2B%2B1920x1080.jpg",
+            "hours": 12,
+            "lessons": 220,
+            "categories": [
+                5
+            ],
+            "bundleContents": [
+                1857029,
+                1857235,
+                1886156
+            ],
+            "level": "Beginner to Pro",
+            "type": "bundle",
+            "price": 99,
+            "bonus": "CLion",
+            "turnOffSale": false,
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5082217/ultimate-c-plus-plus-series-1",
+            "activeCouponCode": {
+                "1": "DEALTAJX",
+                "2": "DEALTB37",
+                "3": "DEALTC99",
+                "4": "DEALTDK4"
+            },
+            "coupons": [
+                {
+                    "code": "YOUTUBE",
+                    "discount": 0.85
+                },
+                {
+                    "code": "CPPGEEK",
+                    "discount": 0.8
+                },
+                {
+                    "code": "DEALTAJX",
+                    "discount": 0.25,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                },
+                {
+                    "code": "DEALTB37",
+                    "discount": 0.5,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                },
+                {
+                    "code": "DEALTC99",
+                    "discount": 0.7,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                },
+                {
+                    "code": "DEALTDK4",
+                    "discount": 0.8,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                }
+            ]
+        },
+        {
+            "id": 525068,
+            "name": "Complete SQL Mastery",
+            "slug": "complete-sql-mastery",
+            "heading": "Everything you need to design and query databases—without the fluff.",
+            "promoVideoUrl": "https://cdn.codewithmosh.com/video/upload/v1726005579/promo-videos/sql.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/jbzxJKSR0m2K4y34NT8S_SQL+Course.jpg",
+            "hours": 11,
+            "lessons": 170,
+            "categories": [
+                2,
+                5
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 149,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/complete-sql-mastery/lectures/10143091",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/1057975/complete-sql-mastery",
+            "activeCouponCode": {
+                "1": "DEALTAJX",
+                "2": "DEALTB37",
+                "3": "DEALTC99",
+                "4": "DEALTDK4"
+            },
+            "coupons": [
+                {
+                    "code": "YOUTUBE",
+                    "discount": 0.9
+                },
+                {
+                    "code": "MOSHBYTES",
+                    "discount": 0.9
+                },
+                {
+                    "code": "DEALTAJX",
+                    "discount": 0.25,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                },
+                {
+                    "code": "DEALTB37",
+                    "discount": 0.5,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                },
+                {
+                    "code": "DEALTC99",
+                    "discount": 0.8,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                },
+                {
+                    "code": "DEALTDK4",
+                    "discount": 0.87,
+                    "startDate": "2025-09-08",
+                    "endDate": "2025-09-25"
+                }
+            ]
+        },
+        {
+            "id": 2187911,
+            "name": "The Ultimate Next.js Series",
+            "slug": "ultimate-nextjs-series",
+            "heading": "Everything you need to build fast, full-stack web apps with Next.js 13+ (App Router) and TypeScript",
+            "promoVideoId": "nextjs-bundle",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1696636179/promo-videos/nextjs-bundle.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/0dKhU49vRbiSSWknbHAR_1920X1357.jpg",
+            "hours": 12,
+            "lessons": 210,
+            "categories": [
+                1,
+                2
+            ],
+            "type": "bundle",
+            "bundleContents": [
+                2178940,
+                2187934
+            ],
+            "level": "Beginner to Pro",
+            "price": 149,
+            "turnOffSale": false,
+            "releaseDate": "2023-10-06",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5010638/ultimate-nextjs-series",
+            "coupons": []
+        },
+        {
+            "id": 1270682,
+            "name": "The Ultimate HTML5 & CSS3 Series",
+            "slug": "the-ultimate-html-css",
+            "heading": "Everything you need to build fast and stunning websites with HTML5 and CSS3 in one bundle",
+            "promoVideoId": "bqjivbxzgq",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684540144/promo-videos/htmlcss.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/8HOurJsmRsWjP1X534s6_FA_cc_codemosh_nobadge.jpg",
+            "hours": 14,
+            "lessons": 180,
+            "categories": [
+                1,
+                5
+            ],
+            "bundleContents": [
+                1260591,
+                1269823,
+                1269822
+            ],
+            "level": "Beginner to Pro",
+            "type": "bundle",
+            "price": 149,
+            "turnOffSale": false,
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/2759193/the-ultimate-html-css",
+            "coupons": [
+                {
+                    "code": "YOUTUBE",
+                    "discount": 0.9
+                },
+                {
+                    "code": "WEBNINJA",
+                    "discount": 0.9
+                }
+            ]
+        },
+        {
+            "id": 606250,
+            "name": "The Ultimate Java Mastery Series",
+            "slug": "the-ultimate-java-mastery-series",
+            "heading": "Master Java - the most popular programming language underpinning most apps and websites",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/e7PdvPhbTuWgCXxtbDb6_Java.jpg",
+            "hours": 14,
+            "lessons": 260,
+            "categories": [
+                5
+            ],
+            "bundleContents": [
+                580597,
+                606251,
+                711980
+            ],
+            "level": "Beginner to Pro",
+            "type": "bundle",
+            "price": 99,
+            "bonus": "IntelliJ",
+            "turnOffSale": false,
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5082223/the-ultimate-java-mastery-series-1",
+            "coupons": [
+                {
+                    "code": "YOUTUBE",
+                    "discount": 0.85
+                },
+                {
+                    "code": "BEAN15",
+                    "discount": 0.8
+                }
+            ]
+        },
+        {
+            "id": 2741443,
+            "name": "Spring Boot: Mastering the Fundamentals",
+            "slug": "spring-boot-fundamentals",
+            "heading": "Master dependency injection and database integration with Spring Boot and Spring Data JPA",
+            "promoVideoId": "d9wa45y32q",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/f_auto:video,q_auto/v1/promo-videos/spring-boot-part1",
+            "isPublished": true,
+            "comingSoon": false,
+            "releaseDate": "2025-02-24",
+            "imageUrl": "https://res.cloudinary.com/codewithmosh/image/upload/f_auto,q_auto/v1/covers/spring-boot-part1",
+            "hours": 6,
+            "lessons": 80,
+            "categories": [
+                2
+            ],
+            "level": "Beginner to Intermediate",
+            "type": "single",
+            "price": 99,
+            "turnOffSale": false,
+            "bonus": "IntelliJ",
+            "previewUrl": "https://codewithmosh.teachable.com/courses/spring-boot-mastering-the-fundamentals/lectures/60162299",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141167/spring-boot-mastering-fundamentals",
+            "teaserUrl": "https://res.cloudinary.com/codewithmosh/video/upload/f_auto:video,q_auto/v1/promo-videos/spring-boot-part1-teaser"
+        },
+        {
+            "id": 2758033,
+            "name": "Spring Boot: Mastering REST API Development",
+            "slug": "spring-boot-building-apis",
+            "heading": "Build REST APIs, secure them with Spring Security, process payments with Stripe, and deploy like a pro",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/f_auto:video,q_auto/v1/promo-videos/spring-boot-part2",
+            "isPublished": true,
+            "comingSoon": false,
+            "releaseDate": "2025-04-16",
+            "imageUrl": "https://res.cloudinary.com/codewithmosh/image/upload/f_auto,q_auto/v1/covers/spring-boot-part2",
+            "hours": 9,
+            "lessons": 120,
+            "categories": [
+                2
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 149,
+            "turnOffSale": false,
+            "bonus": "IntelliJ",
+            "previewUrl": "https://members.codewithmosh.com/courses/spring-boot-mastering-apis/lectures/60988575",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6216943/spring-boot-mastering-apis",
+            "teaserUrl": "https://cdn.codewithmosh.com/video/upload/v1744735381/promo-videos/spring-boot-part2-teaser.mp4"
+        },
+        {
+            "id": 2420054,
+            "name": "The Ultimate Full-stack JavaScript Developer Bundle",
+            "slug": "the-ultimate-full-stack-javascript-developer-bundle-2024-edition",
+            "heading": "Master all the JavaScript skills you need to land a full-stack developer job",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/kGi5gAjQyqaLxLTNuZrw_full-stack+javascript.jpeg",
+            "hours": 50,
+            "lessons": 0,
+            "categories": [
+                1
+            ],
+            "bundleContents": [
+                324741,
+                310571,
+                1779784,
+                2037633,
+                2074069,
+                293204,
+                1120640
+            ],
+            "level": "Beginner to Pro",
+            "type": "bundle",
+            "price": 499,
+            "releaseDate": "2023-12-18",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5243253/the-ultimate-full-stack-javascript-developer-bundle-2024-edition",
+            "coupons": []
+        },
+        {
+            "id": 1896395,
+            "name": "The Ultimate JavaScript Series",
+            "slug": "ultimate-javascript-series",
+            "heading": "Master JavaScript: Go from Novice to Professional. Everything you need to code in JavaScript in one bundle!",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/3OoqczJ8SVGiG7gpgDtk_js.png",
+            "hours": 10,
+            "lessons": 160,
+            "categories": [
+                1,
+                5
+            ],
+            "bundleContents": [
+                324741,
+                310571
+            ],
+            "level": "Beginner to Pro",
+            "type": "bundle",
+            "price": 69,
+            "turnOffSale": false,
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5082224/ultimate-javascript-series-1",
+            "coupons": [
+                {
+                    "code": "YOUTUBE",
+                    "discount": 0.75
+                },
+                {
+                    "code": "LEARNJS",
+                    "discount": 0.8
+                }
+            ]
+        },
+        {
+            "id": 2471159,
+            "name": "React Testing Mastery: From Basics to Advanced Techniques",
+            "slug": "react-testing-mastery",
+            "heading": "A comprehensive guide to React testing packed with practical tips, real-world exercises, and best practices",
+            "promoVideoId": "promo-videos/complete-react-testing-course",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1708983255/promo-videos/complete-react-testing-course.mp4",
+            "isPublished": true,
+            "comingSoon": false,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/rSFbgr9GRvuYcMNt0Qny_react+h.jpg",
+            "hours": 11,
+            "lessons": 170,
+            "bundleContents": [
+                2446221,
+                2456306
+            ],
+            "categories": [
+                1
+            ],
+            "level": "Beginner to Pro",
+            "type": "bundle",
+            "price": 149,
+            "releaseDate": "2024-02-28",
+            "turnOffSale": false,
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141195/react-testing-mastery",
+            "coupons": []
+        },
+        {
+            "id": 1607597,
+            "name": "The Ultimate Django Series",
+            "slug": "the-ultimate-django-series",
+            "heading": "From zero to hero: Learn to build fast and secure APIs with Django and MySQL ",
+            "promoVideoId": "oer2y04uwg",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768296/promo-videos/dj.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/VLpeAAzNSoaPkqAr3UgY_Django+Banner+2021+Final+1+%28750px+x+422px%29.jpg",
+            "hours": 15,
+            "lessons": 300,
+            "categories": [
+                2
+            ],
+            "bundleContents": [
+                1422300,
+                1522608,
+                1604024
+            ],
+            "level": "Beginner to Pro",
+            "type": "bundle",
+            "price": 149,
+            "bonus": "PyCharm",
+            "turnOffSale": false,
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141197/the-ultimate-django-series-1",
+            "coupons": [
+                {
+                    "code": "DJANGOBOOST",
+                    "discount": 0.9
+                }
+            ]
+        },
+        {
+            "id": 1120640,
+            "name": "The Ultimate Git Course",
+            "slug": "the-ultimate-git-course",
+            "heading": "Everything you need to know to use Git & GitHub to work effectively as a team",
+            "promoVideoId": "rcaymk2b1x",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768834/promo-videos/git.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/HAa9bj9BQwyMFiWvplhf_git2.jpg",
+            "hours": 6,
+            "lessons": 120,
+            "categories": [
+                6
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 49,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-git-course/lectures/24393589",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141201/the-ultimate-git-course-1",
+            "coupons": [
+                {
+                    "code": "MOSHBYTES",
+                    "discount": 0.8
+                }
+            ]
+        },
+        {
+            "id": 2074069,
+            "name": "React 18: Intermediate Topics",
+            "slug": "ultimate-react-part2",
+            "heading": "Take your React skills to the next level by mastering state management and routing",
+            "promoVideoId": "82gxeptblf",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684539844/promo-videos/react-part2.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/SWtZL7dtR3SYRScauf7w_+1920x1357.jpg",
+            "hours": 6,
+            "lessons": 100,
+            "categories": [
+                1
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 149,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-react-part2/lectures/46678341",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/4727911/ultimate-react-part2",
+            "coupons": [
+                {
+                    "code": "REACTPLUS",
+                    "discount": 0.9
+                }
+            ]
+        },
+        {
+            "id": 680815,
+            "name": "The Ultimate Data Structures & Algorithms Bundle",
+            "slug": "data-structures-algorithms",
+            "heading": "Ace your coding job interview. Learn to write better and faster code.",
+            "promoVideoId": "hclxtwqlc7",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769276/promo-videos/dsa-part1.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/cAHw6qPCQKScz9SDKriJ_New+Covers.002.jpeg",
+            "hours": 13,
+            "lessons": 300,
+            "categories": [
+                6
+            ],
+            "bundleContents": [
+                639884,
+                650827,
+                680168
+            ],
+            "level": "Beginner to Pro",
+            "type": "bundle",
+            "price": 149,
+            "turnOffSale": false,
+            "bonus": "IntelliJ",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/4759457/data-structures-algorithms-1",
+            "coupons": [
+                {
+                    "code": "MOSHBYTES",
+                    "discount": 0.9
+                }
+            ]
+        },
+        {
+            "id": 1116085,
+            "name": "The Ultimate C# Mastery Series",
+            "slug": "the-ultimate-csharp-mastery-series",
+            "heading": "Master C# - one of the world's most versatile programming languages",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/9AZFVpYJREmGpKwv5SOO_Cover.jpg",
+            "hours": 21,
+            "lessons": 220,
+            "categories": [
+                5
+            ],
+            "bundleContents": [
+                223623,
+                224763,
+                225147
+            ],
+            "level": "Beginner to Pro",
+            "type": "bundle",
+            "price": 89,
+            "turnOffSale": false,
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5082230/the-ultimate-csharp-mastery-series-1",
+            "coupons": []
+        },
+        {
+            "id": 2631523,
+            "name": "Python Projects for Beginners",
+            "slug": "python-projects-for-beginners",
+            "heading": "Sharpen your problem-solving skills with curated, real-world Python projects",
+            "promoVideoId": "d9wa45y32q",
+            "promoVideoUrl": "https://cdn.codewithmosh.com/video/upload/v1725642453/promo-videos/python-projects-beginners.mp4",
+            "isPublished": true,
+            "imageUrl": "https://cdn.codewithmosh.com/image/upload/v1725663330/covers/python-projects-for-beginners.jpg",
+            "hours": 5,
+            "lessons": 70,
+            "categories": [
+                5,
+                6
+            ],
+            "languages": [
+                {
+                    "name": "Hindi",
+                    "price": 5,
+                    "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5790520/python-projects-for-beginners1?coupon_code=SITE"
+                }
+            ],
+            "level": "Beginner to Intermediate",
+            "type": "single",
+            "price": 49,
+            "turnOffSale": false,
+            "comingSoon": false,
+            "releaseDate": "2024-09-10",
+            "previewUrl": "https://codewithmosh.teachable.com/courses/python-projects-for-beginners/lectures/56762499",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141204/python-projects-for-beginners-1",
+            "coupons": []
+        },
+        {
+            "id": 2067884,
+            "name": "The Ultimate Interview Preparation Bundle",
+            "slug": "interview-preparation-bundle",
+            "heading": "Ace your interview: Master essential skills to impress employers and land your dream job",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/IwuDXa5QZqo3InAqxjqA_IPB-Without+Text-01.jpg",
+            "hours": 35,
+            "lessons": 700,
+            "categories": [
+                6
+            ],
+            "bundleContents": [
+                639884,
+                650827,
+                680168,
+                759570,
+                760032,
+                1467728,
+                580597,
+                606251,
+                711980
+            ],
+            "level": "Beginner to Pro",
+            "type": "bundle",
+            "price": 399,
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/4715113/interview-preparation-bundle",
+            "coupons": []
+        },
+        {
+            "id": 1779784,
+            "name": "The Ultimate TypeScript Course",
+            "slug": "the-ultimate-typescript",
+            "heading": "Learn to make your JavaScript applications scale",
+            "promoVideoId": "g1prf20sjf",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768181/promo-videos/tscript.mp4",
+            "isPublished": true,
+            "imageUrl": "https://file-uploads.teachablecdn.com/4c16c4adca0d401bb4295cfbda05ecf1/e1c0e6c521414dbfae2fe1ca931c2f8f",
+            "hours": 5,
+            "lessons": 120,
+            "categories": [
+                1,
+                5
+            ],
+            "level": "Beginner to Pro",
+            "turnOffSale": false,
+            "type": "single",
+            "price": 99,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-typescript/lectures/40255354",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141205/the-ultimate-typescript-1",
+            "coupons": []
+        },
+        {
+            "id": 959159,
+            "name": "The Ultimate React Native Series",
+            "slug": "the-ultimate-react-native-course",
+            "heading": "Everything you need to build and distribute professional-quality apps with React Native",
+            "promoVideoId": "byckmdfctr",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768466/promo-videos/react-native.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/plHUTvCTFqcwdXeXY8PZ_react+native+final+file.jpg",
+            "hours": 12,
+            "lessons": 240,
+            "categories": [
+                4
+            ],
+            "bundleContents": [
+                887220,
+                955852
+            ],
+            "level": "Beginner to Pro",
+            "type": "bundle",
+            "price": 99,
+            "turnOffSale": false,
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5082227/the-ultimate-react-native-course-1",
+            "coupons": []
+        },
+        {
+            "id": 1359863,
+            "name": "The Ultimate Docker Course",
+            "slug": "the-ultimate-docker-course",
+            "heading": "Everything you need to master Docker in one clear, concise, and practical course",
+            "promoVideoId": "5jmlgr3px5",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768693/promo-videos/dockerc.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/3uI9SdEPToKkAz9FKDW4_3.jpg",
+            "hours": 5,
+            "lessons": 100,
+            "categories": [
+                6
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 79,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-docker-course/lectures/31446593",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141206/the-ultimate-docker-course-1",
+            "coupons": [
+                {
+                    "code": "DOCKERIZE",
+                    "discount": 0.8
+                }
+            ]
+        },
+        {
+            "id": 733596,
+            "name": "The Ultimate Design Pattern Series",
+            "slug": "design-patterns",
+            "heading": "Learn to write maintainable and extensible code. Become a senior software engineer.",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/QaKRnoVbSbWmI7Y7u3ee_Design+a+Cover+for+an+Online+Course.jpg",
+            "hours": 8,
+            "lessons": 130,
+            "categories": [
+                6
+            ],
+            "bundleContents": [
+                759570,
+                760032,
+                1467728
+            ],
+            "level": "Beginner to Pro",
+            "price": 149,
+            "bonus": "IntelliJ",
+            "type": "bundle",
+            "turnOffSale": false,
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/1589336/design-patterns-1",
+            "coupons": [
+                {
+                    "code": "GOFPATTERNS",
+                    "discount": 0.9
+                }
+            ]
+        },
+        {
+            "id": 2446221,
+            "name": "Mastering JavaScript Unit Testing",
+            "slug": "mastering-javascript-unit-testing",
+            "heading": "A comprehensive, beginner-friendly guide covering everything from the basics to advanced techniques",
+            "isPublished": true,
+            "imageUrl": "https://res.cloudinary.com/codewithmosh/image/upload/v1706312773/covers/mastering-javascript-unit-testing.jpg",
+            "promoVideoId": "mastering-javascript-unit-testing",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1706298932/promo-videos/mastering-javascript-unit-testing.mp4",
+            "hours": 4,
+            "lessons": 70,
+            "categories": [
+                1,
+                2,
+                4,
+                5,
+                6
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 79,
+            "turnOffSale": false,
+            "releaseDate": "2024-01-29",
+            "previewUrl": "https://codewithmosh.teachable.com/courses/mastering-javascript-unit-testing/lectures/51659904",
+            "parentBundleId": 2471159
+        },
+        {
+            "id": 2456306,
+            "name": "Testing React Apps with React Testing Library",
+            "slug": "complete-react-testing-course",
+            "heading": "A comprehensive A-Z guide to testing React apps with React Testing Library and Vitest / Jest.",
+            "promoVideoId": "promo-videos/complete-react-testing-course",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1708983255/promo-videos/complete-react-testing-course.mp4",
+            "isPublished": true,
+            "comingSoon": false,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/P7LH3ZL8SLKSY2beL06e_react+h.jpg",
+            "hours": 7,
+            "lessons": 100,
+            "categories": [
+                1
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 99,
+            "releaseDate": "2024-02-28",
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/complete-react-testing-course/lectures/52312156",
+            "parentBundleId": 2471159
+        },
+        {
+            "id": 783424,
+            "name": "The Ultimate Redux Course",
+            "slug": "ultimate-redux",
+            "heading": "Go from beginner to expert in 6 hours. Everything you need to build modern apps with Redux.",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/w49lHHJ1R7W3j2ViXOUo_Redux.jpg",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684868783/promo-videos/redux.mp4",
+            "hours": 6,
+            "lessons": 120,
+            "categories": [
+                1
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 79,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-redux/lectures/14779988",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141213/ultimate-redux-1",
+            "coupons": []
+        },
+        {
+            "id": 293204,
+            "name": "The Complete Node.js Course",
+            "slug": "the-complete-node-js-course",
+            "heading": "Learn to build highly-scalable, fast and secure RESTful APIs with Node, Express, and MongoDB.",
+            "promoVideoId": "n84j7uvc6n",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768908/promo-videos/node.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/FuZI7OIrTyUXxwCaW1e0_nodejs-1500x844.png",
+            "hours": 15,
+            "lessons": 220,
+            "categories": [
+                2
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 99,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/the-complete-node-js-course/lectures/4509750",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141216/the-complete-node-js-course-1",
+            "coupons": []
+        },
+        {
+            "id": 2178940,
+            "name": "Mastering Next.js 13 with TypeScript",
+            "slug": "mastering-next-js-13-with-typescript",
+            "heading": "Everything you need to build full-stack applications with Next.js 13+ (App Router) and TypeScript",
+            "promoVideoId": "nextjs-part1",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1694364873/promo-videos/nextjs-part1.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/0dKhU49vRbiSSWknbHAR_1920X1357.jpg",
+            "hours": 5,
+            "lessons": 110,
+            "categories": [
+                1,
+                2
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 99,
+            "turnOffSale": false,
+            "releaseDate": "2023-09-10",
+            "previewUrl": "https://codewithmosh.teachable.com/courses/mastering-next-js-13-with-typescript/lectures/49189423",
+            "parentBundleId": 2187911
+        },
+        {
+            "id": 2187934,
+            "name": "Next.js Projects: Build an Issue Tracker",
+            "slug": "nextjs-projects-issue-tracker",
+            "heading": "Learn to Build Full-stack Apps with Next.js, TypeScript, Prisma, Tailwind, and Radix UI",
+            "promoVideoId": "nextjs-part2",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1696636158/promo-videos/nextjs-part2.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/0dKhU49vRbiSSWknbHAR_1920X1357.jpg",
+            "hours": 7,
+            "lessons": 100,
+            "categories": [
+                1,
+                2
+            ],
+            "level": "Intermediate to Pro",
+            "type": "single",
+            "price": 99,
+            "turnOffSale": false,
+            "releaseDate": "2023-10-06",
+            "previewUrl": "https://codewithmosh.teachable.com/courses/nextjs-projects-issue-tracker/lectures/49681402",
+            "parentBundleId": 2187911
+        },
+        {
+            "id": 1422300,
+            "name": "Ultimate Django: Part 1",
+            "slug": "the-ultimate-django-part1",
+            "heading": "Master the fundamentals of Web development with Python and Django",
+            "isPublished": true,
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768296/promo-videos/dj.mp4",
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/VLpeAAzNSoaPkqAr3UgY_Django+Banner+2021+Final+1+%28750px+x+422px%29.jpg",
+            "hours": 5,
+            "lessons": 100,
+            "categories": [
+                2
+            ],
+            "level": "Beginner",
+            "type": "single",
+            "price": 59,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-django-part1/lectures/32679735",
+            "parentBundleId": 1607597
+        },
+        {
+            "id": 1522608,
+            "name": "Ultimate Django: Part 2",
+            "slug": "the-ultimate-django-part2",
+            "heading": "Everything you need to build secure RESTful APIs with Django REST Framework",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/VLpeAAzNSoaPkqAr3UgY_Django+Banner+2021+Final+1+%28750px+x+422px%29.jpg",
+            "hours": 6,
+            "lessons": 90,
+            "categories": [
+                2
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 69,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-django-part2/lectures/34919367",
+            "parentBundleId": 1607597
+        },
+        {
+            "id": 1604024,
+            "name": "Ultimate Django: Part 3",
+            "slug": "the-ultimate-django-part3",
+            "heading": "Master advanced techniques and best practices for building professional-quality backends",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/VLpeAAzNSoaPkqAr3UgY_Django+Banner+2021+Final+1+%28750px+x+422px%29.jpg",
+            "hours": 5,
+            "lessons": 100,
+            "categories": [
+                2
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 79,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-django-part3/lectures/36677546",
+            "parentBundleId": 1607597
+        },
+        {
+            "id": 324741,
+            "name": "Ultimate JavaScript Part 1: Fundamentals",
+            "slug": "javascript-basics-for-beginners",
+            "heading": "Master the fundamentals of programming in JavaScript.",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/3OoqczJ8SVGiG7gpgDtk_js.png",
+            "hours": 6,
+            "lessons": 100,
+            "categories": [
+                1,
+                5
+            ],
+            "level": "Beginner",
+            "type": "single",
+            "price": 59,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/javascript-basics-for-beginners/lectures/5088148",
+            "parentBundleId": 1896395
+        },
+        {
+            "id": 310571,
+            "name": "Ultimate JavaScript Part 2: Advanced Topics",
+            "slug": "object-oriented-programming-in-javascript",
+            "heading": "Level up your JavaScript skills and prepare for technical interviews.",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/sOTTvGV2SyeoyGTMkBZg_Udemy+-+Cover+-+edited.jpg",
+            "hours": 4,
+            "lessons": 60,
+            "categories": [
+                1,
+                5
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 59,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/object-oriented-programming-in-javascript/lectures/4880999",
+            "parentBundleId": 1896395
+        },
+        {
+            "id": 206545,
+            "name": "Angular 4: Beginner to Pro",
+            "slug": "angular-master-class",
+            "heading": "Build professional, interactive apps with Angular - the most popular framework for building web apps. This course covers everything.",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/997rfCwrQyWOQ0UW3I2R_Angular+Jumpstart+Udemy+Cover+2017.jpg",
+            "hours": 30,
+            "lessons": 370,
+            "categories": [
+                1
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 79,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/angular-master-class/lectures/3196122",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141209/angular-master-class-1",
+            "coupons": []
+        },
+        {
+            "id": 222293,
+            "name": "The Complete ASP.NET MVC 5 Course",
+            "slug": "asp-net-mvc",
+            "heading": "Learn to build and deploy fast and secure web applications with ASP.NET MVC 5",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/330xjxLGRDuUHo2droVx_Global+flatfinal.jpg",
+            "hours": 8,
+            "lessons": 140,
+            "categories": [
+                2
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 79,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/asp-net-mvc/lectures/3683957",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141212/asp-net-mvc-1",
+            "coupons": []
+        },
+        {
+            "id": 1857029,
+            "name": "Ultimate C++ Part 1: Fundamentals",
+            "slug": "ultimate-c-plus-plus-part1",
+            "heading": "Master the fundamentals of C++ - the most popular programming language underpinning most games and high-performance apps",
+            "promoVideoId": "k24m4zleyb",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769035/promo-videos/cpp-part1.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/kgsPr9zuTiqoGJR3AIDn_C%2B%2B+Part+1.jpg",
+            "hours": 4,
+            "lessons": 70,
+            "categories": [
+                5
+            ],
+            "level": "Beginner",
+            "type": "single",
+            "price": 49,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-c-plus-plus-part1/lectures/42187035",
+            "parentBundleId": 1860251
+        },
+        {
+            "id": 1857235,
+            "name": "Ultimate C++ Part 2: Intermediate",
+            "slug": "ultimate-c-plus-plus-part2",
+            "heading": "Take your C++ skills to the next level. Master arrays, pointers, strings, structures, and streams. ",
+            "promoVideoId": "lpzqp83xwx",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769099/promo-videos/cpp-part2.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/z7CXnm3KTQ6PZrLC8WwG_C%2B%2B+Part+2.jpg",
+            "hours": 4,
+            "lessons": 70,
+            "categories": [
+                5
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 49,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-c-plus-plus-part2/lectures/42231829",
+            "parentBundleId": 1860251
+        },
+        {
+            "id": 1886156,
+            "name": "Ultimate C++ Part 3: Advanced",
+            "slug": "ultimate-c-plus-plus-part3",
+            "heading": "Master object-oriented programming with C++. Learn all about classes, inheritance, exceptions, templates and more.",
+            "promoVideoId": "ic0p3ap1eg",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769158/promo-videos/cpp-part3.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/6LcGQ4PRMWURW76Qdxpr_C%2B%2B+Part+3.jpg",
+            "hours": 4,
+            "lessons": 80,
+            "categories": [
+                5
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 49,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-c-plus-plus-part3/lectures/42803657",
+            "parentBundleId": 1860251
+        },
+        {
+            "id": 223623,
+            "name": "Ultimate C# Series: Part 1",
+            "slug": "csharp-basics-for-beginners",
+            "heading": "Learn the fundamentals of programming with C# with tons of exercises and real-world examples",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/kh6sRsO4QZSAKdHhSAoo_Cover.jpg",
+            "hours": 6,
+            "lessons": 80,
+            "categories": [
+                5
+            ],
+            "level": "Beginner",
+            "type": "single",
+            "price": 59,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/csharp-basics-for-beginners/lectures/3480571",
+            "parentBundleId": 1116085
+        },
+        {
+            "id": 224763,
+            "name": "Ultimate C# Series: Part 2",
+            "slug": "object-oriented-programming-in-csharp",
+            "heading": "Learn all about classes, interfaces and object-oriented programming",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/MK9YsUTnRuH96BjzcPmS_Cover+with+Title.jpg",
+            "hours": 6,
+            "lessons": 40,
+            "categories": [
+                5
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 59,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/object-oriented-programming-in-csharp/lectures/3497535",
+            "parentBundleId": 1116085
+        },
+        {
+            "id": 225147,
+            "name": "Ultimate C# Series: Part 3",
+            "slug": "csharp-advanced",
+            "heading": "Master Events, Delegates, Lambda Expressions, LINQ, Async and more",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/PTvvaJ04SJ6RkmQexk9z_Cover.jpg",
+            "hours": 3,
+            "lessons": 10,
+            "categories": [
+                5
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 59,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/csharp-advanced/lectures/3504470",
+            "parentBundleId": 1116085
+        },
+        {
+            "id": 236371,
+            "name": "Entity Framework 6 in Depth",
+            "slug": "entity-framework",
+            "heading": "Connect your applications to a SQL Server database",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/LSFOpwcSTmjA6fPRhI3t_Udemy+7.jpg",
+            "hours": 7,
+            "lessons": 80,
+            "categories": [
+                2
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 59,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/entity-framework/lectures/3685408",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/947540/entity-framework"
+        },
+        {
+            "id": 222794,
+            "name": "Unit Testing for C# Developers",
+            "slug": "unit-testing-for-csharp-developers",
+            "heading": "Master unit testing - an essential skill for anyone who wants to become a senior developer",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/xuTfPMOT8ibT3NcPtUFJ_Unit+Testing+Cover.png",
+            "hours": 6,
+            "lessons": 90,
+            "categories": [
+                2
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 149,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/unit-testing-for-csharp-developers/lectures/3651687",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/947536/unit-testing-for-csharp-developers"
+        },
+        {
+            "id": 223139,
+            "name": "Xamarin Forms: Build Native Mobile Apps with C#",
+            "slug": "xamarin-forms",
+            "heading": "Learn to build native mobile apps for Android, iOS and Windows using your existing C# skills",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/ISWd4kT8Qx4eB1d5337u_Udemy+Cover+2016+Final.jpg",
+            "hours": 8,
+            "lessons": 120,
+            "categories": [
+                4
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 59,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/xamarin-forms/lectures/3473442",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/662700/xamarin-forms"
+        },
+        {
+            "id": 1260591,
+            "name": "Ultimate HTML & CSS: Part 1",
+            "slug": "the-ultimate-html-css-part1",
+            "heading": "Master the fundamentals of web development with HTML5 and CSS3",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/Riz0IDmIRy2liTBRbX1i_FA_cc_codemosh_part1.jpg",
+            "hours": 3,
+            "lessons": 50,
+            "categories": [
+                1,
+                5
+            ],
+            "level": "Beginner",
+            "type": "single",
+            "price": 29,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-html-css-part1/lectures/28672265",
+            "parentBundleId": 1270682
+        },
+        {
+            "id": 1269823,
+            "name": "Ultimate HTML & CSS: Part 2",
+            "slug": "the-ultimate-html-css-part2",
+            "heading": "Master advanced HTML5 and CSS3 concepts behind fast, beautiful and mobile-friendly websites",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/VkiJl76XQ9t4CkWTrg37_FA_cc_codemosh_part2.jpg",
+            "hours": 5,
+            "lessons": 80,
+            "categories": [
+                1,
+                5
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 59,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-html-css-part2/lectures/28672711",
+            "parentBundleId": 1270682
+        },
+        {
+            "id": 1269822,
+            "name": "Ultimate HTML & CSS: Part 3",
+            "slug": "the-ultimate-html-css-part3",
+            "heading": "Learn to convert Photoshop design mockups into real websites",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/rHyEZirUSLCFFl7SMOg4_FA_cc_codemosh_part3.jpg",
+            "hours": 6,
+            "lessons": 50,
+            "categories": [
+                1,
+                5
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 99,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-html-css-part3/lectures/28673240",
+            "parentBundleId": 1270682
+        },
+        {
+            "id": 887220,
+            "name": "The Ultimate React Native Series: Fundamentals",
+            "slug": "the-ultimate-react-native-course-part1",
+            "heading": "Master the Fundamentals of Building Native Mobile Apps with React Native and Expo",
+            "promoVideoId": "byckmdfctr",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768466/promo-videos/react-native.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/plHUTvCTFqcwdXeXY8PZ_react+native+final+file.jpg",
+            "hours": 6,
+            "lessons": 100,
+            "categories": [
+                4
+            ],
+            "level": "Beginner",
+            "type": "single",
+            "price": 69,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-react-native-course-part1/lectures/16617365",
+            "parentBundleId": 959159
+        },
+        {
+            "id": 955852,
+            "name": "The Ultimate React Native Series: Advanced Concepts",
+            "slug": "the-ultimate-react-native-course-part2",
+            "heading": "Master advanced techniques and best practices for building professional-quality apps",
+            "promoVideoId": "byckmdfctr",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768572/promo-videos/react-native-part2.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/plHUTvCTFqcwdXeXY8PZ_react+native+final+file.jpg",
+            "hours": 6,
+            "lessons": 120,
+            "categories": [
+                4
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 69,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-react-native-course-part2/lectures/17785338",
+            "parentBundleId": 959159
+        },
+        {
+            "id": 496615,
+            "name": "The Ultimate Full-stack .NET Developer Bundle",
+            "slug": "the-ultimate-full-stack-net-developer-bundle",
+            "heading": "Master all the .NET skills you need to land a full-stack developer job",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/SdH1y6cDS6enIMuV4Wpx_a2.jpg",
+            "hours": 35,
+            "lessons": 0,
+            "categories": [
+                2
+            ],
+            "type": "bundle",
+            "bundleContents": [
+                223623,
+                224763,
+                225147,
+                236371,
+                222293,
+                222794,
+                225594,
+                525068
+            ],
+            "level": "Beginner to Pro",
+            "price": 399,
+            "turnOffSale": false,
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/993430/the-ultimate-full-stack-net-developer-bundle",
+            "coupons": []
+        },
+        {
+            "id": 759570,
+            "name": "Mastering Design Patterns: Part 1",
+            "slug": "design-patterns-part1",
+            "heading": "Writing robust code: A deep dive into Behavioral Design Patterns",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/QaKRnoVbSbWmI7Y7u3ee_Design+a+Cover+for+an+Online+Course.jpg",
+            "hours": 4,
+            "lessons": 70,
+            "categories": [
+                6
+            ],
+            "level": "Beginner",
+            "type": "single",
+            "price": 49,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/design-patterns-part1/lectures/13732272",
+            "parentBundleId": 733596
+        },
+        {
+            "id": 760032,
+            "name": "Mastering Design Patterns: Part 2",
+            "slug": "design-patterns-part2",
+            "heading": "Structural design patterns: The essential building blocks of object-oriented programming",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/QaKRnoVbSbWmI7Y7u3ee_Design+a+Cover+for+an+Online+Course.jpg",
+            "hours": 2,
+            "lessons": 40,
+            "categories": [
+                6
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 49,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/design-patterns-part2/lectures/13778836",
+            "parentBundleId": 733596
+        },
+        {
+            "id": 1467728,
+            "name": "Mastering Design Patterns: Part 3",
+            "slug": "design-patterns-part3",
+            "heading": "Mastering creational design patterns: A comprehensive guide for developers",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/QaKRnoVbSbWmI7Y7u3ee_Design+a+Cover+for+an+Online+Course.jpg",
+            "hours": 1,
+            "lessons": 15,
+            "categories": [
+                6
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 49,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/design-patterns-part3/lectures/33902656",
+            "parentBundleId": 733596
+        },
+        {
+            "id": 639884,
+            "name": "Ultimate Data Structures & Algorithms: Part 1",
+            "slug": "data-structures-algorithms-part1",
+            "heading": "Ace your coding job interview. Learn to write better and faster code.",
+            "promoVideoId": "hclxtwqlc7",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769276/promo-videos/dsa-part1.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/ZC33QZGTL6C7il2HICEx_New+Covers.001.jpeg",
+            "hours": 5,
+            "lessons": 120,
+            "categories": [
+                6
+            ],
+            "level": "Beginner",
+            "type": "single",
+            "price": 49,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/data-structures-algorithms-part1/lectures/11425294",
+            "parentBundleId": 680815
+        },
+        {
+            "id": 650827,
+            "name": "Ultimate Data Structures & Algorithms: Part 2",
+            "slug": "data-structures-algorithms-part-2",
+            "heading": "Ace your coding job interview. Learn to write better and faster code.",
+            "promoVideoId": "hclxtwqlc7",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769449/promo-videos/dsa-part2.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/cAHw6qPCQKScz9SDKriJ_New+Covers.002.jpeg",
+            "hours": 6,
+            "lessons": 130,
+            "categories": [
+                6
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 49,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/data-structures-algorithms-part-2/lectures/11619971",
+            "parentBundleId": 680815
+        },
+        {
+            "id": 680168,
+            "name": "Ultimate Data Structures & Algorithms: Part 3",
+            "slug": "data-structures-algorithms-part-3",
+            "heading": "Ace your coding job interview. Learn to write better and faster code.",
+            "promoVideoId": "hclxtwqlc7",
+            "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769560/promo-videos/dsa-part3.mp4",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/2RIhasSLupm8OMd3bG1w_Data+Structures++3.001.jpeg",
+            "hours": 3,
+            "lessons": 50,
+            "categories": [
+                6
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 49,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/data-structures-algorithms-part-3/lectures/12134665",
+            "parentBundleId": 680815
+        },
+        {
+            "id": 580597,
+            "name": "Ultimate Java Part 1: Fundamentals",
+            "slug": "ultimate-java-part-1",
+            "heading": "Discover Java - the most popular programming language underpinning most apps and websites",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/Neo29x7T1igcHYkru696_Part+1.jpg",
+            "hours": 4,
+            "lessons": 70,
+            "categories": [
+                5
+            ],
+            "level": "Beginner",
+            "type": "single",
+            "price": 29,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-java-part-1/lectures/10548877",
+            "parentBundleId": 606250
+        },
+        {
+            "id": 606251,
+            "name": "Ultimate Java Part 2: Object-oriented Programming",
+            "slug": "ultimate-java-part-2",
+            "heading": "Learn to build robust, maintainable software with object-oriented programming techniques",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/E7lSUHCzQKSKeHimoCwT_P2.jpg",
+            "hours": 4,
+            "lessons": 70,
+            "categories": [
+                5
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 49,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-java-part-2/lectures/10953792",
+            "parentBundleId": 606250
+        },
+        {
+            "id": 711980,
+            "name": "Ultimate Java Part 3: Advanced Topics",
+            "slug": "ultimate-java-part-3",
+            "heading": "All about Exceptions, Generics, Collections, Lambdas, Streams, Multi-threading and Asynchronous Programming",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/kOjCBDxSbSlXuwfEESkc_P3.jpg",
+            "hours": 6,
+            "lessons": 120,
+            "categories": [
+                5
+            ],
+            "level": "Intermediate to Pro",
+            "type": "single",
+            "price": 69,
+            "turnOffSale": false,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-java-part-3/lectures/12836063",
+            "parentBundleId": 606250
+        },
+        {
+            "id": 225594,
+            "name": "Clean Coding and Refactoring",
+            "slug": "clean-code",
+            "heading": "Learn the secrets the experts use to write and maintain perfect code",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/w0PK4ruZRc6zUOWPs2en_course-cover-2.png",
+            "hours": 4,
+            "lessons": 20,
+            "categories": [
+                5
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 99,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/clean-code/lectures/3511054",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/947537/clean-code",
+            "coupons": []
+        },
+        {
+            "id": 222856,
+            "name": "Angular 4 Crash Course for Busy Developers",
+            "slug": "angular-crash-course",
+            "heading": "Learn the Angular essentials, from setup to deployment, in 2 days. The fastest way to get started with Angular!",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/997rfCwrQyWOQ0UW3I2R_Angular+Jumpstart+Udemy+Cover+2017.jpg",
+            "hours": 10,
+            "lessons": 140,
+            "categories": [
+                1
+            ],
+            "level": "Beginner to Pro",
+            "type": "single",
+            "price": 59,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/angular-crash-course/lectures/3467782",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/947538/angular-crash-course",
+            "coupons": []
+        },
+        {
+            "id": 228831,
+            "name": "Redux in Angular",
+            "slug": "redux-angular",
+            "heading": "Better manage the state of your Angular apps, improve their testability and use awesome debugging tools",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/PRcPMCOQTlCRPnHWFiHk_Redux+Udemy+Cover+2017+Final.jpg",
+            "hours": 2,
+            "lessons": 15,
+            "categories": [
+                1
+            ],
+            "level": "Intermediate",
+            "type": "single",
+            "price": 29,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/redux-angular/lectures/3563952",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/441274/redux-angular"
+        },
+        {
+            "id": 235779,
+            "name": "Build a Real-world App with ASP.NET Core 1.0+ and Angular 2+",
+            "slug": "asp-net-core",
+            "heading": "Build a full-stack web app with ASP.NET Core, Entity Framework Core and Angular 2 (Angular 4+)",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/UOQni5dsTXuRtQ3iUofC_Cover+copy.png",
+            "hours": 11,
+            "lessons": 170,
+            "categories": [
+                1
+            ],
+            "level": "Intermediate to Pro",
+            "type": "single",
+            "price": 59,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/asp-net-core/lectures/3742030",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/947539/asp-net-core"
+        },
+        {
+            "id": 271672,
+            "name": "C# Developers: Double Your Coding Speed",
+            "slug": "double-your-coding-speed",
+            "heading": "Learn the essential shortcuts and plug-ins that help you write more code in less time",
+            "isPublished": true,
+            "imageUrl": "https://uploads.teachablecdn.com/attachments/OFj3QRDmR3ihghhxCzqx_Cover2.jpg",
+            "hours": 2,
+            "lessons": 35,
+            "categories": [
+                5
+            ],
+            "level": "Beginner",
+            "type": "single",
+            "price": 29,
+            "previewUrl": "https://codewithmosh.teachable.com/courses/double-your-coding-speed/lectures/4200146",
+            "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/662735/double-your-coding-speed",
+            "coupons": []
+        }
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "course": {
+        "id": 1860251,
+        "name": "The Ultimate C++ Series",
+        "slug": "ultimate-c-plus-plus-series",
+        "heading": "Master Modern C++: Go from Novice to Professional. Everything you need to code in C++ in one bundle!",
+        "promoVideoId": "k24m4zleyb",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684540279/promo-videos/cplusplus.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/yCI5PJ8URfp6fYRbqBFT_C%2B%2B1920x1080.jpg",
+        "hours": 12,
+        "lessons": 220,
+        "categories": [
+            5
+        ],
+        "bundleContents": [
+            1857029,
+            1857235,
+            1886156
+        ],
+        "level": "Beginner to Pro",
+        "type": "bundle",
+        "price": 99,
+        "bonus": "CLion",
+        "turnOffSale": false,
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/5082217/ultimate-c-plus-plus-series-1",
+        "activeCouponCode": {
+            "1": "DEALTAJX",
+            "2": "DEALTB37",
+            "3": "DEALTC99",
+            "4": "DEALTDK4"
+        },
+        "coupons": [
+            {
+                "code": "YOUTUBE",
+                "discount": 0.85
+            },
+            {
+                "code": "CPPGEEK",
+                "discount": 0.8
+            },
+            {
+                "code": "DEALTAJX",
+                "discount": 0.25,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            },
+            {
+                "code": "DEALTB37",
+                "discount": 0.5,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            },
+            {
+                "code": "DEALTC99",
+                "discount": 0.7,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            },
+            {
+                "code": "DEALTDK4",
+                "discount": 0.8,
+                "startDate": "2025-09-08",
+                "endDate": "2025-09-25"
+            }
+        ],
+        "description": "The Ultimate C++ Series is your complete guide to mastering modern C++. Whether you’re just starting out or looking to sharpen your skills, this course will take you from novice to pro. C++ can be intimidating, but not anymore—I’ve broken everything down into small, bite-sized lessons that anyone can follow, no prior experience needed.\n\nThis is the C++ course I wish I had when I was learning. I’ve poured my nearly 25 years of coding experience into creating it, sharing everything I’ve learned over two decades. You’ll get practical tips, tricks, and insights to help you understand not just what to do, but why and how it all works.\n\nWhether you're learning C++ for work, school, or personal projects, this course is **clear, concise, comprehensive, well-organized, and packed with hands-on examples** to make learning C++ as approachable as possible.",
+        "outcomes": [
+            "Master modern C++ programming confidently",
+            "Troubleshoot and fix common errors in C++",
+            "Apply industry best practices for efficient coding",
+            "Gain a foundation for learning C++ related technologies (e.g., Unreal Engine)",
+            "Understand fundamental programming concepts",
+            "Harness the power of pointers to manipulate memory locations",
+            "Grasp the principles of Object-Oriented Programming (OOP)"
+        ],
+        "audience": [
+            "Anyone pursuing a career in game development",
+            "Anyone who wants to learn programming for the first time",
+            "College students who want to better understand C++",
+            "C++ developers who want to brush up on their C++ skills"
+        ],
+        "prerequisites": {
+            "courses": [],
+            "text": [
+                "Don’t worry if you’re a complete beginner. You don’t need any experience with C++ or programming in general! From the beginning, I'll hold your hands and teach you everything you need to know.",
+                "However, if you do have experience in C++ or other programming languages, you can go through the course faster."
+            ]
+        },
+        "cta": {
+            "heading": "Want to Build High-Performance Software? Learn C++.",
+            "description": "C++ powers games, finance, AI, and high-performance applications used by companies like Microsoft, Tesla, and Google. This structured, hands-on course teaches you modern C++—fast. No fluff, just real-world coding skills to help you stand out."
+        },
+        "curriculum": []
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

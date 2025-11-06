@@ -1,0 +1,952 @@
+{
+    "course": {
+        "id": 2758033,
+        "name": "Spring Boot: Mastering REST API Development",
+        "slug": "spring-boot-building-apis",
+        "heading": "Build REST APIs, secure them with Spring Security, process payments with Stripe, and deploy like a pro",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/f_auto:video,q_auto/v1/promo-videos/spring-boot-part2",
+        "isPublished": true,
+        "comingSoon": false,
+        "releaseDate": "2025-04-16",
+        "imageUrl": "https://res.cloudinary.com/codewithmosh/image/upload/f_auto,q_auto/v1/covers/spring-boot-part2",
+        "hours": 9,
+        "lessons": 120,
+        "categories": [
+            2
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 149,
+        "turnOffSale": false,
+        "bonus": "IntelliJ",
+        "previewUrl": "https://members.codewithmosh.com/courses/spring-boot-mastering-apis/lectures/60988575",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6216943/spring-boot-mastering-apis",
+        "teaserUrl": "https://cdn.codewithmosh.com/video/upload/v1744735381/promo-videos/spring-boot-part2-teaser.mp4",
+        "description": "Spring Boot is one of the most in-demand frameworks for modern backend development—and this course takes you beyond the basics to help you build, secure, and deploy real-world applications with confidence.\n\nThis is **Part 2** of the ultimate Spring Boot series. In [Part 1](/p/spring-boot-fundamentals), you mastered the fundamentals. In this part, we’ll put that knowledge into practice by building and deploying the backend for a real e-commerce application.\n\nYou’ll learn how to build clean and secure RESTful APIs, implement authentication and role-based access control, integrate with Stripe for payment processing, and deploy your application to the cloud.\n\nThis course goes beyond CRUD and boilerplate setups. You’ll learn how real production systems are built—with a strong focus on clean code, modular architecture, and real-world best practices.\n\nWhether you’re preparing for a job, planning to build your own app, or just want to take your backend skills to the next level, this course is designed to get you there.",
+        "outcomes": [
+            "Build RESTful APIs using Spring Boot",
+            "Validate incoming requests and handle errors with custom logic",
+            "Secure your APIs with Spring Security and JWT authentication",
+            "Implement role-based access control for protected resources",
+            "Structure your application using clean, maintainable architecture",
+            "Build a shopping cart system with full checkout functionality",
+            "Integrate Stripe Checkout to process real payments",
+            "Configure environment-specific settings using Spring profiles",
+            "Deploy your app and database to the cloud",
+            "Apply industry best practices for writing clean, testable, and production-ready code"
+        ],
+        "audience": [
+            "Developers who've learned the basics of Spring Boot and want to go deeper",
+            "Those who are tired of toy examples and want to build real-world projects",
+            "Aspiring backend developers preparing for a Spring Boot job or freelance work"
+        ],
+        "prerequisites": {
+            "courses": [
+                2741443
+            ],
+            "text": [
+                "This is Part 2 of my **Spring Boot: Mastering the Fundamentals** course. Ideally, you should have completed Part 1 or already be familiar with key Spring Boot concepts like beans and dependency injection, entities, repositories, and Flyway migrations.\n\n**New to Spring Boot?** Start with [Part 1](/p/spring-boot-fundamentals) and come back when you're ready to build real-world APIs."
+            ]
+        },
+        "projects": [
+            "You’ll build the backend for a full-featured e-commerce application—complete with authentication, role-based access, a shopping cart, checkout flow, payment processing with Stripe, and cloud deployment.\n\nThis isn’t a basic CRUD app—it’s a real-world project that mirrors what professional backend developers build in production."
+        ],
+        "cta": {
+            "heading": "Spring Boot Developers Are in High Demand",
+            "description": "Spring Boot is one of the most sought-after skills in the industry, with companies like Netflix, Amazon, and Google using it to build scalable applications. Skip the fluff. Learn the essentials fast."
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "1m 32s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60988575",
+                        "preview": true
+                    },
+                    {
+                        "name": "What You'll Learn",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60988576",
+                        "preview": true
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "1m 18s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60988577",
+                        "preview": true
+                    },
+                    {
+                        "name": "Starter Project",
+                        "duration": "4m 08s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60988578",
+                        "preview": true
+                    },
+                    {
+                        "name": "How to Take This Course",
+                        "duration": "1m 21s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60988580",
+                        "preview": true
+                    },
+                    {
+                        "name": "Questions and Support",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60988579",
+                        "preview": false
+                    },
+                    {
+                        "name": "Connect with Me",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60988574",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Introduction to Spring MVC",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 50s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576566",
+                        "preview": true
+                    },
+                    {
+                        "name": "How the Web Works",
+                        "duration": "5m 11s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576564",
+                        "preview": true
+                    },
+                    {
+                        "name": "What is Spring MVC",
+                        "duration": "1m 37s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576561",
+                        "preview": true
+                    },
+                    {
+                        "name": "Creating a Controller",
+                        "duration": "4m 14s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576565",
+                        "preview": true
+                    },
+                    {
+                        "name": "View Templates",
+                        "duration": "3m 27s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576563",
+                        "preview": true
+                    },
+                    {
+                        "name": "Passing Data to Views",
+                        "duration": "1m 59s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576560",
+                        "preview": true
+                    },
+                    {
+                        "name": "Building an API",
+                        "duration": "4m 28s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576562",
+                        "preview": true
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576568",
+                        "preview": true
+                    }
+                ]
+            },
+            {
+                "name": "Building RESTful APIs",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 57s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576784",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Your First RESTful API",
+                        "duration": "4m 00s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576783",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calling APIs with Postman",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576785",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Dynamic Routes",
+                        "duration": "3m 28s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576787",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting HTTP Status Codes",
+                        "duration": "3m 02s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576782",
+                        "preview": false
+                    },
+                    {
+                        "name": "Data Transfer Objects",
+                        "duration": "4m 50s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576788",
+                        "preview": false
+                    },
+                    {
+                        "name": "Mapping Objects Using MapStruct",
+                        "duration": "4m 55s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576789",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing Reponse Data",
+                        "duration": "5m 01s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576786",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting Query Parameters",
+                        "duration": "8m 13s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60576781",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building Product Endpoints",
+                        "duration": "10m 19s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60577204",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting Request Headers",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60577202",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting Request Body",
+                        "duration": "3m 17s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60577200",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Resources",
+                        "duration": "9m 26s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60577203",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Resources",
+                        "duration": "5m 46s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60577199",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deleting Resources",
+                        "duration": "1m 53s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60577201",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Action-Based Updates",
+                        "duration": "4m 54s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60593305",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building a CRUD API",
+                        "duration": "11m 14s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60593304",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60593308",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Validating API Requests",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 48s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60594600",
+                        "preview": false
+                    },
+                    {
+                        "name": "Introduction to Jakarta Validation",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60594599",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Validation Errors",
+                        "duration": "5m 12s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60594597",
+                        "preview": false
+                    },
+                    {
+                        "name": "Global Error Handling",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60594598",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing Custom Validation",
+                        "duration": "4m 39s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60594602",
+                        "preview": false
+                    },
+                    {
+                        "name": "Validating Business Rules",
+                        "duration": "3m 15s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60594601",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60594603",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Capstone Project: Building the Shopping Cart API",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "1m 00s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60802543",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Database Tables",
+                        "duration": "8m 05s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60802550",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Entities",
+                        "duration": "6m 31s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60802546",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Cart",
+                        "duration": "6m 03s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60802554",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding a Product to the Cart",
+                        "duration": "12m 51s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60802551",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting a Cart",
+                        "duration": "10m 23s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60802549",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating a Cart Item",
+                        "duration": "8m 39s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60802552",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring Towards an Object-Oriented Design",
+                        "duration": "6m 16s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60802547",
+                        "preview": false
+                    },
+                    {
+                        "name": "Removing a Product from the Cart",
+                        "duration": "4m 47s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60802548",
+                        "preview": false
+                    },
+                    {
+                        "name": "Clearing a Cart",
+                        "duration": "1m 53s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60802544",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting a Service",
+                        "duration": "12m 29s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60802553",
+                        "preview": false
+                    },
+                    {
+                        "name": "Documenting APIs with Swagger",
+                        "duration": "4m 34s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60802545",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Securing APIs with Spring Security",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 52s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813653",
+                        "preview": false
+                    },
+                    {
+                        "name": "Authentication Methods",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813651",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Spring Security",
+                        "duration": "1m 13s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813652",
+                        "preview": false
+                    },
+                    {
+                        "name": "Configuring Security Settings",
+                        "duration": "7m 34s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813650",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hashing Passwords",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813649",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Building the Login API",
+                        "duration": "4m 51s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813661",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with AuthenticationManager",
+                        "duration": "11m 17s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813662",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generating JSON Web Tokens",
+                        "duration": "6m 18s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813659",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Secrets",
+                        "duration": "8m 03s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813663",
+                        "preview": false
+                    },
+                    {
+                        "name": "Validating JSON Web Tokens",
+                        "duration": "7m 15s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813660",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding Filters",
+                        "duration": "3m 06s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813668",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing a Custom Filter to Validate JWTs",
+                        "duration": "8m 55s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813667",
+                        "preview": false
+                    },
+                    {
+                        "name": "Accessing the Current User",
+                        "duration": "3m 39s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813670",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Enhancing the JWT Payload",
+                        "duration": "6m 20s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813669",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding Refresh Tokens",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60813671",
+                        "preview": false
+                    },
+                    {
+                        "name": "Issuing Refresh Tokens",
+                        "duration": "4m 56s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60814601",
+                        "preview": false
+                    },
+                    {
+                        "name": "Externalizing JWT Configuration",
+                        "duration": "4m 55s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60814602",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refreshing Access Tokens",
+                        "duration": "7m 58s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60814603",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Role to Users",
+                        "duration": "5m 44s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60814599",
+                        "preview": false
+                    },
+                    {
+                        "name": "Role-based Authorization",
+                        "duration": "8m 33s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60814600",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- Refactoring the JwtService",
+                        "duration": "12m 40s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60814768",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logging Out Users",
+                        "duration": "1m 36s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60814766",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Auth Providers",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60814767",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60872295",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Capstone Project: Building the Checkout and Order APIs",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 54s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60872386",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Database Tables",
+                        "duration": "4m 51s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60872377",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Entities",
+                        "duration": "5m 51s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60872379",
+                        "preview": false
+                    },
+                    {
+                        "name": "Checking Out",
+                        "duration": "14m 24s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60872383",
+                        "preview": false
+                    },
+                    {
+                        "name": "Organizing API Tests with Postman Collections",
+                        "duration": "12m 03s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60872384",
+                        "preview": false
+                    },
+                    {
+                        "name": "Improving Error Handling",
+                        "duration": "5m 00s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60872382",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring Towards an Object-Oriented Design",
+                        "duration": "3m 55s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60872380",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting a Service",
+                        "duration": "5m 56s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60872378",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Orders",
+                        "duration": "10m 24s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60872385",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting a Single Order",
+                        "duration": "10m 29s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60872381",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Payment Processing",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 50s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964066",
+                        "preview": false
+                    },
+                    {
+                        "name": "Overview of the Checkout Process",
+                        "duration": "3m 08s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964063",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Stripe to the Project",
+                        "duration": "3m 29s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964062",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Checkout Session",
+                        "duration": "9m 44s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964065",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Stripe Erorrs",
+                        "duration": "7m 11s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964058",
+                        "preview": false
+                    },
+                    {
+                        "name": "Decoupling from Stripe",
+                        "duration": "10m 40s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964064",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building a Webhook Endpoint",
+                        "duration": "6m 48s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964061",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing the Webhook Endpoint",
+                        "duration": "5m 07s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964327",
+                        "preview": false
+                    },
+                    {
+                        "name": "Updating Order Status",
+                        "duration": "4m 58s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964325",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring the Webhook Logic",
+                        "duration": "17m 47s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964324",
+                        "preview": false
+                    },
+                    {
+                        "name": "Organizing Code by Feature",
+                        "duration": "3m 21s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964326",
+                        "preview": false
+                    },
+                    {
+                        "name": "Final Refactorings",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964333",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Deployment",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 48s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60965580",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deploying the Database",
+                        "duration": "2m 34s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964797",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Environments with Spring Profiles",
+                        "duration": "3m 56s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964756",
+                        "preview": false
+                    },
+                    {
+                        "name": "Packaging the App for Production",
+                        "duration": "5m 22s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964748",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pushing Your Code to GitHub",
+                        "duration": "1m 45s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964757",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deploying the App",
+                        "duration": "1m 15s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964753",
+                        "preview": false
+                    },
+                    {
+                        "name": "Configuring Production Environment Variables",
+                        "duration": "4m 37s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964754",
+                        "preview": false
+                    },
+                    {
+                        "name": "Testing with Postman Environments",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964755",
+                        "preview": false
+                    },
+                    {
+                        "name": "Populating the Database",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964751",
+                        "preview": false
+                    },
+                    {
+                        "name": "Revisiting the Security Rules",
+                        "duration": "2m 28s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964749",
+                        "preview": false
+                    },
+                    {
+                        "name": "Modularizing Security Rules",
+                        "duration": "5m 53s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964750",
+                        "preview": false
+                    },
+                    {
+                        "name": "Registering the Webhook Endpoint with Stripe",
+                        "duration": "7m 00s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964752",
+                        "preview": false
+                    },
+                    {
+                        "name": "What's Next: Error Handling and Monitoring",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60964802",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Course Wrap Up",
+                "lessons": [
+                    {
+                        "name": "Thank You",
+                        "duration": "0m 25s",
+                        "type": 1,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60989022",
+                        "preview": false
+                    },
+                    {
+                        "name": "Feedback",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/spring-boot-mastering-apis/lectures/60989007",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

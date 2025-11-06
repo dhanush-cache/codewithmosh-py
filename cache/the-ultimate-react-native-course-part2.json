@@ -1,0 +1,999 @@
+{
+    "course": {
+        "id": 955852,
+        "name": "The Ultimate React Native Series: Advanced Concepts",
+        "slug": "the-ultimate-react-native-course-part2",
+        "heading": "Master advanced techniques and best practices for building professional-quality apps",
+        "promoVideoId": "byckmdfctr",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768572/promo-videos/react-native-part2.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/plHUTvCTFqcwdXeXY8PZ_react+native+final+file.jpg",
+        "hours": 6,
+        "lessons": 120,
+        "categories": [
+            4
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 69,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-react-native-course-part2/lectures/17785338",
+        "parentBundleId": 959159,
+        "outcomes": [
+            "Build mobile apps with React Native with confidence",
+            "Access native device features",
+            "Implement navigation using React Navigation",
+            "Add beautiful tabs",
+            "Communicate with REST APIs",
+            "Upload images and show progress bars",
+            "Build offline capable apps",
+            "Cache data and images",
+            "Implement authentication and authorization",
+            "Send and receive push notifications",
+            "Log and monitor errors",
+            "Manage configuration settings across different environments",
+            "Build and distribute your apps"
+        ],
+        "audience": [
+            "Developers who want to use their JavaScript skills to build mobile apps",
+            "Developers who want to add React Native to their resume to get a better job",
+            "Web developers who want to get into the mobile development industry",
+            "React Native developers who want to brush up on their skills and fill the gaps",
+            "Developers passionate about learning new technologies"
+        ],
+        "prerequisites": {
+            "courses": [
+                887220
+            ],
+            "text": [
+                "This course is the second part of my Ultimate React Native series. To take this course, you should have watched and completed the first part."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17785338",
+                        "preview": true
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "1m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17785359",
+                        "preview": true
+                    },
+                    {
+                        "name": "How to Use This Course",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17785360",
+                        "preview": false
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17785361",
+                        "preview": false
+                    },
+                    {
+                        "name": "VSCode Code Snippet",
+                        "duration": "1m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17785362",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/25354592",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/34610249",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Native Features",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 28s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711039",
+                        "preview": true
+                    },
+                    {
+                        "name": "Device Features",
+                        "duration": "2m 15s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711045",
+                        "preview": true
+                    },
+                    {
+                        "name": "Using ImagePicker",
+                        "duration": "2m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711043",
+                        "preview": true
+                    },
+                    {
+                        "name": "Requesting Permissions",
+                        "duration": "5m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711051",
+                        "preview": true
+                    },
+                    {
+                        "name": "Permissions Module",
+                        "duration": "1m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711049",
+                        "preview": true
+                    },
+                    {
+                        "name": "Accessing the Library",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711047",
+                        "preview": true
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": "2m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711046",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building ImageInput- Layout",
+                        "duration": "3m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711050",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building ImageInput- Touches",
+                        "duration": "5m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711042",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building ImageInputList- Basics",
+                        "duration": "6m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711052",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building ImageInputList- Scrolling",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711044",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building FormImagePicker",
+                        "duration": "4m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711048",
+                        "preview": false
+                    },
+                    {
+                        "name": "Improving ListingEditScreen",
+                        "duration": "2m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711053",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting the User's Location",
+                        "duration": "4m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711040",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building Custom Hooks",
+                        "duration": "3m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711041",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/18151849",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Navigation",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711328",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing React Navigation",
+                        "duration": "2m 15s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711322",
+                        "preview": false
+                    },
+                    {
+                        "name": "Stack Navigator",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711318",
+                        "preview": false
+                    },
+                    {
+                        "name": "Navigating Between Screens",
+                        "duration": "4m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711329",
+                        "preview": false
+                    },
+                    {
+                        "name": "Passing Parameters to Routes",
+                        "duration": "1m 17s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711332",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Screen Titles",
+                        "duration": "1m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711326",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing Headers",
+                        "duration": "1m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711321",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a TabNavigator",
+                        "duration": "2m 42s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711319",
+                        "preview": false
+                    },
+                    {
+                        "name": "Customizing Tabs",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711330",
+                        "preview": false
+                    },
+                    {
+                        "name": "Nesting Navigators",
+                        "duration": "1m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711317",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": "0m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711320",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building AuthNavigator",
+                        "duration": "3m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711333",
+                        "preview": false
+                    },
+                    {
+                        "name": "Navigation Theme",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711327",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building AppNavigator",
+                        "duration": "2m 00s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711323",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building FeedNavigator",
+                        "duration": "5m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711334",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building AccountNavigator",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711331",
+                        "preview": false
+                    },
+                    {
+                        "name": "Beautifying the Tabs",
+                        "duration": "7m 18s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711325",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring Routes",
+                        "duration": "2m 00s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711324",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Networking",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711530",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up the Backend",
+                        "duration": "2m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711527",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calling APIs Using ApiSauce",
+                        "duration": "2m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711534",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating an API Layer",
+                        "duration": "2m 41s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711539",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fetching Data",
+                        "duration": "3m 07s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711529",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inspecting API Calls",
+                        "duration": "2m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711531",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Errors",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711528",
+                        "preview": false
+                    },
+                    {
+                        "name": "Simulating a Slow Connection",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711535",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing an Activity Indicator",
+                        "duration": "1m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711538",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building a Beautiful Activitiy Indicator",
+                        "duration": "5m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711524",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Reusable Hook",
+                        "duration": "5m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711532",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711600",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extending the API Layer",
+                        "duration": "4m 11s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711533",
+                        "preview": false
+                    },
+                    {
+                        "name": "Posting Data",
+                        "duration": "3m 31s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711525",
+                        "preview": false
+                    },
+                    {
+                        "name": "Tracking Upload Progress",
+                        "duration": "3m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711526",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Upload Screen",
+                        "duration": "4m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711540",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding a Progress Bar",
+                        "duration": "2m 25s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711536",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing the Done Animation",
+                        "duration": "3m 31s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711541",
+                        "preview": false
+                    },
+                    {
+                        "name": "Resetting the Form",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711537",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/18151836",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Offline Support",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711688",
+                        "preview": false
+                    },
+                    {
+                        "name": "Strategies for Building Offline Capable Apps",
+                        "duration": "1m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711695",
+                        "preview": false
+                    },
+                    {
+                        "name": "Detecting Network Status",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711690",
+                        "preview": false
+                    },
+                    {
+                        "name": "Caching",
+                        "duration": "1m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711689",
+                        "preview": false
+                    },
+                    {
+                        "name": "AsyncStorage",
+                        "duration": "2m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711693",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inspecting AsyncStorage",
+                        "duration": "1m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711694",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Cache Layer",
+                        "duration": "2m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711686",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing a Cache Layer",
+                        "duration": "7m 41s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711684",
+                        "preview": false
+                    },
+                    {
+                        "name": "Caching Successful Request Data",
+                        "duration": "4m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711691",
+                        "preview": false
+                    },
+                    {
+                        "name": "Caching Images",
+                        "duration": "7m 17s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711692",
+                        "preview": false
+                    },
+                    {
+                        "name": "Caching with Redux",
+                        "duration": "3m 00s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711685",
+                        "preview": false
+                    },
+                    {
+                        "name": "Storing User Actions When Offline",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711683",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17785756",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing an Offline Notice",
+                        "duration": "5m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711687",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Authentication and Authorization",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711882",
+                        "preview": false
+                    },
+                    {
+                        "name": "Authentication Providers",
+                        "duration": "1m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711884",
+                        "preview": false
+                    },
+                    {
+                        "name": "Authentication Flow",
+                        "duration": "2m 25s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711892",
+                        "preview": false
+                    },
+                    {
+                        "name": "Authentication API",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711885",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting the AuthToken",
+                        "duration": "3m 46s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711886",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting the User from the AuthToken",
+                        "duration": "4m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711895",
+                        "preview": false
+                    },
+                    {
+                        "name": "Storing the Current User",
+                        "duration": "4m 04s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711888",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting the Current User",
+                        "duration": "0m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711890",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logging Out the User",
+                        "duration": "1m 09s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711898",
+                        "preview": false
+                    },
+                    {
+                        "name": "Persisting the Authentication State Across Restarts",
+                        "duration": "7m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711881",
+                        "preview": false
+                    },
+                    {
+                        "name": "Controlling the Splash Screen",
+                        "duration": "3m 11s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711893",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring",
+                        "duration": "3m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711894",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Custom Hook",
+                        "duration": "6m 05s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711896",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calling Protected APIs",
+                        "duration": "3m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711891",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise",
+                        "duration": "0m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711889",
+                        "preview": false
+                    },
+                    {
+                        "name": "Implementing the Registration",
+                        "duration": "3m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711897",
+                        "preview": false
+                    },
+                    {
+                        "name": "Showing an Activity Indicator",
+                        "duration": "4m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711883",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding an Overlay",
+                        "duration": "4m 28s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711887",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/18152049",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Notifications",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711976",
+                        "preview": false
+                    },
+                    {
+                        "name": "Push Notification Services",
+                        "duration": "1m 18s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711978",
+                        "preview": false
+                    },
+                    {
+                        "name": "Architecture",
+                        "duration": "1m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711969",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting a Push Notification Token",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711975",
+                        "preview": false
+                    },
+                    {
+                        "name": "Storing the Push Notification Token",
+                        "duration": "2m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711971",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sending Test Notifications",
+                        "duration": "1m 25s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711970",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sending Notifications on the Server",
+                        "duration": "1m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711974",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Received Notifications",
+                        "duration": "1m 18s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711977",
+                        "preview": false
+                    },
+                    {
+                        "name": "Navigation Upon Receiving a Notification",
+                        "duration": "5m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711972",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Custom Hook",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711968",
+                        "preview": false
+                    },
+                    {
+                        "name": "Local Notifications",
+                        "duration": "2m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711979",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17712042",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Contact Form",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17711973",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Distribution",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17712159",
+                        "preview": false
+                    },
+                    {
+                        "name": "App Icon",
+                        "duration": "1m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17712160",
+                        "preview": false
+                    },
+                    {
+                        "name": "Optimizing Assets",
+                        "duration": "1m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17712155",
+                        "preview": false
+                    },
+                    {
+                        "name": "Optimizing JavaScript Bundle",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17712152",
+                        "preview": false
+                    },
+                    {
+                        "name": "Error Reporting",
+                        "duration": "6m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17712153",
+                        "preview": false
+                    },
+                    {
+                        "name": "Environment Management",
+                        "duration": "2m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17712157",
+                        "preview": false
+                    },
+                    {
+                        "name": "Publishing",
+                        "duration": "1m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17712158",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building Standalone Apps",
+                        "duration": "1m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17712154",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the iOS App",
+                        "duration": "5m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17712151",
+                        "preview": false
+                    },
+                    {
+                        "name": "Distributing to the App Store",
+                        "duration": "4m 09s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17712161",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building the Android App",
+                        "duration": "4m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17712156",
+                        "preview": false
+                    },
+                    {
+                        "name": "Distributing to the Google Play Store",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17785896",
+                        "preview": false
+                    },
+                    {
+                        "name": "Over-the-air Updates",
+                        "duration": "1m 30s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17785957",
+                        "preview": false
+                    },
+                    {
+                        "name": "Additional Resources",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17785959",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-react-native-course-part2/lectures/17785961",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

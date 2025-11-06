@@ -1,0 +1,947 @@
+{
+    "course": {
+        "id": 1779784,
+        "name": "The Ultimate TypeScript Course",
+        "slug": "the-ultimate-typescript",
+        "heading": "Learn to make your JavaScript applications scale",
+        "promoVideoId": "g1prf20sjf",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768181/promo-videos/tscript.mp4",
+        "isPublished": true,
+        "imageUrl": "https://file-uploads.teachablecdn.com/4c16c4adca0d401bb4295cfbda05ecf1/e1c0e6c521414dbfae2fe1ca931c2f8f",
+        "hours": 5,
+        "lessons": 120,
+        "categories": [
+            1,
+            5
+        ],
+        "level": "Beginner to Pro",
+        "turnOffSale": false,
+        "type": "single",
+        "price": 99,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-typescript/lectures/40255354",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141205/the-ultimate-typescript-1",
+        "coupons": [],
+        "description": "The Ultimate TypeScript Course is designed to help you transition from JavaScript to TypeScript, giving you the tools to write more reliable, maintainable, and scalable code. Whether you're working with front-end frameworks like React or building server-side applications with Node/Express, this course will guide you through mastering TypeScript and its powerful features.\n\nYou’ll start by learning the fundamentals of TypeScript, from its syntax to type annotations, and quickly move on to more advanced concepts like decorators, generics, and modules. Along the way, you'll learn to integrate TypeScript into real-world projects, including React and Node apps, while applying industry best practices to write cleaner, more efficient code.\n\nBy the end of this course, you'll not only understand the benefits of TypeScript over JavaScript but also have the confidence to apply TypeScript in any project, boosting your productivity and code quality.",
+        "outcomes": [
+            "Understand the fundamentals of TypeScript and its benefits over JavaScript",
+            "Master TypeScript syntax, data types, and type annotations",
+            "Understand and fix TypeScript errors",
+            "Integrate TypeScript into React and Node/Express projects",
+            "Utilize TypeScript interfaces and classes for creating reusable and maintainable code",
+            "Apply TypeScript features such as decorators, generics, and modules",
+            "Explore advanced TypeScript concepts, including union and intersection types",
+            "Apply industry best practices"
+        ],
+        "audience": [
+            "This course is for JavaScript developers who want to level-up their skills and use TypeScript to create large-scale web or mobile applications."
+        ],
+        "prerequisites": {
+            "courses": [
+                1896395
+            ],
+            "text": [
+                "To take this course, you need basic familiarity with JavaScript concepts such as variables and constants, arrays, objects, functions, and so on. No prior TypeScript knowledge is required as everything is covered from the ground up."
+            ]
+        },
+        "cta": {
+            "heading": "Level Up Your JavaScript Skills with TypeScript",
+            "description": "TypeScript is the industry standard for building scalable, maintainable applications—used by companies like Microsoft, Google, and Airbnb. This structured, hands-on course teaches you TypeScript the right way, so you can write cleaner, safer JavaScript and build real-world projects with confidence. No fluff. Just practical TypeScript skills."
+        },
+        "curriculum": [
+            {
+                "name": "Welcome",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "0m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255354",
+                        "preview": true
+                    },
+                    {
+                        "name": "Prerequisites",
+                        "duration": "0m 36s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255355",
+                        "preview": true
+                    },
+                    {
+                        "name": "How to Take this Course",
+                        "duration": "0m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255356",
+                        "preview": true
+                    },
+                    {
+                        "name": "Getting Help",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364296",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364402",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364407",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Getting Started with TypeScript",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 31s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255402",
+                        "preview": true
+                    },
+                    {
+                        "name": "What is TypeScript",
+                        "duration": "4m 41s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255399",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up the Development Environment",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255403",
+                        "preview": true
+                    },
+                    {
+                        "name": "Your First TypeScript Program",
+                        "duration": "3m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255400",
+                        "preview": true
+                    },
+                    {
+                        "name": "Configuring the TypeScript Compiler",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255404",
+                        "preview": false
+                    },
+                    {
+                        "name": "Debugging TypeScript Applications",
+                        "duration": "4m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255401",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255433",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Fundamentals",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 28s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255452",
+                        "preview": false
+                    },
+                    {
+                        "name": "Built-in Types",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255449",
+                        "preview": false
+                    },
+                    {
+                        "name": "The any Type",
+                        "duration": "2m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255450",
+                        "preview": false
+                    },
+                    {
+                        "name": "Strict Compiler Option",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255451",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arrays",
+                        "duration": "2m 18s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255445",
+                        "preview": false
+                    },
+                    {
+                        "name": "Tuples",
+                        "duration": "2m 43s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255448",
+                        "preview": false
+                    },
+                    {
+                        "name": "Enums",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255453",
+                        "preview": false
+                    },
+                    {
+                        "name": "Functions",
+                        "duration": "6m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255446",
+                        "preview": false
+                    },
+                    {
+                        "name": "Objects",
+                        "duration": "4m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255447",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255455",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40485679",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Advanced Types",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255490",
+                        "preview": false
+                    },
+                    {
+                        "name": "Type Aliases",
+                        "duration": "1m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255496",
+                        "preview": false
+                    },
+                    {
+                        "name": "Union Types",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255491",
+                        "preview": false
+                    },
+                    {
+                        "name": "Intersection Types",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255487",
+                        "preview": false
+                    },
+                    {
+                        "name": "Literal Types",
+                        "duration": "1m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255493",
+                        "preview": false
+                    },
+                    {
+                        "name": "Nullable Types",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255489",
+                        "preview": false
+                    },
+                    {
+                        "name": "Optional Chaining",
+                        "duration": "4m 41s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255492",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Nullish Coaelscing Operator",
+                        "duration": "1m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255494",
+                        "preview": false
+                    },
+                    {
+                        "name": "Type Assertions",
+                        "duration": "3m 07s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255495",
+                        "preview": false
+                    },
+                    {
+                        "name": "The unknown Type",
+                        "duration": "2m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255488",
+                        "preview": false
+                    },
+                    {
+                        "name": "The never Type",
+                        "duration": "2m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255497",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255500",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364544",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Classes, Interfaces and Object-oriented Programming",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255523",
+                        "preview": false
+                    },
+                    {
+                        "name": "What is Object-oriented Programming",
+                        "duration": "3m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255521",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Classes",
+                        "duration": "3m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255519",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Objects",
+                        "duration": "3m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255525",
+                        "preview": false
+                    },
+                    {
+                        "name": "Read-only and Optional Properties",
+                        "duration": "1m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255531",
+                        "preview": false
+                    },
+                    {
+                        "name": "Access Control Keywords",
+                        "duration": "3m 42s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255522",
+                        "preview": false
+                    },
+                    {
+                        "name": "Parameter Properties",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255529",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getters and Setters",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255527",
+                        "preview": false
+                    },
+                    {
+                        "name": "Index Signatures",
+                        "duration": "3m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255530",
+                        "preview": false
+                    },
+                    {
+                        "name": "Static Members",
+                        "duration": "4m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255516",
+                        "preview": false
+                    },
+                    {
+                        "name": "Inheritance",
+                        "duration": "4m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255517",
+                        "preview": false
+                    },
+                    {
+                        "name": "Method Overriding",
+                        "duration": "3m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255524",
+                        "preview": false
+                    },
+                    {
+                        "name": "Polymorphism",
+                        "duration": "5m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255526",
+                        "preview": false
+                    },
+                    {
+                        "name": "Private vs Protected Members",
+                        "duration": "1m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255520",
+                        "preview": false
+                    },
+                    {
+                        "name": "Abstract Classes and Methods",
+                        "duration": "4m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255518",
+                        "preview": false
+                    },
+                    {
+                        "name": "Interfaces",
+                        "duration": "6m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255515",
+                        "preview": false
+                    },
+                    {
+                        "name": "Interfaces vs Types",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255528",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40255731",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364545",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Generics",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256280",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding the Problem",
+                        "duration": "2m 05s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256273",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generic Classes",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256281",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generic Functions",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256277",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generic Interfaces",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256276",
+                        "preview": false
+                    },
+                    {
+                        "name": "Generic Constraints",
+                        "duration": "2m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256279",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extending Generic Classes",
+                        "duration": "6m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256275",
+                        "preview": false
+                    },
+                    {
+                        "name": "The keyof Operator",
+                        "duration": "3m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256278",
+                        "preview": false
+                    },
+                    {
+                        "name": "Type Mapping",
+                        "duration": "5m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256274",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256283",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364547",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Decorators",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256356",
+                        "preview": false
+                    },
+                    {
+                        "name": "What Are Decorators",
+                        "duration": "1m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256358",
+                        "preview": false
+                    },
+                    {
+                        "name": "Class Decorators",
+                        "duration": "4m 00s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256355",
+                        "preview": false
+                    },
+                    {
+                        "name": "Parameterized Decorators",
+                        "duration": "2m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256354",
+                        "preview": false
+                    },
+                    {
+                        "name": "Decorator Composition",
+                        "duration": "1m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256353",
+                        "preview": false
+                    },
+                    {
+                        "name": "Method Decorators",
+                        "duration": "7m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256357",
+                        "preview": false
+                    },
+                    {
+                        "name": "Accessor Decorators - Title",
+                        "duration": "4m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256352",
+                        "preview": false
+                    },
+                    {
+                        "name": "Property Decorators",
+                        "duration": "4m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256350",
+                        "preview": false
+                    },
+                    {
+                        "name": "Parameter Decorators",
+                        "duration": "2m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256351",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256363",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364549",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Modules",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 35s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256385",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exporting and Importing",
+                        "duration": "4m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256384",
+                        "preview": false
+                    },
+                    {
+                        "name": "Module Formats",
+                        "duration": "3m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256380",
+                        "preview": false
+                    },
+                    {
+                        "name": "Default Exports",
+                        "duration": "2m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256381",
+                        "preview": false
+                    },
+                    {
+                        "name": "Wildcard Imports",
+                        "duration": "0m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256382",
+                        "preview": false
+                    },
+                    {
+                        "name": "Re-exporting",
+                        "duration": "3m 15s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256383",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256388",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Integration with JavaScript",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256443",
+                        "preview": false
+                    },
+                    {
+                        "name": "Including JS Code in TS Projects",
+                        "duration": "2m 18s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256440",
+                        "preview": false
+                    },
+                    {
+                        "name": "Type Checking JS Code",
+                        "duration": "2m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256441",
+                        "preview": false
+                    },
+                    {
+                        "name": "Describing Types Using JSDoc",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256444",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Declaration Files",
+                        "duration": "2m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256445",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using Definitely Typed Declaration Files",
+                        "duration": "2m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256442",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256446",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "React with TypeScript",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 28s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256508",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a React App with TypeScript",
+                        "duration": "1m 28s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256509",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Bootstrap",
+                        "duration": "1m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256507",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Component - Title",
+                        "duration": "5m 11s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256505",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using the State Hook",
+                        "duration": "2m 09s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256504",
+                        "preview": false
+                    },
+                    {
+                        "name": "Calling the Backend",
+                        "duration": "4m 17s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256506",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using the Effect Hook",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256513",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Events",
+                        "duration": "3m 41s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256510",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building a Form",
+                        "duration": "3m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256512",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Form Submission",
+                        "duration": "4m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256511",
+                        "preview": false
+                    },
+                    {
+                        "name": "Additional Reading",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40256514",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Node and Express with TypeScript",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364785",
+                        "preview": false
+                    },
+                    {
+                        "name": "Executing TypeScript Code with Node",
+                        "duration": "2m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364787",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting up an Express Project",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364789",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Basic Route",
+                        "duration": "0m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364784",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Router",
+                        "duration": "1m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364788",
+                        "preview": false
+                    },
+                    {
+                        "name": "Parsing Request Bodies",
+                        "duration": "3m 36s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364786",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building an API",
+                        "duration": "3m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364790",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Course Wrap Up",
+                "lessons": [
+                    {
+                        "name": "Course Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364794",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-typescript/lectures/40364783",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

@@ -1,0 +1,747 @@
+{
+    "course": {
+        "id": 1604024,
+        "name": "Ultimate Django: Part 3",
+        "slug": "the-ultimate-django-part3",
+        "heading": "Master advanced techniques and best practices for building professional-quality backends",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/VLpeAAzNSoaPkqAr3UgY_Django+Banner+2021+Final+1+%28750px+x+422px%29.jpg",
+        "hours": 5,
+        "lessons": 100,
+        "categories": [
+            2
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 79,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-django-part3/lectures/36677546",
+        "parentBundleId": 1607597,
+        "outcomes": [
+            "Build an API for uploading files",
+            "Send emails from your applications",
+            "Run background jobs with Celery",
+            "Write automated tests with PyTest",
+            "Run performance tests with Locust",
+            "Implement profiling using Silk",
+            "Implement caching with Redis",
+            "Manage static assets",
+            "Implement logging",
+            "Manage configuration settings",
+            "Deploy your Django applications to Heroku",
+            "Apply industry best practices"
+        ],
+        "audience": [
+            "Anyone familiar with Django who wants to learn more advanced concepts",
+            "Anyone familiar with Django REST Framework who needs a refresher course to fill in the gaps"
+        ],
+        "prerequisites": {
+            "courses": [
+                1422300,
+                1522608
+            ],
+            "text": [
+                "This course is the third part of a series. So ideally, you should have taken the first two parts or already understand the topics covered there."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "0m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36677546",
+                        "preview": true
+                    },
+                    {
+                        "name": "Setting Up the Project",
+                        "duration": "5m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36677547",
+                        "preview": true
+                    },
+                    {
+                        "name": "Getting Help",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36677317",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36677318",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36677319",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Uploading Files",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678710",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Media Files",
+                        "duration": "3m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678708",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Images to Products",
+                        "duration": "2m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678709",
+                        "preview": false
+                    },
+                    {
+                        "name": "Building an API to Upload Images",
+                        "duration": "6m 14s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678705",
+                        "preview": false
+                    },
+                    {
+                        "name": "Returning Images from the API",
+                        "duration": "2m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678712",
+                        "preview": false
+                    },
+                    {
+                        "name": "Validating Uploaded Files",
+                        "duration": "4m 00s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678713",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up the Client App",
+                        "duration": "1m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678711",
+                        "preview": false
+                    },
+                    {
+                        "name": "Enabling CORS",
+                        "duration": "5m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678706",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Images in the Admin",
+                        "duration": "9m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678707",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Sending Emails",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 15s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678794",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting up a Fake SMTP Server",
+                        "duration": "2m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678793",
+                        "preview": false
+                    },
+                    {
+                        "name": "Configuring the Email Backend",
+                        "duration": "2m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678791",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sending Emails",
+                        "duration": "4m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678790",
+                        "preview": false
+                    },
+                    {
+                        "name": "Attaching Files",
+                        "duration": "2m 05s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678792",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sending Templated Emails",
+                        "duration": "4m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678789",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Running Background Tasks",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 15s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678820",
+                        "preview": false
+                    },
+                    {
+                        "name": "Introduction to Celery",
+                        "duration": "2m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678818",
+                        "preview": false
+                    },
+                    {
+                        "name": "Message Brokers",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678819",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing Redis",
+                        "duration": "2m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678814",
+                        "preview": false
+                    },
+                    {
+                        "name": "Celery and Windows",
+                        "duration": "0m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678821",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Up Celery",
+                        "duration": "5m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678822",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating and Executing Tasks",
+                        "duration": "5m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678815",
+                        "preview": false
+                    },
+                    {
+                        "name": "Scheduling Periodic Tasks",
+                        "duration": "3m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678817",
+                        "preview": false
+                    },
+                    {
+                        "name": "Monitoring Celery Tasks",
+                        "duration": "1m 41s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678816",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Automated Testing",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678909",
+                        "preview": false
+                    },
+                    {
+                        "name": "What is Automated Testing",
+                        "duration": "2m 11s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678915",
+                        "preview": false
+                    },
+                    {
+                        "name": "Test Behaviours, Not Implementations",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678907",
+                        "preview": false
+                    },
+                    {
+                        "name": "Tooling",
+                        "duration": "2m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678913",
+                        "preview": false
+                    },
+                    {
+                        "name": "Your First Test",
+                        "duration": "4m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678917",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running Tests",
+                        "duration": "5m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678916",
+                        "preview": false
+                    },
+                    {
+                        "name": "Skipping Tests",
+                        "duration": "0m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678911",
+                        "preview": false
+                    },
+                    {
+                        "name": "Continuous Testing",
+                        "duration": "1m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678914",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running and Debugging Tests in VSCode",
+                        "duration": "2m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678912",
+                        "preview": false
+                    },
+                    {
+                        "name": "Authenticating the User",
+                        "duration": "0m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678908",
+                        "preview": false
+                    },
+                    {
+                        "name": "Single or Multiple Assertions",
+                        "duration": "5m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678910",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fixtures",
+                        "duration": "7m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678905",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Model Instances",
+                        "duration": "8m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36678906",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Performance Testing",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679032",
+                        "preview": false
+                    },
+                    {
+                        "name": "Why Performance Testing",
+                        "duration": "1m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679025",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing Locust",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679030",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Test Script",
+                        "duration": "7m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679028",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running a Test Script",
+                        "duration": "4m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679033",
+                        "preview": false
+                    },
+                    {
+                        "name": "Running a Performance Test",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679029",
+                        "preview": false
+                    },
+                    {
+                        "name": "Performance Optimization Techniques",
+                        "duration": "3m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679031",
+                        "preview": false
+                    },
+                    {
+                        "name": "Profiling with Silk",
+                        "duration": "7m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679026",
+                        "preview": false
+                    },
+                    {
+                        "name": "Verifying Optimizations",
+                        "duration": "3m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679027",
+                        "preview": false
+                    },
+                    {
+                        "name": "Stress Testing",
+                        "duration": "2m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679034",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Caching",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679068",
+                        "preview": false
+                    },
+                    {
+                        "name": "What is Caching",
+                        "duration": "2m 23s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679071",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cache Backends",
+                        "duration": "1m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679075",
+                        "preview": false
+                    },
+                    {
+                        "name": "Simulating a Slow API",
+                        "duration": "1m 10s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679072",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting a Baseline Performance Benchmark",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679074",
+                        "preview": false
+                    },
+                    {
+                        "name": "Installing Redis",
+                        "duration": "0m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679067",
+                        "preview": false
+                    },
+                    {
+                        "name": "Configuring Caching",
+                        "duration": "1m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679076",
+                        "preview": false
+                    },
+                    {
+                        "name": "Using the Low-level Cache API",
+                        "duration": "3m 27s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679069",
+                        "preview": false
+                    },
+                    {
+                        "name": "Caching Views",
+                        "duration": "4m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679070",
+                        "preview": false
+                    },
+                    {
+                        "name": "Verifying Optimizations",
+                        "duration": "1m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679066",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Redis Cache Content",
+                        "duration": "2m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679073",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Preparing for Production",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679251",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding the Home Page",
+                        "duration": "2m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679247",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Static Assets",
+                        "duration": "3m 07s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679246",
+                        "preview": false
+                    },
+                    {
+                        "name": "Collecting Static Assets",
+                        "duration": "2m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679254",
+                        "preview": false
+                    },
+                    {
+                        "name": "Serving Static Assets",
+                        "duration": "0m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679249",
+                        "preview": false
+                    },
+                    {
+                        "name": "Configuring Logging",
+                        "duration": "6m 27s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679253",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logging",
+                        "duration": "5m 30s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679250",
+                        "preview": false
+                    },
+                    {
+                        "name": "Managing Development and Production Settings",
+                        "duration": "7m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679248",
+                        "preview": false
+                    },
+                    {
+                        "name": "Serving the Application with Gunicorn",
+                        "duration": "2m 09s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679252",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Deployment",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679264",
+                        "preview": false
+                    },
+                    {
+                        "name": "Hosting Options",
+                        "duration": "0m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679268",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Project to Git",
+                        "duration": "2m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679267",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting Started with Heroku",
+                        "duration": "1m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679274",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Heroku App",
+                        "duration": "1m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679266",
+                        "preview": false
+                    },
+                    {
+                        "name": "Setting Environment Variables",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679275",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a Procfile",
+                        "duration": "1m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679265",
+                        "preview": false
+                    },
+                    {
+                        "name": "Provisioning a MySQL Database",
+                        "duration": "3m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679277",
+                        "preview": false
+                    },
+                    {
+                        "name": "Provisioning a Redis Instance",
+                        "duration": "2m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679269",
+                        "preview": false
+                    },
+                    {
+                        "name": "Provisioning an SMTP Server",
+                        "duration": "1m 35s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679273",
+                        "preview": false
+                    },
+                    {
+                        "name": "Deploying the Application",
+                        "duration": "5m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679272",
+                        "preview": false
+                    },
+                    {
+                        "name": "Populating the Database",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679271",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dockerizing the App",
+                        "duration": "9m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679270",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-django-part3/lectures/36679276",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

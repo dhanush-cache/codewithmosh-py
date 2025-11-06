@@ -1,0 +1,544 @@
+{
+    "course": {
+        "id": 580597,
+        "name": "Ultimate Java Part 1: Fundamentals",
+        "slug": "ultimate-java-part-1",
+        "heading": "Discover Java - the most popular programming language underpinning most apps and websites",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/Neo29x7T1igcHYkru696_Part+1.jpg",
+        "hours": 4,
+        "lessons": 70,
+        "categories": [
+            5
+        ],
+        "level": "Beginner",
+        "type": "single",
+        "price": 29,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-java-part-1/lectures/10548877",
+        "parentBundleId": 606250,
+        "outcomes": [
+            "Get started with Java programming language, its syntax, and basic concepts",
+            "Understand different data types, variables, and their usage in Java",
+            "Learn about conditional statements (if-else, switch) and loops (for, while) to control the flow of programs",
+            "Learn essential debugging techniques and tools to identify and resolve issues in Java programs effectively",
+            "Write clean code like a pro"
+        ],
+        "audience": [
+            "Anyone who wants to learn programming for the first time",
+            "College students who want to better understand Java",
+            "Java developers who want to brush up on their Java skills"
+        ],
+        "prerequisites": {
+            "courses": [],
+            "text": [
+                "Don’t worry if you’re a complete beginner. You don’t need any experience with Java, even the very first steps are covered in detail.",
+                "The next two parts of this series are structured sequentially, so you can jump right in at a level that’s perfect for you, and don’t have to waste time with things you already know."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Setting Up the Development Environment",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548877",
+                        "preview": false
+                    },
+                    {
+                        "name": "Anatomy of a Java Program",
+                        "duration": "4m 41s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548878",
+                        "preview": false
+                    },
+                    {
+                        "name": "Your First Java Program",
+                        "duration": "7m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548875",
+                        "preview": false
+                    },
+                    {
+                        "name": "How Java Code Gets Executed",
+                        "duration": "4m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548873",
+                        "preview": false
+                    },
+                    {
+                        "name": "5 Interesting Facts about Java",
+                        "duration": "1m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548876",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Structure",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548874",
+                        "preview": false
+                    },
+                    {
+                        "name": "Source Code",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549159",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-1/lectures/25354833",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-1/lectures/34610455",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Types",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 34s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548930",
+                        "preview": false
+                    },
+                    {
+                        "name": "Variables",
+                        "duration": "3m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548929",
+                        "preview": false
+                    },
+                    {
+                        "name": "Primitive Types",
+                        "duration": "5m 19s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548945",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reference Types",
+                        "duration": "4m 47s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548936",
+                        "preview": false
+                    },
+                    {
+                        "name": "Primitive vs Reference Types",
+                        "duration": "4m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548927",
+                        "preview": false
+                    },
+                    {
+                        "name": "Strings",
+                        "duration": "7m 03s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548940",
+                        "preview": false
+                    },
+                    {
+                        "name": "Escape Sequences",
+                        "duration": "2m 39s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548943",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arrays",
+                        "duration": "5m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548942",
+                        "preview": false
+                    },
+                    {
+                        "name": "Multi-dimensional Arrays",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548944",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constants",
+                        "duration": "1m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548937",
+                        "preview": false
+                    },
+                    {
+                        "name": "Arithmetic Expressions",
+                        "duration": "4m 03s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548932",
+                        "preview": false
+                    },
+                    {
+                        "name": "Order of Operations",
+                        "duration": "1m 21s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548933",
+                        "preview": false
+                    },
+                    {
+                        "name": "Casting",
+                        "duration": "6m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548935",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Math Class",
+                        "duration": "4m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548939",
+                        "preview": false
+                    },
+                    {
+                        "name": "Formatting Numbers",
+                        "duration": "5m 49s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548928",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reading Input",
+                        "duration": "5m 05s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548941",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- Mortgage Calculator",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548938",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "4m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548934",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548931",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Control Flow",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 47s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548966",
+                        "preview": false
+                    },
+                    {
+                        "name": "Comparison Operators",
+                        "duration": "1m 45s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548970",
+                        "preview": false
+                    },
+                    {
+                        "name": "Logical Operators",
+                        "duration": "4m 36s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548977",
+                        "preview": false
+                    },
+                    {
+                        "name": "If Statements",
+                        "duration": "4m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548974",
+                        "preview": false
+                    },
+                    {
+                        "name": "Simplifying If Statements",
+                        "duration": "3m 29s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548971",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Ternary Operator",
+                        "duration": "2m 29s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548968",
+                        "preview": false
+                    },
+                    {
+                        "name": "Switch Statements",
+                        "duration": "3m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548972",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercise- FizzBuzz",
+                        "duration": "5m 57s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548976",
+                        "preview": false
+                    },
+                    {
+                        "name": "For Loops",
+                        "duration": "3m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548979",
+                        "preview": false
+                    },
+                    {
+                        "name": "While Loops",
+                        "duration": "4m 26s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548973",
+                        "preview": false
+                    },
+                    {
+                        "name": "Do..While Loops",
+                        "duration": "1m 17s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548980",
+                        "preview": false
+                    },
+                    {
+                        "name": "Break and Continue Statements",
+                        "duration": "3m 15s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548969",
+                        "preview": false
+                    },
+                    {
+                        "name": "For-Each Loop",
+                        "duration": "3m 07s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548975",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- Mortgage Calculator",
+                        "duration": "1m 27s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548978",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "5m 00s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548981",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 55s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10548967",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Clean Coding",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549077",
+                        "preview": false
+                    },
+                    {
+                        "name": "Clean Coding",
+                        "duration": "1m 11s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549086",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Methods",
+                        "duration": "4m 41s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549081",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring",
+                        "duration": "2m 25s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549079",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting Methods",
+                        "duration": "6m 16s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549084",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring Repetitive Patterns",
+                        "duration": "6m 15s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549082",
+                        "preview": false
+                    },
+                    {
+                        "name": "Project- Payment Schedule",
+                        "duration": "2m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549078",
+                        "preview": false
+                    },
+                    {
+                        "name": "Solution",
+                        "duration": "9m 11s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549085",
+                        "preview": false
+                    },
+                    {
+                        "name": "Refactoring the Code",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549080",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": "0m 43s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549083",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Debugging and Deploying Applications",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 31s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549099",
+                        "preview": false
+                    },
+                    {
+                        "name": "Types of Errors",
+                        "duration": "1m 26s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549103",
+                        "preview": false
+                    },
+                    {
+                        "name": "Common Syntax Errors",
+                        "duration": "3m 09s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549102",
+                        "preview": false
+                    },
+                    {
+                        "name": "Debugging Java Applications",
+                        "duration": "8m 08s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549101",
+                        "preview": false
+                    },
+                    {
+                        "name": "Packaging Java Applications",
+                        "duration": "4m 11s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549098",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 40s",
+                        "type": 1,
+                        "href": "/courses/ultimate-java-part-1/lectures/10549104",
+                        "preview": false
+                    },
+                    {
+                        "name": "Thank You",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-java-part-1/lectures/11006579",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

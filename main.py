@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import argparse
 import json
+import shutil
 from importlib import import_module
 from importlib.util import find_spec
 from pathlib import Path
@@ -130,5 +131,19 @@ def main() -> None:
     extract_non_videos(source, target / str(course))
 
 
+def generate_cache(regenerate: bool = False):
+    config_file = Path("data.json")
+    data = json.loads(config_file.read_text())
+    courses = data["configs"]
+
+    if regenerate:
+        shutil.rmtree("cache", ignore_errors=True)
+
+    for course in courses.values():
+        course = CourseSerializer.get_course(course["slug"])
+
+
 if __name__ == "__main__":
     main()
+    # Use this function to regenerate cache
+    # generate_cache(regenerate=True)

@@ -1,0 +1,634 @@
+{
+    "course": {
+        "id": 1857235,
+        "name": "Ultimate C++ Part 2: Intermediate",
+        "slug": "ultimate-c-plus-plus-part2",
+        "heading": "Take your C++ skills to the next level. Master arrays, pointers, strings, structures, and streams. ",
+        "promoVideoId": "lpzqp83xwx",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684769099/promo-videos/cpp-part2.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/z7CXnm3KTQ6PZrLC8WwG_C%2B%2B+Part+2.jpg",
+        "hours": 4,
+        "lessons": 70,
+        "categories": [
+            5
+        ],
+        "level": "Intermediate",
+        "type": "single",
+        "price": 49,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/ultimate-c-plus-plus-part2/lectures/42231829",
+        "parentBundleId": 1860251,
+        "outcomes": [
+            "Use arrays for efficient storage and manipulation of collections of data elements",
+            "Understand and utilize pointers for dynamic memory allocation and efficient data access",
+            "Work with strings to manipulate and process textual data effectively",
+            "Implement structures to organize related data fields",
+            "Perform input and output operations with streams",
+            "Define named constant values using enumerations, improving code readability"
+        ],
+        "audience": [
+            "Programmers who want to advance their skills in C++ programming",
+            "Developers looking to improve their understanding of advanced C++ concepts such as arrays, pointers, strings, streams, enumerations, and structures",
+            "Anyone interested in building complex C++ applications or systems",
+            "Engineers and scientists working on high-performance computing applications in C++",
+            "Students studying computer science or related fields looking to deepen their knowledge of C++ programming",
+            "Anyone interested in pursuing a career in game development, scientific computing, or systems programming",
+            "Anyone who wants to become a more skilled and knowledgeable C++ programmer"
+        ],
+        "prerequisites": {
+            "courses": [
+                1857029
+            ],
+            "text": [
+                "This course is the second part of a series. So, you should have watched the first part or have a thorough understanding of the concepts covered there. You should know all about variables, data types, decision making statements, loops, and functions."
+            ]
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Welcome",
+                        "duration": "0m 38s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42231829",
+                        "preview": true
+                    },
+                    {
+                        "name": "Getting Help",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42234393",
+                        "preview": true
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42234414",
+                        "preview": true
+                    }
+                ]
+            },
+            {
+                "name": "Arrays",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232032",
+                        "preview": true
+                    },
+                    {
+                        "name": "Creating and Initializing Arrays",
+                        "duration": "2m 30s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232030",
+                        "preview": true
+                    },
+                    {
+                        "name": "Determining the Size of Arrays",
+                        "duration": "3m 02s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232038",
+                        "preview": true
+                    },
+                    {
+                        "name": "Copying Arrays",
+                        "duration": "1m 59s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232033",
+                        "preview": true
+                    },
+                    {
+                        "name": "Comparing Arrays",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232039",
+                        "preview": true
+                    },
+                    {
+                        "name": "Passing Arrays to Functions",
+                        "duration": "2m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232031",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding size_t",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232029",
+                        "preview": false
+                    },
+                    {
+                        "name": "Unpacking Arrays",
+                        "duration": "1m 50s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232037",
+                        "preview": false
+                    },
+                    {
+                        "name": "Searching Arrays",
+                        "duration": "3m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232035",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sorting Arrays",
+                        "duration": "8m 07s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232034",
+                        "preview": false
+                    },
+                    {
+                        "name": "Multi-dimensional Arrays",
+                        "duration": "3m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232036",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232219",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Pointers",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 46s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232252",
+                        "preview": false
+                    },
+                    {
+                        "name": "What is a Pointer",
+                        "duration": "1m 49s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232244",
+                        "preview": false
+                    },
+                    {
+                        "name": "Declaring and Using Pointers",
+                        "duration": "5m 20s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232254",
+                        "preview": false
+                    },
+                    {
+                        "name": "Constant Pointers",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232251",
+                        "preview": false
+                    },
+                    {
+                        "name": "Passing Pointers to Functions",
+                        "duration": "5m 32s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232249",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Relationship Between Arrays and Pointers",
+                        "duration": "3m 23s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232245",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pointer Arithmetic",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232253",
+                        "preview": false
+                    },
+                    {
+                        "name": "Comparing Pointers",
+                        "duration": "3m 54s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232248",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dynamic Memory Allocation",
+                        "duration": "4m 11s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232246",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dynamically Resizing an Array",
+                        "duration": "7m 18s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232243",
+                        "preview": false
+                    },
+                    {
+                        "name": "Smart Pointers",
+                        "duration": "1m 31s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232247",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Unique Pointers",
+                        "duration": "4m 16s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232242",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Shared Pointers",
+                        "duration": "1m 44s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232250",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232267",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Strings",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 41s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232317",
+                        "preview": false
+                    },
+                    {
+                        "name": "C Strings",
+                        "duration": "8m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232324",
+                        "preview": false
+                    },
+                    {
+                        "name": "C++ Strings",
+                        "duration": "5m 23s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232323",
+                        "preview": false
+                    },
+                    {
+                        "name": "Modifying Strings",
+                        "duration": "3m 16s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232325",
+                        "preview": false
+                    },
+                    {
+                        "name": "Searching Strings",
+                        "duration": "4m 49s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232320",
+                        "preview": false
+                    },
+                    {
+                        "name": "Extracting Substrings",
+                        "duration": "4m 20s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232319",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Characters",
+                        "duration": "5m 51s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232322",
+                        "preview": false
+                    },
+                    {
+                        "name": "String_Numeric Conversion Functions",
+                        "duration": "3m 09s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232318",
+                        "preview": false
+                    },
+                    {
+                        "name": "Escape Sequences",
+                        "duration": "3m 13s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232326",
+                        "preview": false
+                    },
+                    {
+                        "name": "Raw Strings",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232321",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232345",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Structures and Enumerations",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232356",
+                        "preview": false
+                    },
+                    {
+                        "name": "Defining Structures",
+                        "duration": "5m 12s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232363",
+                        "preview": false
+                    },
+                    {
+                        "name": "Initializing Structures",
+                        "duration": "2m 06s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232361",
+                        "preview": false
+                    },
+                    {
+                        "name": "Unpacking Structures",
+                        "duration": "1m 59s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232364",
+                        "preview": false
+                    },
+                    {
+                        "name": "Array of Structures",
+                        "duration": "3m 45s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232365",
+                        "preview": false
+                    },
+                    {
+                        "name": "Nesting Structures",
+                        "duration": "4m 11s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232359",
+                        "preview": false
+                    },
+                    {
+                        "name": "Comparing Structures",
+                        "duration": "1m 39s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232357",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Methods",
+                        "duration": "5m 10s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232358",
+                        "preview": false
+                    },
+                    {
+                        "name": "Operator Overloading",
+                        "duration": "11m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232366",
+                        "preview": false
+                    },
+                    {
+                        "name": "Structures and Functions",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232368",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pointers to Structures",
+                        "duration": "2m 07s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232360",
+                        "preview": false
+                    },
+                    {
+                        "name": "Defining Enumerations",
+                        "duration": "3m 42s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232362",
+                        "preview": false
+                    },
+                    {
+                        "name": "Strongly Typed Enumerations",
+                        "duration": "1m 55s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232367",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232602",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Streams and Files",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 49s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232695",
+                        "preview": false
+                    },
+                    {
+                        "name": "Understanding Streams",
+                        "duration": "3m 30s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232688",
+                        "preview": false
+                    },
+                    {
+                        "name": "Writing to Streams",
+                        "duration": "2m 21s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232689",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reading from Streams",
+                        "duration": "4m 12s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232696",
+                        "preview": false
+                    },
+                    {
+                        "name": "Handling Input Errors",
+                        "duration": "5m 48s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232699",
+                        "preview": false
+                    },
+                    {
+                        "name": "File Streams",
+                        "duration": "0m 53s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232697",
+                        "preview": false
+                    },
+                    {
+                        "name": "Writing to Text Files",
+                        "duration": "6m 03s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232693",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reading from Text Files",
+                        "duration": "7m 31s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232698",
+                        "preview": false
+                    },
+                    {
+                        "name": "Writing to Binary Files",
+                        "duration": "6m 17s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232691",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reading from Binary Files",
+                        "duration": "2m 11s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232694",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with File Streams",
+                        "duration": "1m 41s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232690",
+                        "preview": false
+                    },
+                    {
+                        "name": "String Streams",
+                        "duration": "0m 39s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232687",
+                        "preview": false
+                    },
+                    {
+                        "name": "Converting Values to Strings",
+                        "duration": "3m 22s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232692",
+                        "preview": false
+                    },
+                    {
+                        "name": "Parsing Strings",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232700",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232703",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42232709",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 33s",
+                        "type": 1,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/42641196",
+                        "preview": false
+                    },
+                    {
+                        "name": "Feedback",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/ultimate-c-plus-plus-part2/lectures/43023568",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}

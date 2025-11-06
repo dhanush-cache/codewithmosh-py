@@ -1,0 +1,966 @@
+{
+    "course": {
+        "id": 1120640,
+        "name": "The Ultimate Git Course",
+        "slug": "the-ultimate-git-course",
+        "heading": "Everything you need to know to use Git & GitHub to work effectively as a team",
+        "promoVideoId": "rcaymk2b1x",
+        "promoVideoUrl": "https://res.cloudinary.com/codewithmosh/video/upload/v1684768834/promo-videos/git.mp4",
+        "isPublished": true,
+        "imageUrl": "https://uploads.teachablecdn.com/attachments/HAa9bj9BQwyMFiWvplhf_git2.jpg",
+        "hours": 6,
+        "lessons": 120,
+        "categories": [
+            6
+        ],
+        "level": "Beginner to Pro",
+        "type": "single",
+        "price": 49,
+        "turnOffSale": false,
+        "previewUrl": "https://codewithmosh.teachable.com/courses/the-ultimate-git-course/lectures/24393589",
+        "checkoutUrl": "https://sso.teachable.com/secure/146684/checkout/6141201/the-ultimate-git-course-1",
+        "coupons": [
+            {
+                "code": "MOSHBYTES",
+                "discount": 0.8
+            }
+        ],
+        "description": "The Ultimate Git Course is everything you need to know to work effectively with Git and GitHub, whether you’re managing personal projects or collaborating as part of a team. This course covers the essentials of version control, from setting up repositories and mastering Git commands to collaborating with others and conducting code reviews.\n\nYou’ll learn how to create branches, merge changes, and handle conflicts with ease. We’ll also dive into advanced techniques like rebasing, cherry-picking, and interactive staging—giving you the skills to manage your codebase like a pro. Plus, you’ll explore how to use Git tags and releases to manage versioning and project milestones.\n\nBy the end of this course, you’ll have the confidence to use Git and GitHub for efficient version control, collaboration, and code management, following the same industry best practices used by professional developers.",
+        "outcomes": [
+            "Understand the fundamentals of version control systems and the role of Git",
+            "Set up a Git repository and configure Git settings",
+            "Master essential Git commands for efficient version control and collaboration",
+            "Create branches, merge changes, and handle conflicts effectively",
+            "Utilize Git tags and releases for versioning and managing project milestones",
+            "Collaborate with others on GitHub",
+            "Conduct effective code reviews using pull requests",
+            "Learn advanced Git techniques such as rebasing, cherry-picking, and interactive staging",
+            "Apply industry best practices"
+        ],
+        "audience": [
+            "Developers who need to learn Git for the job",
+            "Freelancers who want to use Git to manage their personal projects",
+            "Anyone interested in contributing to open source projects",
+            "Anyone who wants to learn Git beyond the basic commands (add, commit, push)"
+        ],
+        "prerequisites": {
+            "courses": [],
+            "text": [
+                "This course covers everything you need to know to go from Git zero to Git hero. If you're already familiar with the basics of Git, you can use the course to fill in any gaps in your knowledge or explore specific topics in more depth.",
+                "The course is structured to make it easy to find the information you need, with clear explanations and examples that make even the most complex concepts easy to understand. So whether you're starting from scratch or building on your existing knowledge, this course will help you become a Git hero in no time."
+            ]
+        },
+        "cta": {
+            "heading": "The Complete Guide to Mastering Git",
+            "description": "Git is the #1 version control system used by developers and teams worldwide. Mastering Git is essential for writing clean, maintainable code and collaborating efficiently. This structured, hands-on course takes you from Git basics to advanced workflows—fast. No fluff. Just real-world Git skills."
+        },
+        "curriculum": [
+            {
+                "name": "Getting Started",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 39s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393589",
+                        "preview": true
+                    },
+                    {
+                        "name": "How to Take This Course",
+                        "duration": "0m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393585",
+                        "preview": true
+                    },
+                    {
+                        "name": "What is Git",
+                        "duration": "2m 31s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393586",
+                        "preview": true
+                    },
+                    {
+                        "name": "Using Git",
+                        "duration": "3m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393591",
+                        "preview": true
+                    },
+                    {
+                        "name": "Installing Git",
+                        "duration": "1m 27s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393587",
+                        "preview": true
+                    },
+                    {
+                        "name": "Configuring Git",
+                        "duration": "5m 04s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393590",
+                        "preview": true
+                    },
+                    {
+                        "name": "Getting Help",
+                        "duration": "0m 51s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393584",
+                        "preview": true
+                    },
+                    {
+                        "name": "Cheat Sheet",
+                        "duration": "0m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393588",
+                        "preview": false
+                    },
+                    {
+                        "name": "Follow Me Around",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/25353350",
+                        "preview": false
+                    },
+                    {
+                        "name": "Learning Paths",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/34609896",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Creating Snapshots",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393754",
+                        "preview": false
+                    },
+                    {
+                        "name": "Initializing a Repository",
+                        "duration": "2m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393749",
+                        "preview": false
+                    },
+                    {
+                        "name": "Git Workflow",
+                        "duration": "4m 35s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393738",
+                        "preview": false
+                    },
+                    {
+                        "name": "Staging Files",
+                        "duration": "3m 37s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393736",
+                        "preview": false
+                    },
+                    {
+                        "name": "Committing Changes",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393746",
+                        "preview": false
+                    },
+                    {
+                        "name": "Committing Best Practices",
+                        "duration": "1m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393752",
+                        "preview": false
+                    },
+                    {
+                        "name": "Skipping the Staging Area",
+                        "duration": "1m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393750",
+                        "preview": false
+                    },
+                    {
+                        "name": "Removing Files",
+                        "duration": "2m 02s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393753",
+                        "preview": false
+                    },
+                    {
+                        "name": "Renaming or Moving Files",
+                        "duration": "2m 17s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393751",
+                        "preview": false
+                    },
+                    {
+                        "name": "Ignoring Files",
+                        "duration": "6m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393740",
+                        "preview": false
+                    },
+                    {
+                        "name": "Short Status",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393743",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing Staged and Unstaged Changes",
+                        "duration": "4m 59s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393744",
+                        "preview": false
+                    },
+                    {
+                        "name": "Visual Diff Tools",
+                        "duration": "4m 53s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393739",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing History",
+                        "duration": "2m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393748",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing a Commit",
+                        "duration": "3m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393741",
+                        "preview": false
+                    },
+                    {
+                        "name": "Unstaging Files",
+                        "duration": "2m 50s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393737",
+                        "preview": false
+                    },
+                    {
+                        "name": "Discarding Local Changes",
+                        "duration": "1m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393745",
+                        "preview": false
+                    },
+                    {
+                        "name": "Restoring a File to an Earlier Version",
+                        "duration": "2m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393747",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Snapshots with VSCode",
+                        "duration": "1m 56s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393742",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating Snapshots with GitKraken",
+                        "duration": "3m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393755",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393894",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24393911",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Browsing History",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394023",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting a Repository",
+                        "duration": "0m 32s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394028",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing the History",
+                        "duration": "2m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394034",
+                        "preview": false
+                    },
+                    {
+                        "name": "Filtering the History",
+                        "duration": "4m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394027",
+                        "preview": false
+                    },
+                    {
+                        "name": "Formatting the Log Output",
+                        "duration": "3m 25s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394024",
+                        "preview": false
+                    },
+                    {
+                        "name": "Aliases",
+                        "duration": "2m 17s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394031",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing a Commit",
+                        "duration": "2m 13s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394035",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing the Changes Across Commits",
+                        "duration": "1m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394030",
+                        "preview": false
+                    },
+                    {
+                        "name": "Checking Out a Commit",
+                        "duration": "3m 40s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394037",
+                        "preview": false
+                    },
+                    {
+                        "name": "Finding Bugs Using Bisect",
+                        "duration": "4m 28s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394025",
+                        "preview": false
+                    },
+                    {
+                        "name": "Finding Contributors Using Shortlog",
+                        "duration": "1m 18s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394032",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing the History of a File",
+                        "duration": "1m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394029",
+                        "preview": false
+                    },
+                    {
+                        "name": "Restoring a Deleting File",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394022",
+                        "preview": false
+                    },
+                    {
+                        "name": "Finding the Author of Line Using Blame",
+                        "duration": "1m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394033",
+                        "preview": false
+                    },
+                    {
+                        "name": "Tagging",
+                        "duration": "2m 41s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394041",
+                        "preview": false
+                    },
+                    {
+                        "name": "Browsing History Using VSCode",
+                        "duration": "4m 25s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394026",
+                        "preview": false
+                    },
+                    {
+                        "name": "Browsing the History Using GitKraken",
+                        "duration": "5m 01s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394021",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394103",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394131",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394784",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Branching",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 42s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394230",
+                        "preview": false
+                    },
+                    {
+                        "name": "What are Branches",
+                        "duration": "2m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394225",
+                        "preview": false
+                    },
+                    {
+                        "name": "Getting a Repository",
+                        "duration": "0m 18s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394229",
+                        "preview": false
+                    },
+                    {
+                        "name": "Working with Branches",
+                        "duration": "5m 12s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394232",
+                        "preview": false
+                    },
+                    {
+                        "name": "Comparing Branches",
+                        "duration": "1m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394218",
+                        "preview": false
+                    },
+                    {
+                        "name": "Stashing",
+                        "duration": "4m 04s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394215",
+                        "preview": false
+                    },
+                    {
+                        "name": "Merging",
+                        "duration": "3m 21s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394222",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fast-forward Merges",
+                        "duration": "6m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394216",
+                        "preview": false
+                    },
+                    {
+                        "name": "Three-way Merges",
+                        "duration": "3m 16s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394219",
+                        "preview": false
+                    },
+                    {
+                        "name": "Viewing Merged and Unmerged Branches",
+                        "duration": "1m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394224",
+                        "preview": false
+                    },
+                    {
+                        "name": "Merge Conflicts",
+                        "duration": "5m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394217",
+                        "preview": false
+                    },
+                    {
+                        "name": "Graphical Merge Tools",
+                        "duration": "4m 58s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394233",
+                        "preview": false
+                    },
+                    {
+                        "name": "Aborting a Merge",
+                        "duration": "0m 41s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394221",
+                        "preview": false
+                    },
+                    {
+                        "name": "Undoing a Faulty Merge",
+                        "duration": "5m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394228",
+                        "preview": false
+                    },
+                    {
+                        "name": "Squash Merging",
+                        "duration": "5m 25s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394227",
+                        "preview": false
+                    },
+                    {
+                        "name": "Rebasing",
+                        "duration": "8m 24s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394220",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cherry Picking",
+                        "duration": "1m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394231",
+                        "preview": false
+                    },
+                    {
+                        "name": "Picking a File from Another Branch",
+                        "duration": "1m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394226",
+                        "preview": false
+                    },
+                    {
+                        "name": "Branching in VSCode",
+                        "duration": "9m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394214",
+                        "preview": false
+                    },
+                    {
+                        "name": "Branching in GitKraken",
+                        "duration": "4m 28s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394223",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394407",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394435",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394788",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Collaboration",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 46s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394581",
+                        "preview": false
+                    },
+                    {
+                        "name": "Workflows",
+                        "duration": "3m 57s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394587",
+                        "preview": false
+                    },
+                    {
+                        "name": "Creating a GitHub Repository",
+                        "duration": "2m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394595",
+                        "preview": false
+                    },
+                    {
+                        "name": "Adding Collaborators",
+                        "duration": "1m 03s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394592",
+                        "preview": false
+                    },
+                    {
+                        "name": "Cloning a Repository",
+                        "duration": "2m 52s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394599",
+                        "preview": false
+                    },
+                    {
+                        "name": "Fetching",
+                        "duration": "4m 34s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394582",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pulling",
+                        "duration": "3m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394588",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pushing",
+                        "duration": "2m 26s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394593",
+                        "preview": false
+                    },
+                    {
+                        "name": "Storing Credentials",
+                        "duration": "1m 45s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394590",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sharing Tags",
+                        "duration": "1m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394589",
+                        "preview": false
+                    },
+                    {
+                        "name": "Releases",
+                        "duration": "2m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394584",
+                        "preview": false
+                    },
+                    {
+                        "name": "Sharing Branches",
+                        "duration": "3m 21s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394586",
+                        "preview": false
+                    },
+                    {
+                        "name": "Collaboration Workflow",
+                        "duration": "6m 43s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394597",
+                        "preview": false
+                    },
+                    {
+                        "name": "Pull Requests",
+                        "duration": "8m 20s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394594",
+                        "preview": false
+                    },
+                    {
+                        "name": "Resolving Conflicts",
+                        "duration": "3m 28s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394604",
+                        "preview": false
+                    },
+                    {
+                        "name": "Issues",
+                        "duration": "2m 27s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394601",
+                        "preview": false
+                    },
+                    {
+                        "name": "Labels",
+                        "duration": "0m 48s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394596",
+                        "preview": false
+                    },
+                    {
+                        "name": "Milestones",
+                        "duration": "1m 42s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394585",
+                        "preview": false
+                    },
+                    {
+                        "name": "Contributing to Open-source Projects",
+                        "duration": "3m 54s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394591",
+                        "preview": false
+                    },
+                    {
+                        "name": "Keeping a Forked Repository Up to Date",
+                        "duration": "5m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394598",
+                        "preview": false
+                    },
+                    {
+                        "name": "Collaboration Using VSCode",
+                        "duration": "2m 33s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394600",
+                        "preview": false
+                    },
+                    {
+                        "name": "Collaboration Using GitKraken",
+                        "duration": "3m 06s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394583",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394627",
+                        "preview": false
+                    },
+                    {
+                        "name": "Exercises",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394635",
+                        "preview": false
+                    },
+                    {
+                        "name": "A Quick Note",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394799",
+                        "preview": false
+                    }
+                ]
+            },
+            {
+                "name": "Rewriting History",
+                "lessons": [
+                    {
+                        "name": "Introduction",
+                        "duration": "0m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394704",
+                        "preview": false
+                    },
+                    {
+                        "name": "Why Rewrite History",
+                        "duration": "1m 19s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394695",
+                        "preview": false
+                    },
+                    {
+                        "name": "The Golden Rule of Rewriting History",
+                        "duration": "3m 47s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394702",
+                        "preview": false
+                    },
+                    {
+                        "name": "Example of a Bad History",
+                        "duration": "2m 43s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394693",
+                        "preview": false
+                    },
+                    {
+                        "name": "Undoing Commits",
+                        "duration": "4m 55s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394690",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reverting Commits",
+                        "duration": "3m 29s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394701",
+                        "preview": false
+                    },
+                    {
+                        "name": "Recovering Lost Commits",
+                        "duration": "2m 36s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394694",
+                        "preview": false
+                    },
+                    {
+                        "name": "Amending the Last Commit",
+                        "duration": "3m 38s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394699",
+                        "preview": false
+                    },
+                    {
+                        "name": "Amending an Earlier Commit",
+                        "duration": "5m 44s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394703",
+                        "preview": false
+                    },
+                    {
+                        "name": "Dropping Commits",
+                        "duration": "4m 28s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394700",
+                        "preview": false
+                    },
+                    {
+                        "name": "Rewording Commit Messages",
+                        "duration": "1m 43s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394691",
+                        "preview": false
+                    },
+                    {
+                        "name": "Reordering Commits",
+                        "duration": "1m 22s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394697",
+                        "preview": false
+                    },
+                    {
+                        "name": "Squashing Commits",
+                        "duration": "3m 25s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394708",
+                        "preview": false
+                    },
+                    {
+                        "name": "Splitting a Commit",
+                        "duration": "3m 21s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394696",
+                        "preview": false
+                    },
+                    {
+                        "name": "Rewriting History Using GitKraken",
+                        "duration": "2m 08s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394692",
+                        "preview": false
+                    },
+                    {
+                        "name": "Summary",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394728",
+                        "preview": false
+                    },
+                    {
+                        "name": "Course Wrap Up",
+                        "duration": "0m 27s",
+                        "type": 1,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394698",
+                        "preview": false
+                    },
+                    {
+                        "name": "Thank You!",
+                        "duration": null,
+                        "type": 2,
+                        "href": "/courses/the-ultimate-git-course/lectures/24394767",
+                        "preview": false
+                    }
+                ]
+            }
+        ]
+    },
+    "trustpilotSummary": {
+        "links": [
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/reviews",
+                "rel": "business-units-reviews",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/business-units/5ec0ec95012e830001d918b3/web-links",
+                "rel": "business-units-web-links",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/strings/stars/4.5",
+                "rel": "resources-strings-stars",
+                "method": "GET"
+            },
+            {
+                "href": "https://api.trustpilot.com/v1/resources/images/stars/4.5",
+                "rel": "resources-images-stars",
+                "method": "GET"
+            }
+        ],
+        "score": {
+            "stars": 4.5,
+            "trustScore": 4.7
+        },
+        "websiteUrl": "https://codewithmosh.com",
+        "displayName": "Code with Mosh",
+        "name": {
+            "referring": [
+                "codewithmosh.com",
+                "www.codewithmosh.com"
+            ],
+            "identifying": "codewithmosh.com"
+        },
+        "status": "active",
+        "country": "US",
+        "id": "5ec0ec95012e830001d918b3",
+        "numberOfReviews": {
+            "total": 6800,
+            "usedForTrustScoreCalculation": 6069,
+            "oneStar": 163,
+            "twoStars": 87,
+            "threeStars": 195,
+            "fourStars": 687,
+            "fiveStars": 5668
+        },
+        "badFit": null
+    }
+}
