@@ -31,14 +31,11 @@ class CourseSerializer(ABC):
         get_videos(root: Path, bundle: "CourseBundle | None" = None) -> List[Path]:
             Abstract method to be implemented by subclasses to get video paths.
 
-        get_token() -> str:
-            Retrieves a token required for accessing course data.
-
         get_data() -> Dict[Any, Any]:
             Fetches course data from the Code with Mosh website.
 
-        get_json(url: str) -> Dict[Any, Any]:
-            Fetches and parses JSON data from the given URL.
+        get_page_props(url: str) -> Dict[Any, Any]:
+            Fetches and parses the __NEXT_DATA__ from the given URL and returns pageProps.
 
         __str__() -> str:
             Returns the course name with specified keywords removed.
@@ -86,74 +83,50 @@ class CourseSerializer(ABC):
     ) -> List[Path]:
         pass
 
-    @staticmethod
-    @cached(lambda: "token")  # cache file will be ./cache/token.json
-    def get_token() -> str:
-        """
-        Fetches a token from the specified URL.
-
-        This function sends a GET request to the URL "https://codewithmosh.com/",
-        parses the HTML content to find a specific tag with the id "__NEXT_DATA__",
-        and extracts the "buildId" from the JSON content of that tag.
-
-        Returns:
-            str: The extracted token (buildId).
-
-        Raises:
-            ValueError: If the token cannot be found in the HTML content.
-        """
-        url = "https://codewithmosh.com/"
-        response = requests.get(url)
-        soup = BeautifulSoup(response.content, "html.parser")
-        tag = soup.select_one("#__NEXT_DATA__")
-        if tag and tag.string:
-            return json.loads(tag.string)["buildId"]
-        raise ValueError("Cannot find the token")
-
     def get_data(self) -> Dict[Any, Any]:
         """
-        Fetches data from a dynamically constructed URL based on the token and slug.
+        Fetches data from a dynamically constructed URL based on the slug.
 
         Returns:
-            Dict[Any, Any]: The JSON response from the constructed URL.
+            Dict[Any, Any]: The pageProps from the scraped URL.
         """
-        url = (
-            f"https://codewithmosh.com/_next/data/{self.get_token()}/p/{self.slug}.json"
-        )
-        return self.get_json(url)
+        url = f"https://codewithmosh.com/p/{self.slug}"
+        return self.get_page_props(url)
 
     @staticmethod
     def __get_filename(url: str) -> str:
         """
-        Extract the last component of the URL path (without extension).
-        Example: "https://abc.com/a/b/c.json" -> "c"
+        Extract the last component of the URL path.
+        Example: "https://codewithmosh.com/p/course-name" -> "course-name"
         """
         parsed = urlparse(url)
         path: str = parsed.path
-        base: str = os.path.basename(path)
-        name, _ = os.path.splitext(base)
-        return name
+        return os.path.basename(path) or "index"
 
     @staticmethod
     @cached(__get_filename)
-    def get_json(url: str) -> Dict[Any, Any]:
+    def get_page_props(url: str) -> Dict[Any, Any]:
         """
-        Fetches JSON data from the given URL and returns the 'pageProps' content.
+        Fetches the given URL, parses the HTML to find __NEXT_DATA__,
+        and returns the 'pageProps' content.
 
         Args:
-            url (str): The URL to fetch the JSON data from.
+            url (str): The URL to fetch and scrape.
 
         Returns:
-            Dict[Any, Any]: The 'pageProps' content from the JSON response.
+            Dict[Any, Any]: The 'pageProps' content from the __NEXT_DATA__.
 
         Raises:
             requests.exceptions.RequestException: If there is an issue with the HTTP request.
-            json.JSONDecodeError: If the response content is not valid JSON.
-            KeyError: If 'pageProps' is not found in the JSON response.
+            ValueError: If __NEXT_DATA__ cannot be found.
         """
         response = requests.get(url)
         response.raise_for_status()
-        return json.loads(response.content)["pageProps"]
+        soup = BeautifulSoup(response.content, "html.parser")
+        tag = soup.select_one("#__NEXT_DATA__")
+        if tag and tag.string:
+            return json.loads(tag.string)["props"]["pageProps"]
+        raise ValueError(f"Cannot find the data in {url}")
 
     def __str__(self) -> str:
         name = f"{self.name}"
@@ -287,15 +260,14 @@ class CourseBundle(CourseSerializer):
         """
         Fetches and returns a list of Course objects.
 
-        This method constructs a URL using a token and retrieves a JSON response
-        containing course data. It then filters and returns a list of Course
-        objects for courses that are part of the bundle contents.
+        This method scrapes the course list from the Code with Mosh website
+        and returns a list of Course objects for courses that are part of the bundle.
 
         Returns:
             List[Course]: A list of Course objects.
         """
-        url = f"https://codewithmosh.com/_next/data/{self.get_token()}/courses.json"
-        courses = self.get_json(url)
+        url = "https://codewithmosh.com/courses"
+        courses = self.get_page_props(url)
         return [
             Course(course["slug"])
             for course in courses["courses"]
